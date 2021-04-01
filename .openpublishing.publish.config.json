@@ -22,8 +22,7 @@
     "v-hferrone@microsoft.com"
   ],
   "branches_to_filter": [
-    "live-sxs",
-    "main-sxs"
+    "live",
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
