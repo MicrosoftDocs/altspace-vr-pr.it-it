@@ -1,0 +1,32 @@
+---
+title: Come funziona targhette?
+description: Informazioni sui diversi tipi di targhette e sul loro funzionamento in AltspaceVR.
+ms.date: 02/10/2021
+ms.topic: article
+keywords: Domande frequenti
+ms.openlocfilehash: 396834a61c1b2cec03a917a2b156f84f2463dd90
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107212753"
+---
+# <a name="how-do-nametags-work"></a><span data-ttu-id="910d5-104">Come funziona targhette?</span><span class="sxs-lookup"><span data-stu-id="910d5-104">How do nametags work?</span></span>
+
+<span data-ttu-id="910d5-105">Se si vuole visualizzare il targhetta di un altro utente, selezionare il relativo avatar con il cursore e i relativi targhetta, quindi visualizzare sopra.</span><span class="sxs-lookup"><span data-stu-id="910d5-105">If you'd like to see another user's Nametag, select their avatar with your cursor and their Nametag will, then display above.</span></span>
+
+<span data-ttu-id="910d5-106">Verranno visualizzate alcune icone in targhetta: **Friend, Block** e **mute**.</span><span class="sxs-lookup"><span data-stu-id="910d5-106">You'll see a few icons on the Nametag: **Friend, Block,** and **Mute**.</span></span>
+
+* <span data-ttu-id="910d5-107">**Disattiva:** Facendo clic sull'icona di silenziamento è possibile disattivare un utente. si tratta di un silenziamento temporaneo che può essere riattivato in qualsiasi momento.</span><span class="sxs-lookup"><span data-stu-id="910d5-107">**Mute:** Clicking the Mute icon will allow you to mute a user, this is a temporary mute and you can unmute them at any time.</span></span> <span data-ttu-id="910d5-108">Se l'icona di disattivazione dell'utente è già rossa, significa che è stato disattivato.</span><span class="sxs-lookup"><span data-stu-id="910d5-108">If this users' mute icon is already red, it means they've muted themselves.</span></span>
+
+* <span data-ttu-id="910d5-109">**Blocca:** La funzionalità di blocco consente di rimuovere un utente dall'esperienza.</span><span class="sxs-lookup"><span data-stu-id="910d5-109">**Block:** The block feature will allow you to remove a user from your experience.</span></span> <span data-ttu-id="910d5-110">Non verrà più visualizzato o sentito l'utente e non verrà più visualizzato o ascoltato.</span><span class="sxs-lookup"><span data-stu-id="910d5-110">You'll no longer see or hear that user, and they'll no longer see or hear you.</span></span> <span data-ttu-id="910d5-111">Se è necessario sbloccare un utente, aprire il pannello amici in AltspaceVR, selezionare la scheda blocca, quindi sbloccare l'utente.</span><span class="sxs-lookup"><span data-stu-id="910d5-111">If you need to unblock a user, open up your Friends panel in AltspaceVR, select the block tab, then unblock the user.</span></span>
+
+* <span data-ttu-id="910d5-112">**Friending:** Il pulsante Friend invierà a tale utente una richiesta Friend, dopo che è stato aggiunto a un altro utente, è possibile inviarle messaggi tra gli spazi, vedere quando l'utente è online e accedere facilmente alla propria stanza.</span><span class="sxs-lookup"><span data-stu-id="910d5-112">**Friending:** The friend button will send that user a friend request, after Friending another user you can message them across spaces, see when that user is online, and easily join their room.</span></span> <span data-ttu-id="910d5-113">Il targhetta dell'utente includerà anche un bordo blu per poterlo riconoscere facilmente come un amico.</span><span class="sxs-lookup"><span data-stu-id="910d5-113">That user's Nametag will also include a blue border so you can easily recognize them as a friend.</span></span> <span data-ttu-id="910d5-114">Si noterà anche un contatore nella parte inferiore della relativa targhetta, che mostra la durata dell'utente che si è amici.</span><span class="sxs-lookup"><span data-stu-id="910d5-114">You'll also notice a counter at the bottom of their Nametag, which will show the duration that you've been friends with that user.</span></span>
+
+<span data-ttu-id="910d5-115">Quando si ospita un'attività personalizzata, si riceveranno altri strumenti per la moderazione.</span><span class="sxs-lookup"><span data-stu-id="910d5-115">When you host your own activity, you'll receive some other tools for moderation.</span></span> <span data-ttu-id="910d5-116">A questo punto è possibile fare in modo che gli utenti che non sono ancora amici siano in grado di avviare gli utenti.</span><span class="sxs-lookup"><span data-stu-id="910d5-116">You'll now have the ability to message users who you aren't yet friends with, and you'll also have the ability to Kick users.</span></span>
+
+* <span data-ttu-id="910d5-117">**Kick:** Se un utente interrompe l'attività, è sempre possibile usare il pulsante Kick (Avvia). in questo caso l'utente verrà rimosso dall'attività.</span><span class="sxs-lookup"><span data-stu-id="910d5-117">**Kick:** If a user interrupts your activity you can always use the Kick button, this will remove that user from your activity.</span></span> <span data-ttu-id="910d5-118">Dopo averli avviati, non saranno più in grado di partecipare all'attività corrente.</span><span class="sxs-lookup"><span data-stu-id="910d5-118">After being kicked they, they'll no longer be able to join your current activity.</span></span> 
+
+* <span data-ttu-id="910d5-119">**Badge amministratore:** AltspaceVR ha il personale a disposizione 24/7 nel falò per assisterti in VR.</span><span class="sxs-lookup"><span data-stu-id="910d5-119">**Admin Badge:** AltspaceVR has staff on hand 24/7 in The Campfire to assist you in VR.</span></span> <span data-ttu-id="910d5-120">Tutti i membri del personale che rappresentano AltspaceVR avranno il badge di amministratore Gold nella targhetta.</span><span class="sxs-lookup"><span data-stu-id="910d5-120">All staff members representing AltspaceVR will have the gold Admin Badge on their nametag.</span></span>
+
+<span data-ttu-id="910d5-121">Il nostro personale è qui per offrire supporto e assistenza, quindi è possibile chiedere loro eventuali domande.</span><span class="sxs-lookup"><span data-stu-id="910d5-121">Our staff is here to support and assist you, so please ask them any questions you might have!</span></span> 
