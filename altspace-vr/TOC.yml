@@ -1,0 +1,169 @@
+- name: Benvenuti in AltspaceVR
+  href: index.yml
+- name: Esplorazione di AltspaceVR
+  href: journey.md
+- name: Introduzione
+  expanded: true
+  items:
+    - name: Requisiti di sistema
+      href: getting-started/system-requirements.md
+    - name: Installazione di realtà mista di Windows
+      href: getting-started/wmr-installation.md
+    - name: Installazione di Oculus quest/quest 2
+      href: getting-started/oculus-installation.md
+    - name: Creazione dell'account
+      items:
+        - name: Registrazione di un account
+          href: getting-started/registration.md
+        - name: Collegamento di account Microsoft
+          href: getting-started/linking-microsoft-account.md
+    - name: Controlli di input
+      items:
+        - name: Controlli della realtà mista di Windows
+          href: getting-started/wmr-controls.md
+        - name: Controlli Oculus quest/quest 2
+          href: getting-started/oculus-controls.md
+        - name: Scelte rapide da tastiera
+          href: getting-started/keyboard-shortcuts.md
+        - name: Controllo degli avatar con mouse/tastiera in modalità PC 2D
+          href: getting-started/avatar-controls.md
+        - name: Uso di controlli Gamepad
+          href: getting-started/gamepad-controls.md
+- name: Individuare contenuti & persone
+  items:
+    - name: Esplorare la schermata del titolo
+      href: community/exploring-title-screen.md
+    - name: Abbonati alla newsletter
+      href: community/newsletter-subscriptions.md
+    - name: Coinvolgimento della community
+      items:
+        - name: Programma Community Helper
+          href: community/community-helper-program.md
+        - name: Guida dell'helper della community
+          href: community/community-helper-guide.md
+- name: Creazione di eventi di hosting &
+  items:
+    - name: Eventi di base
+      items:
+        - name: Configurazione di un evento
+          href: tutorials/creating-an-event.md
+        - name: 'Ruoli in eventi, mondi, gruppi e AltspaceVR'
+          href: getting-started/roles.md
+        - name: Requisiti per gli eventi principali
+          href: tutorials/main-events.md
+        - name: Uso delle funzionalità di gruppo
+          href: tutorials/group-features.md
+        - name: Ripristino degli eventi eliminati
+          href: tutorials/recovering-deleted-events.md
+    - name: Eventi avanzati
+      items:
+        - name: Scalabilità di gruppi di destinatari con FrontRow
+          href: faqs/scaling-audiences.md
+        - name: Proiettore Web
+          href: tutorials/web-projector-streaming.md
+        - name: Console multimediale
+          href: tutorials/multimedia-console.md
+        - name: Interactables spawner
+          href: tutorials/interactable-spawner.md
+        - name: Teletrasporti
+          href: tutorials/teleporting.md
+    - name: Strumenti di hosting
+      items:
+        - name: Panoramica
+          href: tutorials/host-tools-overview.md
+        - name: Eventi FrontRow
+          href: tutorials/host-tools-for-events.md
+- name: Controlli & personalizzazioni
+  items:
+    - name: Accesso anticipato
+      href: world-building/early-access.md
+    - name: Programma mondi beta
+      items:
+        - name: Creazione del mondo di base
+          items:
+            - name: Creazione di contenuto
+              href: community/creating-content.md
+            - name: Introduzione all'editor globale
+              href: world-building/world-editor-getting-started.md
+            - name: Miglioramento delle prestazioni
+              href: world-building/improving-performance.md
+            - name: Gestione dei tuoi mondi
+              href: world-building/managing-worlds.md
+            - name: Aggiunta di un messaggio di benvenuto
+              href: world-building/adding-welcome-messages.md
+            - name: Aggiunta di punti di spawn
+              href: world-building/adding-custom-spawn-points.md
+            - name: Backup dei mondi
+              href: world-building/backing-up-worlds.md
+            - name: Gestione di mondi con amici
+              href: world-building/granting-roles.md
+            - name: Assegnazione di capacità agli amici
+              href: world-building/adding-user-abilities.md
+        - name: Compilazione avanzata del mondo
+          items:
+            - name: World Building Toolkit (Uploader Unity)
+              href: world-building/world-building-toolkit-getting-started.md
+            - name: Uso delle estensioni di realtà mista
+              href: world-building/using-mixed-reality-extensions.md
+            - name: Caricamento di kit
+              href: world-building/uploading-custom-kits.md
+            - name: Importazione di modelli glTF
+              href: world-building/importing-models.md
+            - name: Caricamento di SKYBOX
+              href: world-building/uploading-custom-skyboxes.md
+        - name: Domande frequenti
+          items:
+            - name: Introduzione alla compilazione globale
+              href: world-building/world-building-getting-started.md
+            - name: Ottenere supporto per la compilazione globale
+              href: world-building/getting-help.md
+- name: Regole & standard
+  items:
+    - name: Condizioni del servizio
+      href: community/terms-of-service.md
+    - name: Standard della community
+      href: community/community-standards.md
+- name: Risoluzione dei problemi e supporto
+  items:
+    - name: Domande frequenti
+      items:
+        - name: Audio
+          items:
+            - name: La cuffia virtuale di VR dispone di un microfono incorporato?
+              href: faqs/vr-headset-mic.md
+            - name: È presente un pulsante push a Talk?
+              href: faqs/push-to-talk.md
+            - name: L'audio è frammentato
+              href: faqs/choppy-audio.md
+            - name: Altri utenti non possono ascoltarmi
+              href: faqs/other-users-cant-hear-me.md
+        - name: Account & avatar
+          items:
+            - name: Come funziona targhette?
+              href: faqs/nametags.md
+            - name: Ricerca per categorie modificare le informazioni sull'account?
+              href: faqs/updating-email-address.md
+        - name: Applicazione AltspaceVR
+          items:
+            - name: Ricerca per categorie trovare la versione dell'app AltspaceVR?
+              href: faqs/app-version.md
+            - name: Ricerca per categorie caricare i log del client?
+              href: faqs/uploading-client-logs.md
+            - name: Non è possibile avviare AltspaceVR
+              href: faqs/unable-to-launch.md
+        - name: Sicurezza & integrità
+          items:
+            - name: AltspaceVR causerà la malattia del movimento?
+              href: faqs/motion-sickness.md
+        - name: Eventi
+          items:
+            - name: Che cosa sono gli eventi FrontRow?
+              href: faqs/front-row-events.md
+- name: Contatti
+  items:
+    - name: Supporto
+      href: community/open-support-ticket.md
+    - name: Richieste di funzionalità
+      href: community/feature-requests.md
+    - name: Segnalazione di abusi dei documenti
+      href: community/filing-abuse-reports.md
