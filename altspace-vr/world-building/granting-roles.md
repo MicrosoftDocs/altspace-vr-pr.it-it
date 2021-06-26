@@ -1,62 +1,48 @@
 ---
-title: Concessione dei ruoli internazionali
-description: Informazioni sul sistema dei ruoli e delle funzionalità e istruzioni dettagliate per fornire agli utenti i ruoli nei AltspaceVR.
-ms.date: 03/11/2021
+title: Concessione di ruoli del mondo
+description: Informazioni sul sistema di ruoli e capacità e istruzioni dettagliate per fornire agli utenti ruoli nel mondo AltspaceVR.
+ms.date: 04/14/2021
 ms.topic: article
 keywords: Ruoli
-ms.openlocfilehash: f8cd55fbd8ede6cedd199724a3e6b2413c5bc3e6
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3a1d0f138b29fe545f52d851ff00062f156a860e
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212792"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923194"
 ---
-# <a name="granting-world-roles"></a>Concessione dei ruoli internazionali
+# <a name="granting-world-roles"></a>Concessione di ruoli del mondo
 
-Altspace dispone di un sistema Roles and Capacity. Ogni persona può avere più ruoli e i relativi ruoli possono essere diversi a seconda della posizione in cui si trovano. Ogni ruolo, a sua volta, offre una o più funzionalità. Ad esempio, quando ci si trova nel proprio evento, si ricevono automaticamente i ruoli **Presenter** e **Moderator** . Con questi due ruoli è possibile avviare gli utenti indisciplinati e forse rilasciare i coriandoli. 
+Altspace ha un sistema ruoli e capacità. Ogni persona può avere più ruoli e i relativi ruoli possono essere diversi a seconda della posizione. Ogni ruolo, a sua volta, offre una o più capacità. Ad esempio, quando si è nel proprio evento, si ricevono automaticamente i ruoli **host** **e moderatore.** Con questi due ruoli è possibile avviare utenti indisciplinati, essere sul palco e magari rilasciare i coriandoli.
 
-1. Modificare il mondo e scorrere verso il basso fino alla sezione **in VR** ([How to Manage Worlds](managing-worlds.md))
+1. Modificare il mondo e cercare ruoli contestuali nella colonna destra **(** Come [gestire Worlds](managing-worlds.md))
 
-![Modifica dei ruoli nella sezione VR del mondo](images/granting-roles.png)
+![Modifica dei ruoli nella sezione Ruoli contestuali dei mondi](images/granting-roles.png)
 
-2. Modificare il campo **ruoli** se si desidera concedere ruoli specifici a utenti specifici solo per questo mondo. Se, ad esempio, si desidera concedere a un moderatore **Presenter**  +   e a calen **Moderator**, aggiungere quanto segue e selezionare **Salva**. Il formato è **{Role}, {username o email}** in ogni riga. Il nome utente non distingue tra maiuscole e minuscole. 
+2. Fare **clic su Aggiungi** utente nel campo Ruoli **contestuali** per concedere ruoli specifici a utenti specifici solo per questo mondo. Ad esempio, se si vuole assegnare il **moderatore host,** è necessario aggiungere l'elemento precedente  +  e selezionare **Salva**. Il formato è **username,** username non fa distinzione tra maiuscole e minuscole, scegli il ruolo dal menu a discesa **Terraformer,** fai clic su Aggiungi utente più volte per mantenere l'aggiunta di altri utenti e quindi fai clic su **Aggiorna**.
 
-```
-presenter,jimmy
-moderator,jimmy
-moderator,calen
-```
+* Per fare in modo che la modifica abbia effetto in Altspace, è necessario reimpostare lo spazio nel mondo forzando tutti a ricongiungersi o a fare in modo che ogni utente con un nuovo ruolo si ricongiunti al mondo.
 
-3. Se si seleziona nuovamente **modifica** , verrà visualizzato quanto segue sopra il campo ruoli. Questo è il modo in cui si conosce l'aggiornamento nel database.
-
-```
-Presenters: jimmy
-Moderators: jimmy,calen
-```
-
-* Per rendere effettive le modifiche in Altspace, è necessario reimpostare il mondo, forzando la riaggiunta di tutti. Di seguito è riportato un elenco completo dei ruoli.
-
-4. Modificare il campo dei **ruoli contestuali** se si vuole concedere un ruolo a tutti gli utenti che si uniscono al mondo. Se, ad esempio, si desidera consentire agli utenti di volare e utilizzare il megafono in modo da poterli ascoltare a vicenda, aggiungere quanto segue:
+3. Modificare il **campo Ruoli contestuali** predefiniti, nella **sezione In VR,** se si vuole concedere un ruolo a ogni utente che si unisce al mondo. Ad esempio, se si vuole consentire agli utenti di usare il megafono per potersi ascoltare mentre sono in una parte lontana, aggiungere quanto segue:
 
 ```
 pilot,megaphone_only
 ```
 
-Dopo aver selezionato **Aggiorna**, reimpostare il mondo. Questa operazione avrà effetto solo su questo mondo. Se si vuole concedere i ruoli a un intero universo, modificare gli stessi campi nell'universo. 
+Dopo aver selezionato **Aggiorna**, Reimposta spazio nel mondo. Questo avrà effetto solo su questo mondo. Se si vogliono concedere ruoli a un intero universo, modificare gli stessi campi nell'universo. Lo stesso vale per gli eventi, se si vuole che tutti gli utenti dell'evento abbia questi ruoli, è necessario aggiungerli ai ruoli **contexuali** predefiniti dell'evento stesso.
 
-## <a name="roles"></a>Ruoli 
+## <a name="roles"></a>Ruoli
 
-* **Relatore** -capacità come essere in fase di esecuzione
-* **Moderatore** -capacità come **Kick** per la manutenzione del decoro
-* Responsabile della **bonifica** -possibilità di usare l'editor globale
-* **Progetto pilota** : possibilità di impostare la modalità di volo e generare lo strumento 6DOF Flight
-* **Megaphone_only** la possibilità di comunicare con le orecchie degli utenti ovunque si trovino nel mondo
-* **Showcase_new_sdk** la possibilità di generare app MRE SDK
+* **Megaphone_only:** possibilità di parlare alle orecchini degli utenti ovunque si trova nel mondo
+* **Moderatore:** capacità come **kick** per mantenere il decoro
+* **Pilota:** possibilità di attivare/disattivare la modalità fly e generare lo strumento di volo 6DOF
+* **Host:** capacità come la possibilità di essere sul palco, avere un megafono
+* **Terraformer:** possibilità di usare World Editor Altre informazioni su ([Ruoli in eventi, mondi, gruppi e in AltspaceVR](../getting-started/roles.md))
 
 ## <a name="troubleshooting"></a>Risoluzione dei problemi
 
-**È possibile eliminare I ruoli?**
-Non dal form in questo momento, quindi è possibile archiviare un Richiesta di supporto in help.altvr.com, che verrà preso in considerazione
+**È possibile eliminare i ruoli?**
+Sì, modificare il mondo, fare clic **su Rimuovi** sotto il ruolo che si desidera eliminare e fare clic su **Aggiorna**
 
 **I ruoli vengono copiati quando un mondo viene importato da un altro?**
 No, i ruoli non vengono copiati

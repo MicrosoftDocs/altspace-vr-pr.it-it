@@ -1,33 +1,33 @@
 ---
 title: Introduzione a World Building Toolkit
-description: Informazioni su come configurare e caricare i mondi AltspaceVR usando i modelli di scena Unity con il World Building Toolkit.
+description: Informazioni su come configurare e caricare i mondi AltspaceVR usando i modelli di scena unity con World Building Toolkit.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Toolkit
-ms.openlocfilehash: cf4660f46d93ca5c5f23de3f567ff04b12519617
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b41f02aec1077a37b95a6826c105e1cd31974e3
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212625"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923078"
 ---
 # <a name="introducing-the-world-building-toolkit"></a>Introduzione a World Building Toolkit
 
 > [!NOTE]
-> Il World Building Toolkit è un progetto della community eseguito dal nostro splendido amico, [Anthony Madden](https://twitter.com/chigamesstudio), con supporto da noi. Se si è interessati, partecipare alla [discordia ufficiale di AltspaceVR](https://discordapp.com/invite/altspacevr) e visitare il canale per la creazione di #world. Attualmente abbiamo una versione beta di valutazione Mac, [più dettagli](https://altvr.com/altspacevr-mac)
+> World Building Toolkit è un progetto della community gestito dal nostro straordinario [amico, Anthony Madden,](https://twitter.com/chigamesstudio)con il supporto di Microsoft. Se si è interessati, iscriversi al [disco ufficiale altspaceVR e](https://discordapp.com/invite/altspacevr) visitare il canale #world-building. Attualmente è disponibile una versione beta della versione di valutazione Mac, [altri dettagli](https://altvr.com/altspacevr-mac)
 
-Il caricatore consente di usare una scena Unity come modello per i mondi. È possibile portare in una casa ospitata per Halloween o la creazione preferita da Minecraft. Se è possibile importarlo in Unity, è possibile che si ottenga in Altspace in questo modo. Di seguito sono riportati alcuni [scenari di esempio](https://account.altvr.com/worlds/1046572460192825569).
+Uploader consente di usare una scena unity come modello per i mondi. È possibile ospitare una casa infestata per Halloween o la creazione preferita da Minecraft. Se è possibile importarlo in Unity, è possibile ottenerlo in Altspace in questo modo. Ecco alcuni esempi [di Worlds](https://account.altvr.com/worlds/1046572460192825569).
 
-![Scenari di esempio](images/unity-uploader-img-01.png)
+![Mondi di esempio](images/unity-uploader-img-01.png)
 
 ## <a name="setup"></a>Eseguire la configurazione
 
-1. Unisciti alla [discordia ufficiale di AltspaceVR](https://discordapp.com/invite/altspacevr) e visita il canale per la creazione di #world, non lasciare che gli amici creino solo i mondi.
-2. Leggi la nostra guida per la [creazione di introduzione](world-building-getting-started.md) per le nozioni di base
-3. [Installare Hub Unity](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) e installare **Unity 2019.4.2 F1**. Il caricatore non funzionerà a meno che non si corrisponda esattamente a questa versione. È necessario un account Unity gratuito se non ne è disponibile uno e scegliere **personale** perché si sta eseguendo questa operazione per divertimento. Durante l'installazione, assicurarsi di selezionare l'opzione **compilazioni Android** e disabilitare l'aggiornamento automatico.
-4. [Scaricare la versione più recente dell'Uploader Unity](https://aka.ms/AsvrCommunityUploader)
-5. [Creare un modello](https://account.altvr.com/space_templates/new) nel sito Web. Denominarlo **Hello World modello**.
-6. [Creare un mondo](https://account.altvr.com/worlds/my) e denominarlo **Hello World**. Selezionare **Hello World modello** come modello.
+1. Partecipa alla [discordia altspaceVR](https://discordapp.com/invite/altspacevr) ufficiale e visita il canale #world-building - Friends don't let friends build Worlds alone(Amici non lasciare che gli amici costruiscono worlds da soli).
+2. Per informazioni [di base, Attività iniziali](world-building-getting-started.md) guida alla creazione del mondo
+3. [Installare Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) e **Unity 2020.3.9.** Il caricatore non funzionerà a meno che non si corrisponda esattamente a questa versione. Sarà necessario un account Unity gratuito se non è disponibile e scegliere **Personale** perché si sta eseguendo questa operazione per divertimento. Durante l'installazione, assicurarsi di selezionare **l'opzione Compilazioni Android** e disabilitare l'aggiornamento automatico.
+4. [Scaricare la versione più recente di Unity Uploader](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
+5. [Creare un modello nel](https://account.altvr.com/space_templates/new) sito Web. Assegnare **al Hello World il nome .**
+6. [Creare un world](https://account.altvr.com/worlds/my) e assegnare il **nome Hello World**. Selezionare **Hello World modello** come modello.
 
 ![Schermata del mondo creata](images/unity-uploader-img-02.png)
 
@@ -35,64 +35,64 @@ Il caricatore consente di usare una scena Unity come modello per i mondi. È pos
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
-1. Aprire Hub Unity e creare un nuovo progetto Unity 2019.4.2 F1.
-2. Con il progetto aperto, importare il caricatore facendo doppio clic sul file scaricato (si tratta di un pacchetto Unity). A questo punto verrà visualizzata una nuova scheda denominata **AltspaceVR**. È necessario importare il pacchetto per ogni progetto Unity che si vuole usare con Altspace
-3. Aprire il **Menu > AltspaceVR > impostazioni di compilazione**
+1. Aprire Unity Hub e creare un nuovo progetto Unity 2020.3.9.
+2. Con il progetto aperto, importare il caricatore facendo doppio clic sul file scaricato (si tratta di un pacchetto Unity). Verrà ora visualizzata una nuova scheda denominata **AltspaceVR**. È necessario importare il pacchetto per ogni progetto Unity che si vuole usare con Altspace
+3. Aprire **il menu > altspaceVR > impostazioni di compilazione**
 4. Accedere con le credenziali dell'account Altspace
-5. Selezionare **Carica modelli** e quindi selezionare **Hello World modello**
-6. Aggiungere un cubo alla scena e salvarlo.
-7. Controllare **Compila per Windows?** e deselezionare **Compila per Android?**
-8. Selezionare **Carica**. In circa un minuto dovrebbe essere visualizzato il **caricamento** completato.
-9. Unisciti a **Hello World** avviando Altspace e immettendo da **menu > Worlds > My Worlds**
-10. Reimposta il mondo dal **Menu > impostazioni > modera > Reimposta spazio**
-11. Il cubo verrà visualizzato. Se si esegue questa operazione velocemente come nel video precedente, è possibile visualizzare le modifiche entro un minimo di 10 secondi.
+5. Selezionare **Carica modelli** e quindi selezionare Hello World **modello**
+6. Aggiungere un cubo alla scena e salvare.
+7. Selezionare **Compila per Windows?** e deselezionare **Compila per Android?**
+8. Selezionare **Carica**. In circa un minuto dovrebbe essere visualizzato **Caricamento** completato.
+9. Partecipare **Hello World** avviare Altspace ed entrare da **Menu > Worlds > My Worlds**
+10. Reset the World from **Menu > Settings > Moderate > Reset Space**
+11. Verrà visualizzato il cubo. Se lo si fa velocemente come nel video precedente, è possibile visualizzare le modifiche entro un massimo di 10 secondi.
 
 ## <a name="whats-supported"></a>Attività supportate
 
-* Sì: modelli, collisioni, animazioni, effetti particellari, audio, Skybox e così via
+* Sì: modelli, collisioni, animazioni, effetti delle particelle, audio, skybox e così via
 * No: script. Per motivi di sicurezza, i caricamenti contenenti script verranno rifiutati
-* Forse: le cose più fantasiose come l'illuminazione globale dinamica
-* Caricare scene per diverse piattaforme separatamente o insieme
-* Vedi i [mondi in primo piano](https://account.altvr.com/worlds/featured), molti sono stati creati usando l'Uploader
+* Forse: cose fantasiose come l'illuminazione globale dinamica
+* Caricare scene per piattaforme diverse separatamente o insieme
+* Vedere [Mondo in primo piano,](https://account.altvr.com/worlds/featured)molti sono stati creati con uploader
 
 ## <a name="tips"></a>Suggerimenti
 
-* Partecipare alla [discordia ufficiale di AltspaceVR](https://discordapp.com/invite/altspacevr).
-* Nella pagina modello sul lato sinistro vengono mostrati i caricamenti più recenti per piattaforma. In caso di esito positivo, verrà visualizzato **1-2 minuti fa**. Screen_Shot_2019-01-11 _at_1.21.04_AM.png
+* Partecipare alla [discordia altspaceVR ufficiale.](https://discordapp.com/invite/altspacevr)
+* Nella pagina Modello sul lato sinistro vengono visualizzati i caricamenti più recenti in base alla piattaforma. Se l'operazione ha avuto esito positivo, vengono visualizzati **1-2 minuti fa.** Screen_Shot_2019-01-11 _at_1.21.04_AM.png
 
-![Pannello modelli aperto con caricamenti evidenziati](images/unity-uploader-img-03.png)
+![Pannello Modelli aperto con i caricamenti evidenziati](images/unity-uploader-img-03.png)
 
-* Quando si esegue l'aggiornamento, è possibile essere in tutto il mondo. Nel momento in cui il **caricamento** è stato completato, è possibile reimpostare il mondo per visualizzare le modifiche.
-* La compilazione per solo PC con una semplice scena dovrebbe richiedere meno di un minuto per visualizzare una modifica in Altspace
-* Impostare il mondo in modo che sia privato e non in elenco per evitare distrazioni.
-* Posizionare un cubo nell'origine in modo da visualizzare la posizione in cui le persone genereranno per impostazione predefinita. Nascondere il cubo durante il caricamento.
+* È possibile essere nel mondo quando si esegue l'aggiornamento. Nel momento in cui il **caricatore dice Caricamento completato,** è possibile reimpostare il mondo per visualizzare le modifiche.
+* La compilazione solo per PC con una scena semplice richiede meno di 1 minuto per visualizzare una modifica in Altspace
+* Impostare World su Private e Unlisted per evitare distrazioni.
+* Posizionare un cubo all'origine in modo da visualizzare la posizione in cui verranno generati gli utenti per impostazione predefinita. Nascondere il cubo durante il caricamento.
 
 ## <a name="troubleshooting"></a>Risoluzione dei problemi
 
-Sono in **calo o non è possibile teletrasportarsi su nulla** È necessario aggiungere una collisione agli oggetti per teletrasportarsi su di essi.
+**Sto cadendo o non riesco a teletrasportarmi su nulla** È necessario aggiungere la collisione agli oggetti per teletrasportarli.
 
-**Niente modificato**
-    * La scena è stata salvata in Unity?
-    * Hai scelto la piattaforma su cui stai testando?
-    * Sei nel mondo giusto? È stato scelto il modello appropriato nell'Uploader e nel modulo mondiale?
-    * Sono state controllate le statistiche della pagina del modello?
+**Non è cambiato nulla**
+    * La scena è stata salvato in Unity?
+    * È stata scelta la piattaforma su cui si sta testando?
+    * Sei nel mondo giusto? È stato scelto il modello giusto nel modulo Uploader AND in the World?
+    * Sono stati controllate le statistiche della pagina Modello?
 
-**Il caricamento ha esito negativo o scade**
-    * L'errore di caricamento più comune è la versione di Unity non corretta. Deve corrispondere esattamente alla versione richiesta.
-    * Il caricamento potrebbe essere troppo grande. Provare a lasciare le scene del PC < 100 MB. Avvia Small e compila. Ottimizza, ottimizza, ottimizza.
-    * Provare con un nuovo progetto con un semplice cubo.
-    * Non forzare l'uscita durante una compilazione. può danneggiare la scena. Provare a ricaricare.
+**Il caricamento non riesce o si verifica il timeout**
+    * L'errore di caricamento più comune è la versione di Unity errata. Deve corrispondere esattamente alla versione richiesta.
+    * Il caricamento potrebbe essere troppo grande. Provare a mantenere le scene del PC < 100 MB. Iniziare con piccole dimensioni e sviluppare. Ottimizzare, ottimizzare, ottimizzare.
+    * Provare con un nuovo progetto con un cubo semplice.
+    * Non forzare l'uscita durante una compilazione. Può danneggiare la scena. Provare a ricaricare.
 
 **Si tratta di un processo lento**
-    * Si consiglia di compilare per PC solo durante l'iterazione e per Android in un secondo momento.
-    * Provare a rimuovere i file inutilizzati. Per qualsiasi motivo, Unity diventa troppo zelante a volte.
+    * È consigliabile compilare solo per PC durante l'iter e per Android in un secondo momento.
+    * Provare a rimuovere i file inutilizzati. Per qualsiasi motivo Unity diventa troppo zealous a volte.
 
-**Non riesco ad accedere con le credenziali di Altspace**
-    * Le lettere maiuscole
+**Non è possibile accedere con le credenziali altspace**
+    * Per i messaggi di posta elettronica viene fatto distinzione tra maiuscole e minuscole.
     * Provare con un nuovo progetto.
-    * Assicurarsi che l'account Altspace sia in una posizione corretta.
+    * Assicurarsi che l'account Altspace sia in regola.
 
-## <a name="see-also"></a>Vedi anche
+## <a name="see-also"></a>Vedere anche
 
-* [Apprendimento per Unity](https://unity3d.com/learn)
+* [Unity Learn](https://unity3d.com/learn)
 * [Forum di Unity](https://forum.unity.com)

@@ -1,10 +1,10 @@
 ### YamlMime:Hub
-title: Benvenuto in AltspaceVR!
-summary: Esplora il mondo in espansione degli eventi VR con AltspaceVR.
+title: Benvenuti in AltspaceVR.
+summary: Esplora il mondo in espansione degli eventi di realtà virtuale con AltspaceVR.
 brand: windows
 metadata:
-  title: Benvenuto in AltspaceVR!
-  description: Esplora il mondo in espansione degli eventi VR con AltspaceVR.
+  title: Benvenuti in AltspaceVR.
+  description: Esplora il mondo in espansione degli eventi di realtà virtuale con AltspaceVR.
   services: mixed-reality
   ms.service: mixed-reality
   ms.topic: hub-page
@@ -13,16 +13,16 @@ metadata:
   ms.date: 02/10/2021
 highlightedContent:
   items:
-    - title: Introduzione
+    - title: Guida introduttiva
       itemType: get-started
-      url: getting-started/system-requirements.md
-    - title: Individuare contenuti & persone
+      url: journey.md
+    - title: Individuare il contenuto & persone
       itemType: overview
       url: getting-started/system-requirements.md
     - title: Creazione di eventi
       itemType: how-to-guide
       url: tutorials/creating-an-event.md
-    - title: Creazione di mondi
+    - title: Creazione di un mondo
       itemType: learn
       url: world-building/world-editor-getting-started.md
     - title: Primi acccess
@@ -33,63 +33,61 @@ highlightedContent:
       url: faqs/vr-headset-mic.md
 productDirectory:
   title: Introduzione
-  summary: 'USA AltspaceVR per ospitare eventi, creare mondi virtuali e interagire con gli utenti remoti e le community in tutto il mondo.'
+  summary: 'Usare AltspaceVR per ospitare eventi, creare ambienti virtuali e interagire con utenti e community remoti in tutto il mondo.'
   items:
     - title: Installazione e configurazione
       imageSrc: images/icon-discovery.png
       links:
-        - url: getting-started/registration.md
-          text: Registrazione di un account
-        - url: getting-started/linking-microsoft-account.md
-          text: Collegamento di account Microsoft
+        - url: getting-started/creating-and-linking-accounts.md
+          text: Creazione e collegamento dell'account
         - url: getting-started/wmr-installation.md
-          text: Installazione di realtà mista di Windows
+          text: Windows Mixed Reality installazione
         - url: getting-started/wmr-controls.md
-          text: Controlli della realtà mista di Windows
+          text: Windows Mixed Reality controlli
         - url: getting-started/oculus-installation.md
-          text: Installazione di Oculus quest
+          text: Installazione di Oculus Quest
         - url: getting-started/oculus-controls.md
-          text: Installazione di Oculus quest
-    - title: Creazione di eventi di hosting &
+          text: Controlli Oculus Quest
+    - title: Creazione di & eventi di hosting
       imageSrc: images/icon-events.png
       links:
         - url: tutorials/creating-an-event.md
           text: Creazione di un evento
         - url: getting-started/roles.md
-          text: 'Ruoli in eventi, mondi e gruppi'
+          text: 'Ruoli in eventi, mondo e gruppi'
         - url: tutorials/main-events.md
           text: Requisiti per gli eventi
         - url: faqs/scaling-audiences.md
-          text: Scalabilità di gruppi di destinatari
+          text: Ridimensionamento dei destinatari
         - url: tutorials/multimedia-console.md
-          text: Uso della console multimediale
+          text: Uso della console Multimediali
         - url: tutorials/host-tools-overview.md
           text: Panoramica degli strumenti host
-    - title: Compilazione globale
+    - title: Edificio mondiale
       imageSrc: images/icon-worlds.png
       links:
         - url: world-building/world-editor-getting-started.md
-          text: Esplora l'editor del mondo
+          text: Esplorare World Editor
         - url: world-building/managing-worlds.md
-          text: Gestione di mondi
+          text: Gestione di un mondo
         - url: world-building/adding-custom-spawn-points.md
-          text: Aggiunta di punti di spawn
+          text: Aggiunta di punti di generazione
         - url: world-building/adding-user-abilities.md
-          text: Assegnazione delle funzionalità agli utenti
+          text: Offrire agli utenti le capacità
         - url: world-building/world-building-toolkit-getting-started.md
-          text: Toolkit per la compilazione globale
+          text: World Building Toolkit
         - url: world-building/using-mixed-reality-extensions.md
           text: Uso delle estensioni di realtà mista
 additionalContent:
   sections:
     - title: Risorse aggiuntive
-      summary: Serve assistenza o supporto tecnico?
+      summary: Serve aiuto o supporto?
       items:
         - title: Community
           links:
-            - text: Abbonati alla newsletter
+            - text: Iscriversi alla newsletter
               url: community/newsletter-subscriptions.md
-            - text: Programma Community Helper
+            - text: Programma helper della community
               url: community/community-helper-program.md
             - text: Guida dell'helper della community
               url: community/community-helper-guide.md
@@ -99,7 +97,7 @@ additionalContent:
               url: faqs/vr-headset-mic.md
             - text: Account e avatar
               url: faqs/nametags.md
-            - text: Applicazione AltspaceVR
+            - text: AltspaceVR - applicazione
               url: faqs/app-version.md
             - text: Sicurezza & integrità
               url: faqs/motion-sickness.md
@@ -111,5 +109,5 @@ additionalContent:
               url: community/open-support-ticket.md
             - text: Richieste di funzionalità
               url: community/feature-requests.md
-            - text: Segnalazione di abusi dei documenti
+            - text: Compilare report sugli abusi
               url: community/filing-abuse-reports.md

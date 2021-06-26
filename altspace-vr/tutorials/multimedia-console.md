@@ -1,112 +1,116 @@
 ---
 title: Uso della console multimediale
-description: Informazioni su come iniziare a configurare, pubblicare e controllare la console multimediale nelle esperienze di AltspaceVR.
+description: Informazioni su come iniziare a configurare, pubblicare e controllare la console multimediale nelle esperienze altspaceVR.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: Console, Multimedia
-ms.openlocfilehash: 601328eb6f266dbcfc9d81fc4f1c2d09ac62b318
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: console, elementi multimediali
+ms.openlocfilehash: 4a51ff76e44d3870972bc17288ae77c1fa888922
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212840"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923008"
 ---
 # <a name="using-the-multimedia-console"></a>Uso della console multimediale
 
-La console multimediale è uno strumento che consente la condivisione di contenuti multimediali in eventi e mondi. È possibile usarlo per condividere elementi quali immagini, diapositive di presentazione, Livestream, video, playlist e altro ancora. Di seguito sono riportate istruzioni dettagliate su come usare la console multimediale **v 0.5.0 +**. 
+La console multimediale è uno strumento che consente la condivisione di contenuti multimediali in eventi e mondo. È possibile usarlo per condividere elementi come immagini, diapositive di presentazione, livestream, video, playlist e altro ancora. Di seguito è riportata un'istruzione dettagliata su come usare la console multimediale **v0.5.0+**. 
 
-## <a name="getting-started"></a>Introduzione
+## <a name="getting-started"></a>Guida introduttiva
 
-La Guida introduttiva alla console multimediale è un processo in due parti.  Per prima cosa, è disponibile il portale Web che verrà usato per generare e pubblicare una configurazione per la sessione della console multimediale che viene posizionata nell'ambiente.  Il secondo è la posizione dell'app console multimediale effettiva nell'ambiente e l'impostazione del codice di configurazione da usare.
+L'introduzione alla console multimediale è un processo in due parti.  Prima di tutto è presente il portale Web che verrà utilizzato per generare e pubblicare una configurazione per la sessione della console multimediale che viene posizionata nell'ambiente.  Il secondo è il posizionamento dell'app Console multimediale effettiva nell'ambiente e l'impostazione del codice di configurazione che deve usare.
 
-### <a name="configuring-the-multimedia-console-with-the-web-portal"></a>Configurazione della console multimediale con il portale Web
+### <a name="configuring-the-multimedia-console-with-the-web-portal"></a>Configurazione della console Multimediale con il portale Web
 
-1. Prima di tutto, è necessario assicurarsi che il contenuto sia ospitato online perché è necessario un URL. (È possibile caricare le foto in altvr.com, ospitare un file video. MP4 in linea o usare il collegamento di streaming live: https://www.twitch.tv/ninja) 
-2. Passare al portale Web per la console multimediale all'indirizzo [https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)
-3. Dal portale Web è possibile generare e pubblicare una configurazione per la console multimediale.  (Vedere di seguito per informazioni dettagliate sulle varie proprietà).
-4. Dopo aver immesso il supporto nell'elenco dei supporti e aver configurato le impostazioni generali, selezionare il pulsante pubblica nella parte superiore destra dell'app.
-5. Una volta completata la pubblicazione, viene visualizzata una finestra di dialogo con un codice di due parole per poter accedere alla console multimediale inserita.
+1. Prima di tutto, è necessario assicurarsi che il contenuto sia ospitato online perché è necessario un URL. È possibile caricare foto in un altvr.com, ospitare un file di .mp4 video online o usare un collegamento di streaming live Dlive: https://dlive.tv/yourlivestream) 
+2. Passare al portale Web per la Console multimediale all'indirizzo [https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)
+3. Dal portale Web è possibile generare e pubblicare una configurazione per la console multimediale.  Per informazioni dettagliate sulle varie proprietà, vedere di seguito.
+4. Dopo aver immesso i file multimediali nell'elenco dei file multimediali e aver configurato le impostazioni generali, selezionare il pulsante Pubblica nella parte superiore destra dell'app.
+5. Al termine della pubblicazione, verrà visualizzata una finestra di dialogo con un codice di due parole da immettere nella console multimediale inserita.
   
-### <a name="placing-the-multimedia-console-in-your-environment"></a>Inserimento della console multimediale nell'ambiente
+### <a name="placing-the-multimedia-console-in-your-environment"></a>Inserimento della console Multimediale nell'ambiente
 
-1. Selezionare nel **Pannello editor > editor del mondo > App SDK > console multimediale**. Non passare all' **editor globale > nozioni di base > App SDK**, ovvero per le app non registrate.  
-2. Posizionare la console multimediale per la migliore suite di spazio e destinatari.
-3. Per uscire dalla modalità di modifica, fare clic sul pulsante arancione della modalità di modifica.
-4. Verrà richiesto di immettere **il proprietario del Media Player?** Se si è l'utente che deve essere il proprietario ufficiale della sessione della console multimediale, confermare e continuare. Sono disponibili anche altri ruoli con autorizzazioni. Per un elenco dettagliato, vedere di seguito.
-5. Selezionare Sì per confermare che si è l'host primario.  
-6. Verrà visualizzata una finestra di dialogo che richiede di immettere un codice dal portale Web o da JSON valido.  Immettere il codice di due parole dal portale Web, incluso il trattino, e fare clic su OK. (JSON è una configurazione avanzata descritta di seguito)
-7. La console multimediale dovrebbe essere caricata dopo alcuni secondi con la configurazione creata nel portale Web.
+1. Selezionare World **Editor > Editor Panel > SDK Apps > Multimedia Console**. Non passare a World Editor > **Basics > SDK App**(Per le app non registrate).  
+2. Posizionare la console multimediale in modo che sia la soluzione migliore per lo spazio e il pubblico.
+3. Uscire dalla modalità di modifica facendo clic sul pulsante arancione Modalità di modifica.
+4. Verrà chiesto Se si è il **proprietario del lettore multimediale,** Se si è la persona che deve essere il proprietario ufficiale di questa sessione della console multimediale, confermare e continuare. Sono disponibili anche altri ruoli con autorizzazioni. Per un elenco dettagliato, vedere di seguito.
+5. Selezionare Sì per confermare di essere l'host primario.  
+6. Verrà visualizzata una finestra di dialogo in cui viene chiesto di immettere un codice dal portale Web o un codice JSON valido.  Immettere il codice delle due parole dal portale Web, incluso il trattino, e fare clic su OK. (JSON è una configurazione avanzata descritta di seguito)
+7. La Console multimediale dovrebbe essere caricata dopo alcuni secondi con la configurazione creata nel portale Web.
 
-### <a name="controlling-the-multimedia-console"></a>Controllo della console multimediale
+### <a name="controlling-the-multimedia-console"></a>Controllo della console Multimediale
 
-1. Dopo aver inserito il codice e completato il processo di configurazione, verranno visualizzati i pulsanti di controllo sotto uno schermo multimediale. 
-    * **Play** avvia il Visualizzatore multimediale (o riavvia in corrispondenza della voce corrente, se in precedenza è stato arrestato) 
-    * **Stop** arresta il Visualizzatore multimediale e nasconde i supporti correnti.  
-    * **Avanti/indietro** ignora i supporti successivi o precedenti 
-    * **x/x**   Mostra l'indice corrente nell'elenco dei supporti e consente di passare a un punto qualsiasi dell'elenco
-    * **Config** consente di reimmettere un nuovo codice dal portale Web per impostare una nuova configurazione nella console di. 
+1. Dopo aver immesso il codice e completato il processo di configurazione, i pulsanti di controllo verranno visualizzati sotto uno schermo multimediale. 
+    * **Riproduci** avvia il visualizzatore multimediale (o viene riavviato alla voce corrente, se precedentemente arrestato) 
+    * **Arresta** arresta il visualizzatore multimediale e nasconde i file multimediali correnti.  
+    * **Next/Prev (Avanti/Prev)** passa al supporto successivo o precedente 
+    * **x/x**   mostra l'indice corrente nell'elenco dei supporti e consente di passare a qualsiasi punto dell'elenco
+    * **Config** consente di rientrare in un nuovo codice dal portale Web per impostare una nuova configurazione nella console. 
 
 A questo punto è possibile iniziare la condivisione tramite la console multimediale.  
  
 ## <a name="working-with-the-web-portal"></a>Uso del portale Web
 
-Il portale Web è un'app Web che consente di configurare le varie funzionalità della console multimediale.  Queste funzionalità rientrino in due categorie: impostazioni generali della console multimediale e Media Play List.
+Il portale Web è un'app Web che consente di configurare le varie funzionalità della console multimediale.  Queste funzionalità rientrano in due categorie: impostazioni generali della console multimediale e l'elenco di riproduzione multimediale.
 
 ### <a name="multimedia-console-general-settings"></a>Impostazioni generali della console multimediale
 
 **Impostazioni di riproduzione**
 
-Impostazioni di riproduzione generale per l'elenco dei supporti
+Impostazioni generali di riproduzione per l'elenco di file multimediali
 
-* **Elenco supporti ciclo**: determina se l'elenco dei supporti deve essere in loop una volta raggiunta la fine dell'elenco.
-* **Metodo Start** : seleziona il metodo in base al quale deve essere avviata la console multimediale.
-    * Manual: attende che venga premuto il pulsante Play prima di avviare il supporto
-    * Avvio automatico dall'inizio-avvio automatico dell'elenco dei supporti dall'inizio dell'elenco
-    * Avvio automatico casuale: avvia automaticamente il supporto da un punto di partenza casuale nell'elenco
+* **Loop Media List**(Ciclo elenco supporti) - Determina se l'elenco di supporti deve essere in ciclo quando si raggiunge la fine dell'elenco.
+* **Metodo start:** seleziona il metodo con cui deve essere avviata la console multimediale.
+    * Manuale: attende che il pulsante di riproduzione venga premuto prima di avviare il supporto
+    * Avvio automatico dall'inizio: avvia automaticamente l'elenco di supporti dall'inizio dell'elenco
+    * Avvio automatico casuale: avvia automaticamente i supporti da un punto iniziale casuale nell'elenco
 
 **Ruoli**
 
-Assegnazioni di ruolo per il controllo e la configurazione della console multimediale.    Questi ruoli sono suddivisi nel seguente set:
+Assegnazioni di ruolo per il controllo e la configurazione della Console multimediale.    Questi ruoli sono suddivisi nel set seguente:
 
-* **Solo proprietario** : l'utente proprietario della sessione della console multimediale
-* **Utenti con privilegi elevati** : utenti con ruoli di moderatore, host o Presenter nello spazio in cui la console multimediale è configurata originariamente
-* **Tutti gli utenti** -tutti gli utenti
+* **Solo proprietario:** l'utente proprietario della sessione della console multimediale
+* **Utenti con privilegi elevati:** utenti che dispongono di ruoli di moderatore o host nello spazio in cui è configurata la console multimediale in origine
+* **Tutti gli utenti** - Tutti gli utenti
 
-Questo stack di ruoli nel senso che a tutti i ruoli sopra a quello scelto in questo elenco verrà inoltre concessa l'autorizzazione per l'utilizzo di tale funzionalità.  Esempio: **gli utenti con privilegi elevati** includono il **proprietario** anche se non sono un moderatore, un host o un presentatore * * in AltspaceVR. Di seguito sono riportate le funzionalità controllate dalle assegnazioni di ruolo
+Questi ruoli si accumulano nel senso che a tutti i ruoli al di sopra di quello scelto in questo elenco verrà concessa anche l'autorizzazione per l'uso di tale funzionalità.  Esempio: **Gli utenti con privilegi elevati** includono il **proprietario** anche se non sono moderatori o host** in AltspaceVR. Le funzionalità controllate dalle assegnazioni di ruolo sono le seguenti:
 
-* **Consente di controllare il lettore multimediale** : determina quali ruoli possono controllare i pulsanti di riproduzione dei supporti per la console multimediale
-* **Può configurare Media Player** : determina i ruoli che possono configurare la console multimediale, a cui viene concesso l'accesso al pulsante **config**
+* **Può controllare il lettore multimediale:** determina quali ruoli possono controllare i pulsanti di riproduzione multimediale per la console multimediale
+* **Può configurare il lettore multimediale:** determina i ruoli che possono configurare la console multimediale tramite la concessione dell'accesso al **pulsante Config**
 
-### <a name="adding-photos-and-videos-to-the-media-list"></a>Aggiunta di foto e video all'elenco dei supporti
+### <a name="adding-photos-and-videos-to-the-media-list"></a>Aggiunta di foto e video all'elenco di contenuti multimediali
 
-Il supporto è il fulcro della console multimediale.  Le immagini e i collegamenti video sono supportati come tipi di supporto all'interno della console multimediale.  Per aggiungere nuovi supporti, selezionare le icone **Aggiungi immagine** o **Aggiungi video** per visualizzare le informazioni e le impostazioni del supporto.  Di seguito è riportata la suddivisione dei tipi di supporto e delle impostazioni associate
+L'elemento multimediale è il centro della console multimediale.  Le immagini e i collegamenti video sono supportati come tipi di file multimediali all'interno della Console multimediale.  Per aggiungere nuovi file  multimediali, selezionare le icone Aggiungi immagine o Aggiungi **video** per visualizzare una finestra di dialogo in cui immettere le informazioni e le impostazioni relative ai file multimediali.  Di seguito è riportata la suddivisione dei tipi di supporti e delle impostazioni associate
 
 **Immagine**
 
-Le immagini devono essere un tipo di immagine standard, ad esempio JPEG, PNG e figlio. Devono essere ospitati in un punto qualsiasi con un collegamento pubblico.
+Le immagini devono essere un tipo di immagine standard, ad esempio jpeg, png e son on. Devono essere ospitati in una posizione con un collegamento pubblico.
 
-* **Nome** : (obbligatorio) nome con cui si vuole identificare l'immagine.
-* **Image URL** (obbligatorio) URL pubblico dell'immagine
-* **Ignora dopo** : numero di secondi per cui l'immagine deve essere ignorata dopo
+* **Nome:** (obbligatorio) Nome con cui si vuole identificare l'immagine.
+* **URL immagine:** (obbligatorio) URL pubblico dell'immagine
+* **Skip After** (Ignora dopo) - Numero di secondi dopo cui l'immagine deve essere ignorata
 
 **Video**
 
-I video possono essere ospitati video o flussi live tramite contrazione e DLive.  (Altri supporto possono funzionare con lavoro aggiuntivo per ottenere l'URL del flusso appropriato, ma non sono completamente supportati nella console multimediale)
+I video possono essere ospitati in video o in streaming live tramite Iaa e DLive.  Per ottenere l'URL del flusso corretto, è possibile che altri supportino operazioni aggiuntive, ma non siano completamente supportati all'interno della console multimediale.
 
-* **Nome** : (obbligatorio) nome con cui si vuole identificare il video.
-* **URL del video** : (obbligatorio) l'URL pubblico in cui è ospitato il video o da cui viene servito il flusso live.
-* **Ignora dopo** : numero di secondi che il video deve ignorare dopo
-* **Volume** : volume del video dei valori 0 (min)-1 (max).
-* **Ora di inizio** : numero di secondi a partire dall'inizio del video.
-* **Eseguire il rollback della distanza iniziale** : la distanza in metri nel mondo in cui il volume inizia a uscire dalla console multimediale
-* **Fine dell'azione video** : azione da eseguire dopo il raggiungimento della fine del video.
-    * Stop-l'elenco dei supporti si interrompe al termine del video
-    * Loop: il video scorrerà fino a quando non verrà ignorato manualmente
-    * Riproduci successivo: i supporti successivi nell'elenco di supporti verranno avviati al termine del video corrente.
+* **Nome:** (obbligatorio) Nome con cui si vuole identificare il video.
+* **URL video:** (obbligatorio) URL pubblico in cui è ospitato il video o da cui viene servito lo streaming live.
+* **Skip After** (Ignora dopo) - Numero di secondi dopo cui il video deve essere ignorato
 
-## <a name="working-with-json-directly-advancedoptional"></a>Uso diretto di JSON (Advanced/optional)
+> [!NOTE]
+> OBBLIGATORIO: inserire il tempo corrispondente alla lunghezza del video per consentire l'inoltro corretto dei video. Ad esempio, se il video ha una durata di 5 minuti, inserire 300 secondi, altrimenti il video non verrà ignorato al contenuto successivo.
 
-La console multimediale supporta l'immissione di codice JSON direttamente nel prompt della console di in AltspaceVR.  JSON è il meccanismo interno con cui si abilitano le configurazioni di Media Player. Esponendo la possibilità di impostare JSON direttamente è qualcosa che consente agli utenti più avanzati di creare flussi di lavoro personalizzati in grado di soddisfare le proprie esigenze e familiarità con JSON.  Di seguito è riportata una breve descrizione della struttura JSON e dello schema in base al quale viene convalidato il JSON. Per descrizioni più dettagliate delle proprietà riportate di seguito, vedere le sezioni precedenti che comunicano sulla configurazione della console multimediale.  Questa sezione è incentrata principalmente sugli esempi di schema e sulla strutturazione per i dati JSON.
+* **Volume:** volume del video da 0 (min) - 1 (max) valori.
+* **Ora di** inizio: numero di secondi dall'inizio del video.
+* **Roll Off Start Distance (Distanza** inizio roll off) - Distanza in metri nel mondo in cui inizia a diminuire il volume quando ci si allontana dalla console multimediale
+* **Fine dell'azione** video: azione da eseguire quando viene raggiunta la fine del video.
+    * Arresta: l'elenco di contenuti multimediali si arresta al termine del video
+    * Ciclo: il video verrà riprodurre in ciclo fino a quando non viene ignorato manualmente
+    * Riproduci successivo: gli elementi multimediali successivi nell'elenco dei file multimediali verranno avviati al termine del video corrente.
+
+## <a name="working-with-json-directly-advancedoptional"></a>Uso diretto di JSON (avanzato/facoltativo)
+
+La console multimediale supporta l'immissione di JSON direttamente nel prompt della console in AltspaceVR.  JSON è il meccanismo interno con cui vengono abilitate le configurazioni del lettore multimediale. L'esposizione della possibilità di impostare direttamente JSON è un elemento che consente agli utenti più avanzati di creare flussi di lavoro personalizzati in grado di soddisfare le proprie esigenze e acquisire familiarità con JSON.  Di seguito è riportata una breve descrizione della struttura JSON e dello schema con cui viene convalidato il codice JSON. Per descrizioni più dettagliate delle proprietà riportate di seguito, vedere le sezioni precedenti che descrivono la configurazione della console multimediale.  Questa sezione è incentrata principalmente sugli esempi di schema e sulla strutturazione per i dati JSON.
 
 ### <a name="global-media-settings"></a>Impostazioni multimediali globali
 
@@ -120,13 +124,13 @@ La console multimediale supporta l'immissione di codice JSON direttamente nel pr
 }
 ```
 
-### <a name="media-list"></a>Elenco supporti
+### <a name="media-list"></a>Elenco di supporti
 
-L'elenco dei supporti è una proprietà impostata alla radice della struttura JSON, ad esempio i ruoli e le impostazioni di riproduzione.  Si tratta di una semplice matrice che può contenere una delle seguenti strutture di configurazione multimediale. Per informazioni dettagliate su ciò che accade, vedere le descrizioni delle proprietà precedenti.
+L'elenco dei supporti è una proprietà impostata alla radice della struttura JSON, ad esempio Ruoli e Impostazioni di riproduzione.  Si tratta di una semplice matrice che può contenere una delle strutture di configurazione dei supporti seguenti. Per informazioni dettagliate sulle relative attività, vedere le descrizioni delle proprietà riportate sopra.
 
 **Esempio di immagine**
 
-*Campi obbligatori: "Name" e "imageUrl"*
+*Campi obbligatori: "name" e "imageUrl"*
 
 ```json
 {
@@ -136,9 +140,9 @@ L'elenco dei supporti è una proprietà impostata alla radice della struttura JS
 }
 ```
 
-**Esempio video**
+**Esempio di video**
 
-*Campi obbligatori: "Name" e "videoUrl"*
+*Campi obbligatori: "name" e "videoUrl"*
 
 ```json
 {
@@ -316,4 +320,4 @@ L'elenco dei supporti è una proprietà impostata alla radice della struttura JS
 ```
 
 > [!NOTE]
-> Aggiornato con la console multimediale v 0.5.0
+> Aggiornato con La console multimediale v0.5.0
