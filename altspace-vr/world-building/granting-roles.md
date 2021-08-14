@@ -4,16 +4,16 @@ description: Informazioni sul sistema di ruoli e capacità e istruzioni dettagli
 ms.date: 04/14/2021
 ms.topic: article
 keywords: Ruoli
-ms.openlocfilehash: 3a1d0f138b29fe545f52d851ff00062f156a860e
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: f299f637d77c989be5504532279fb42451367b4ac53095d00627f67402dd8552
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923194"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127122"
 ---
 # <a name="granting-world-roles"></a>Concessione di ruoli del mondo
 
-Altspace ha un sistema ruoli e capacità. Ogni persona può avere più ruoli e i relativi ruoli possono essere diversi a seconda della posizione. Ogni ruolo, a sua volta, offre una o più capacità. Ad esempio, quando si è nel proprio evento, si ricevono automaticamente i ruoli **host** **e moderatore.** Con questi due ruoli è possibile avviare utenti indisciplinati, essere sul palco e magari rilasciare i coriandoli.
+Altspace ha un sistema di ruoli e capacità. Ogni persona può avere più ruoli e i relativi ruoli possono essere diversi a seconda della posizione. Ogni ruolo, a sua volta, offre una o più capacità. Ad esempio, quando si è in un evento personalizzato, si ricevono automaticamente i ruoli **host** **e moderatore.** Con questi due ruoli è possibile avviare utenti indisciplinati, essere sul palco e magari rilasciare i coriandoli.
 
 1. Modificare il mondo e cercare ruoli contestuali nella colonna destra **(** Come [gestire Worlds](managing-worlds.md))
 
@@ -42,7 +42,7 @@ Dopo aver selezionato **Aggiorna**, Reimposta spazio nel mondo. Questo avrà eff
 ## <a name="troubleshooting"></a>Risoluzione dei problemi
 
 **È possibile eliminare i ruoli?**
-Sì, modificare il mondo, fare clic **su Rimuovi** sotto il ruolo che si desidera eliminare e fare clic su **Aggiorna**
+Sì, modificare il mondo, fare **clic su Rimuovi** sotto il ruolo che si desidera eliminare e fare clic su **Aggiorna**
 
 **I ruoli vengono copiati quando un mondo viene importato da un altro?**
 No, i ruoli non vengono copiati

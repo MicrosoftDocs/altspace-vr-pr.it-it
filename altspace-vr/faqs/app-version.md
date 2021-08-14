@@ -4,12 +4,12 @@ description: Informazioni su come usare l'app AltspaceVR, le impostazioni e i lo
 ms.date: 02/10/2021
 ms.topic: article
 keywords: versione dell'app
-ms.openlocfilehash: 6b710e1724b890fa7ba0eecfcd774ef63128d5b7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: fbf67a8302a67ddb916772420949cf0509a0d4a60c472711975c651862438b93
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923178"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128253"
 ---
 # <a name="finding-the-altspacevr-app-version"></a>Ricerca della versione dell'app AltspaceVR
 
@@ -17,17 +17,17 @@ Durante la risoluzione di un problema, potrebbe essere richiesta la versione del
 
 ## <a name="in-altspacevr"></a>In AltspaceVR
 
-Per trovare la versione dell'app in AltspaceVR, passare al **menu delle impostazioni** e selezionare **Informazioni** su nella barra di spostamento a sinistra. La "versione dell'app" viene segnalata qui, come illustrato nello screenshot seguente.
+Per trovare la versione dell'app in AltspaceVR, passare al **menu delle impostazioni** e selezionare **Informazioni** su sulla barra di spostamento a sinistra. La "Versione dell'app" viene segnalata qui, come illustrato nello screenshot seguente.
 
-![Menu Impostazioni aperto con il pannello Informazioni su aperto](images/app-version-img-01.png)
+![Impostazioni menu aperto con il pannello Informazioni su aperto](images/app-version-img-01.png)
 
-## <a name="in-windows-system-settings"></a>In Impostazioni di sistema di Windows
+## <a name="in-windows-system-settings"></a>In Windows sistema Impostazioni
 
-Se AltspaceVR è stato installato tramite il Microsoft Store, è anche possibile trovare la versione dell'app nelle impostazioni di sistema di Windows.  Questo scenario è una buona opzione quando si segnala la versione dell'app se non si riesce ad accedere correttamente al client.
+Se AltspaceVR è stato installato tramite il Microsoft Store, è anche possibile trovare la versione dell'app nelle impostazioni Windows di sistema.  Questo scenario è una buona opzione quando si segnala la versione dell'app se non è possibile accedere correttamente al client.
 
-Per trovare la versione dell'app nelle impostazioni di sistema di Windows, aprire il **menu Start,** digitare **App & funzionalità** e selezionare il risultato. Passare ad **AltspaceVR nell'elenco** delle app. Fare clic con il pulsante destro del mouse su ALTspaceVR **e scegliere Opzioni** avanzate dal menu visualizzato.
+Per trovare la versione dell'app nelle Windows di sistema, aprire il **menu Start,** digitare **App & Funzionalità** e selezionare il risultato. Passare ad **AltspaceVR** nell'elenco delle app. Fare clic con il pulsante destro del mouse su AltspaceVR e **scegliere Opzioni** avanzate dal menu visualizzato.
 
-![Menu App e funzionalità aperto con l'opzione Avanzate evidenziata](images/app-version-img-02.png)
+![Il menu App e funzionalità viene aperto con l'opzione avanzate evidenziata](images/app-version-img-02.png)
 
 In **Opzioni avanzate,** sotto l'intestazione **Specifiche,** la versione **dell'app** deve essere elencata a destra dell'etichetta **Versione.**
 
@@ -39,7 +39,7 @@ AltspaceVR segnala la versione dell'app nel file di log del client come "Altspac
 
 ## <a name="windows"></a>Windows
 
-In Windows il file di log del client è disponibile Esplora risorse in:
+In Windows, il file di log client è disponibile Windows Explorer all'indirizzo:
 
 ```
 %userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log
@@ -50,7 +50,7 @@ Questo file viene sovrascritto ogni volta che si avvia AltspaceVR. 'Player.log' 
 
 ## <a name="via-powershell"></a>Tramite PowerShell
 
-Gli utenti avanzati possono cercare questa stringa nei log del client tramite PowerShell come indicato di seguito:
+Gli utenti avanzati possono cercare questa stringa nei log client tramite PowerShell come indicato di seguito:
 
 Input:
 

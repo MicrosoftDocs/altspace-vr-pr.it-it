@@ -1,15 +1,15 @@
 ---
 title: Esplorazione di AltspaceVR
-description: Inizia a creare e ospitare eventi virtuali nella piattaforma AltspaceVR con il nostro percorso di checkpoint curato.
+description: Introduzione alla creazione e all'hosting di eventi virtuali nella piattaforma AltspaceVR con il percorso di checkpoint curato.
 ms.date: 03/29/2021
 ms.topic: article
 keywords: altspace, realtà virtuale, eventi, world-building, esercitazioni
-ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923058"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126452"
 ---
 # <a name="exploring-altspacevr"></a>Esplorazione di AltspaceVR
 
@@ -26,7 +26,7 @@ Prima di iniziare a creare e ospitare eventi virtuali personalizzati, sono neces
 |  Checkpoint  |  Risultato  |
 | --- | --- |
 | [Requisiti di sistema](getting-started/system-requirements.md) | Assicurarsi di avere gli strumenti e i requisiti di sistema necessari per iniziare |
-| Installare [Windows Mixed Reality](getting-started/wmr-installation.md) [o Oculus Quest](getting-started/oculus-installation.md)| Scaricare e installare le app Windows Mixed Reality o Oculus Quest più recenti |
+| Installare [Windows Mixed Reality](getting-started/wmr-installation.md) o [Oculus Quest](getting-started/oculus-installation.md)| Scaricare e installare le app Windows Mixed Reality o Oculus Quest più recenti |
 | [Creare e collegare un account AltspaceVR](getting-started/creating-and-linking-accounts.md) | Creare e registrarsi per un account direttamente all'interno dell'app AltspaceVR e collegarlo all'account Microsoft|
 
 ## <a name="2-getting-comfortable"></a>2. Familiarità
@@ -41,7 +41,7 @@ Poiché gli eventi altspaceVR si verificano nel mondo virtuale, è necessario sp
 
 ## <a name="3-for-guests--audiences"></a>3. Per gli utenti guest & destinatari
 
-Non è sempre necessario essere un host in AltspaceVR. A volte si sarà un utente guest membro di un gruppo di destinatari. In questi casi, è necessario avere familiarità con le funzionalità e i menu disponibili nel nuovo territorio.
+Non è sempre necessario essere un host in AltspaceVR. In alcuni casi si sarà un utente guest membro di un gruppo di destinatari. In questi casi, è necessario avere familiarità con le funzionalità e i menu disponibili nel nuovo territorio.
 
 |  Checkpoint  |  Risultato  |
 | --- | --- |
@@ -50,7 +50,7 @@ Non è sempre necessario essere un host in AltspaceVR. A volte si sarà un utent
 
 ## <a name="4-creating--hosting-events"></a>4. Creazione di & eventi di hosting
 
-Ora che è stata illustrata la logistica, è possibile imparare a creare e ospitare eventi. AltspaceVR offre funzionalità diverse per questo processo, ma sono stati suddivisi in nozioni di base, opzioni più avanzate e strumenti specifici per l'hosting. Indipendentemente dal fatto che si eserviti questi eventi in sequenza o si salti, si creerà in tutta sicurezza eventi personalizzati alla fine di questa sezione.
+Ora che è stata illustrata la logistica, è possibile imparare a creare e ospitare eventi. AltspaceVR offre funzionalità diverse per questo processo, ma sono stati suddivisi in nozioni di base, opzioni più avanzate e strumenti specifici per l'hosting. Indipendentemente dal fatto che si eserviti questi eventi in sequenza o che si salti, si creerà in tutta sicurezza eventi personalizzati entro la fine di questa sezione.
 
 **Configurazione di eventi di base**
 
@@ -58,7 +58,7 @@ Ora che è stata illustrata la logistica, è possibile imparare a creare e ospit
 | --- | --- |
 | [Informazioni su ruoli](getting-started/roles.md) | Informazioni sui diversi ruoli disponibili per gli eventi altspaceVR |
 | [Configurare un evento](tutorials/creating-an-event.md) | Familiarità con terminologia, personalizzazione, console multimediale e altre funzionalità di creazione di eventi |
-| [Esplorazione delle funzionalità del gruppo](tutorials/group-features.md) | Informazioni su come aggiungere e configurare manualmente l'elenco di eventi virtuali guest |
+| [Esplorazione delle funzionalità del gruppo](tutorials/group-features.md) | Informazioni su come aggiungere e configurare manualmente l'elenco di guest di eventi virtuali |
 | [Ridimensionamento dei destinatari](faqs/scaling-audiences.md) | Eseguire il mirroring dell'intero evento tra più istanze e aumentare le dimensioni del pubblico |
 | Condivisione di file multimediali [con la console multimediale](tutorials/multimedia-console.md) [e il proiettore Web](tutorials/web-projector-streaming.md) | Informazioni su come trasmettere una scheda del browser designata dal PC desktop direttamente in AltspaceVR |
 
@@ -87,11 +87,11 @@ Se si verificano problemi con la creazione di eventi, audio, l'applicazione Alts
 
 [!INCLUDE[](includes/troubleshooting.md)]
 
-## <a name="6-community--resources"></a>6. Risorse & community
+## <a name="6-community--resources"></a>6. Community & risorse
 
-AltspaceVR è una community e ci piace che l'utente si unirà. Esaminare gli standard della community, le condizioni per l'utilizzo del servizio, l'informativa sulla privacy e sottoscrivere la newsletter per tutte le novità più recenti.
+AltspaceVR è una community e ci piace che tu ti aderi. Esaminare gli standard della community, le condizioni per l'utilizzo del servizio, l'informativa sulla privacy e sottoscrivere la newsletter per tutte le novità più recenti.
 
-* [Standard della community](community/community-standards.md)
+* [Community standard](community/community-standards.md)
 * [Condizioni per l'utilizzo del servizio altspaceVR](community/terms-of-service.md)
 * [Informativa sulla privacy di Microsoft](https://privacy.microsoft.com/privacystatement)
 * [Iscriversi alla newsletter](community/newsletter-subscriptions.md)

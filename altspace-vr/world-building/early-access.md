@@ -1,42 +1,42 @@
 ---
 title: Che cos'è il programma di accesso anticipato?
-description: È possibile rimanere sempre aggiornati sulle ultime notizie e istruzioni per partecipare al programma AltspaceVR Early Access.
+description: Rimanere aggiornati sulle notizie più recenti e sulle istruzioni per l'iscrizione al programma AltspaceVR per l'accesso anticipato.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: accesso anticipato
-ms.openlocfilehash: a23edea1ef30b9ac96256150b967910a8aca11eb
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: f9ba7a3a46cc19188154078ace27fca21db5e159954c5d7d7356f666048d6ec9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213461"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127161"
 ---
 # <a name="what-is-the-early-access-program"></a>Che cos'è il programma di accesso anticipato?
 
-Il programma di accesso in primo piano ti permette di accedere alle funzionalità più recenti ancora in fase di sviluppo e gratuite. Stiamo lavorando a diversi elementi e vogliamo fornirli a te, anche se non hanno tutto il polacco. Perché si chiede? Perché vogliamo sapere cosa ne pensi! Si desiderano? Sono utili per te? Sono fastidiosi? I commenti e i suggerimenti degli utenti sono utili per ottenere un Altspace migliore. Molte funzionalità di compilazione globale sono disponibili solo per gli utenti che hanno un accesso anticipato, quindi è possibile acconsentire esplicitamente:
+Il programma Accesso anticipato consente di accedere alle funzionalità più recenti ancora in fase di sviluppo ed è gratuito. Stiamo lavorando su cose diverse e vogliamo darle, anche se non ha tutto lo smalto. Perché chiederlo? Perché si vuole sapere cosa si pensa. Ti piace? Sono utili per l'utente? Sono fastidiosi? Il feedback dell'utente è prezioso per Microsoft e in ultima analisi aiuterà a migliorare Altspace. Molte funzionalità world-building sono disponibili solo per gli utenti che hanno accesso anticipato ed ecco come è possibile acconsentire esplicitamente:
 
 ## <a name="in-vr"></a>In VR
 
-1. Aprire il menu in **impostazioni > generale** e attiva/disattivazione per **partecipare al programma di accesso anticipato**:
+1. Aprire il menu per Impostazioni > **generale** e attivare **Partecipa al programma di accesso anticipato:**
 
-![Menu impostazioni con opzione accesso anticipato evidenziato](images/early-access-img-01.png)
+![Impostazioni menu con l'opzione accesso anticipato evidenziata](images/early-access-img-01.png)
 
 2. Riavviare Altspace
-3. Scopri le tue nuove capacità.
+3. Esplorare le nuove capacità.
 
 ## <a name="on-the-web"></a>Sul Web
 
-1. Modificare il [profilo](https://account.altvr.com/users/sign_in) Altspace
-2. Controllare il cerchio di **accesso anticipato** e premere **Aggiorna**:
+1. Modificare il profilo [altspace](https://account.altvr.com/users/sign_in)
+2. Controllare il **cerchio Accesso** anticipato e premere **Aggiorna**:
 
-![Apertura del profilo Altspace con l'opzione di accesso anticipata evidenziata](images/early-access-img-02.png)
+![Altspace profile open with early access option highlighted (Altspace profile open with early access option highlighted) (Altspace profile open with early access option](images/early-access-img-02.png)
 
 3. Se si è già in Altspace, riavviare
-4. Scopri le tue nuove capacità.
+4. Esplorare le nuove capacità.
 
 ## <a name="troubleshooting"></a>Risoluzione dei problemi
 
 * Non ho una particolare capacità
-    * Altspace è stato riavviato? Le funzionalità vengono caricate quando si avvia per la prima volta Altspace
-    * La versione più recente di Altspace? Aprire il menu in impostazioni > sta per essere verificato. Se necessario, confermare con un amministratore nel falò
-    * Alcune funzionalità sono disponibili solo per gli amministratori e alcune sono disponibili solo in determinate posizioni. È possibile, ad esempio, che si disponga di speciali capacità a casa ma non di un mondo pubblico. Verificare con un amministratore se è necessario avere una particolare capacità in tale contesto
+    * Altspace è stato riavviato? Le capacità vengono caricate al primo avvio di Altspace
+    * Si è la versione più recente di Altspace? Aprire il menu per Impostazioni > informazioni su per controllare. Se necessario, confermare con un amministratore in Campfire
+    * Alcune funzionalità sono disponibili solo per gli amministratori e altre sono disponibili solo in determinate posizioni. Ad esempio, è possibile avere capacità speciali nella home page, ma non in un mondo pubblico. Verificare con un amministratore se è necessario avere una particolare capacità in tale contesto

@@ -1,30 +1,30 @@
 ---
-title: L'audio è frammentato
-description: Informazioni su come diagnosticare e correggere l'audio frammentato negli eventi AltspaceVR.
+title: L'audio è sconscioso
+description: Informazioni su come diagnosticare e correggere l'audio sconscioso negli eventi AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Domande frequenti
-ms.openlocfilehash: 13cba16d10cd2b946435f1fb23d794df05cca693
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 387fa7d2c73388118da3ce442baae1fe4f13881deef3599e04163ad2abf321f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212737"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128211"
 ---
-# <a name="my-audio-is-choppy"></a>L'audio è frammentato
+# <a name="my-audio-is-choppy"></a>L'audio è sconscioso
 
-Alcuni utenti hanno notato che, quando un altro avatar sta parlando, l'audio si presenta come frammento o con intervalli regolari. È possibile che altri utenti siano informati da altri utenti che l'audio in uso sta per essere mosso o robotico.
+Alcuni utenti hanno notato che quando un altro avatar parla l'audio si presenta come un'immagine sminuzzata o con normali drop-out. In altri casi è possibile essere informati da altri utenti che il proprio audio sta passando attraverso un'audio sconscioso o robotico.
 
-La prima cosa da provare è sempre la reimmissione dello spazio in cui si trova o anche il riavvio di AltspaceVR in caso di errore. I problemi audio non sono comuni, ma quando si verificano spesso si tratta di una soluzione semplice. 
+La prima cosa da provare è rientrare sempre nello spazio in cui ci si trova o persino riavviare AltspaceVR se l'operazione non riesce. I problemi audio non sono comuni, ma quando si verificano si tratta spesso di una soluzione semplice. 
 
-Se questa operazione non riesce, è possibile esaminare. 
+Se l'operazione non riesce, è possibile eseguire altre indagini. 
 
-## <a name="for-desktop-users"></a>Per utenti desktop
+## <a name="for-desktop-users"></a>Per gli utenti desktop
 
 ### <a name="cpu-performance"></a>Prestazioni CPU
 
-Esaminare le [specifiche di sistema consigliate](../getting-started/system-requirements.md) per l'hardware che si consiglia di eseguire AltspaceVR. Sono state rilevate le CPU che i3's e le cause più ridotte non solo con le frequenze dei fotogrammi del video, ma possono contribuire a problemi audio quali gli escalation e la qualità scadente.
+Esaminare le [specifiche di sistema consigliate per](../getting-started/system-requirements.md) l'hardware consigliato per l'esecuzione di AltspaceVR. È stato rilevato che le CPU i3 e i problemi di causa inferiori non solo con la frequenza dei fotogrammi del video, ma possono contribuire a problemi audio, ad esempio drop-out e qualità scadente.
 
 ### <a name="internet-bandwidth-and-network-connection"></a>Larghezza di banda Internet e connessione di rete
 
-Gli utenti con connessioni Internet lente (inferiori a 5Mbps) o in Wi-Fi possono presentare problemi audio, ad esempio i rilasci. Si consiglia di Hardline la connessione di un cavo Ethernet al computer e una connessione più veloce di 5Mbps. Potrebbe essere necessario uscire da tutti i programmi che potrebbero utilizzare la connettività Internet in background.
+Gli utenti con connessioni Internet lente (meno di 5 mbps) o nel Wi-Fi possono avere problemi audio, ad esempio i drop-out. È consigliabile una connessione di rete fissa di un cavo Ethernet al computer e una connessione più veloce di 5 mbps. È possibile chiudere tutti i programmi che potrebbero usare la connettività Internet in background.

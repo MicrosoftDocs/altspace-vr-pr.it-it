@@ -1,28 +1,28 @@
 ---
-title: Segnalazione di un report sugli abusi
-description: Informazioni aggiornate sulla creazione di report sugli abusi e sulle funzionalità di sicurezza in-app per AltspaceVR.
+title: Compilare un report sugli abusi
+description: Istruzioni aggiornate sulla registrazione di segnalazioni di abusi e sulle funzionalità di sicurezza in-app per AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: report, problemi
-ms.openlocfilehash: b2b7a5818b068dde6252dade072d5f7625bc35dc
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: c3bab1b520998ec8dd77ca92c2eedcaae7158551aecc190d0654795d8b26db57
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213604"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126507"
 ---
-# <a name="filing-an-abuse-report"></a>Segnalazione di un report sugli abusi
+# <a name="filing-an-abuse-report"></a>Compilare un report sugli abusi
 
-In AltspaceVR la comodità e la sicurezza sono una priorità assoluta. Non è consentita alcuna azione o comportamento offensivo, dispregiativo o non appropriato. La presentazione di un report sugli abusi consente di informare il team di moderazione sugli eventuali utenti o contenuti che violano gli standard o le condizioni di servizio della community.
+In AltspaceVR il comfort e la sicurezza sono una priorità assoluta. Non è previsto alcun atto o comportamento offensivo, derogatorio o inappropriato. L'archiviazione di un report sugli abusi consente al team di moderazione di segnalare eventuali utenti o contenuti che violano gli standard Community o le Condizioni per l'utilizzo del servizio.
 
-Esaminare [gli standard](community-standards.md) e le [condizioni del servizio](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20)della community per determinare se le azioni individuali violano il comportamento dell'utente. Se si ritiene che l'attenzione venga rilasciata, [archiviare un report di abusi](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154). Assicurarsi di fornire un account dettagliato dell'esperienza, un'ortografia accurata di tutti i nomi di visualizzazione e nomi utente pertinenti e la specifica del momento in cui l'istanza di abusi ha avuto luogo. 
+Esaminare gli standard [](community-standards.md) Community e le condizioni per l'utilizzo del servizio [per](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20)determinare se le azioni dell'utente violano la nostra aspettativa di comportamento dell'utente. Se si è attenzioni, determinare la [segnalazione di abusi.](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154) Assicurarsi di fornire un account dettagliato dell'esperienza, un'ortografia accurata dei nomi visualizzati e dei nomi utente pertinenti e la specifica del momento in cui si è verificata l'istanza di abusi. 
 
-Il completamento è opportuno e intraprendere le azioni necessarie per gestire AltspaceVR come un luogo in cui le persone si sentono sicure e possono comunicare con altri utenti. Nell'ambito dell'informativa sulla privacy, Microsoft non fornirà informazioni sulle decisioni o sullo stato dell'account di un utente.
+Si seguirà dove appropriato e si prenderanno le azioni necessarie per mantenere AltspaceVR come un luogo in cui le persone sono sicure e sono liberi di comunicare con altri utenti. Nell'ambito dell'informativa sulla privacy microsoft non informare l'utente sulle decisioni o sullo stato dell'account di un utente.
 
-## <a name="in-app-safety-features"></a>Funzionalità di sicurezza In-App
+## <a name="in-app-safety-features"></a>In-App di sicurezza
 
-Tenere presente che, oltre al report sull'abuso, sono disponibili diversi strumenti di sicurezza in-app progettati per offrire il controllo sull'esperienza utente. 
+Tenere presente che, oltre alla segnalazione di abusi, sono disponibili diversi strumenti di sicurezza in-app progettati per offrire il controllo sull'esperienza. 
 
-In qualsiasi momento, è possibile bloccare e disattivare qualsiasi utente che non si vuole interagire. Aprire il tag del nome di un utente facendo clic sul relativo avatar. Qui sono disponibili diversi pulsanti che includono mute e Block. Non sarà più possibile ascoltare l'audio per gli utenti che si spostano in mute. Gli utenti bloccati non verranno più visualizzati o uditi e non potranno più visualizzarli o ascoltarli. 
+In qualsiasi momento è possibile bloccare e disattivare l'audio di qualsiasi utente con cui non si vuole interagire. Aprire il tag name di un utente facendo clic sul relativo avatar. Qui sono disponibili diversi pulsanti, tra cui Disattiva audio e Blocca. Non si udirà più l'audio per gli utenti di cui si disattiva l'audio. Gli utenti bloccati non verranno più visualizzati o ascoltati e non potranno più visualizzare o ascoltare l'utente. 
 
-Se si verificano problemi con altri utenti che si avvicinano al proprio avatar, è possibile attivare la bolla di spazio personale. La bolla di spazio personale induce gli altri a diventare invisibile se si avvicinano a te. 
+Se si verificano problemi con altri utenti che si avvicinano troppo all'Avatar, è possibile attivare la bolla spaziale personale. La bolla spaziale personale fa sì che altri diventino invisibili se si avvicinano troppo a te. 

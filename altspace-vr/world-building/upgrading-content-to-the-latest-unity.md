@@ -4,23 +4,23 @@ description: Informazioni su come aggiornare il contenuto alla versione più rec
 ms.date: 06/4/2021
 ms.topic: article
 keywords: kit, worlds, unity, aggiornamento, shader, caricatore, risoluzione dei problemi
-ms.openlocfilehash: f8a805c4b3350f2c97c43d3d48c35733ec7e9710
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a10e64b4dc19e256dcae9d61620de0140db60ccc0bf2a10dc864313f139bbd10
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961224"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126762"
 ---
 # <a name="updating-content-to-the-latest-unity-version"></a>Aggiornamento del contenuto alla versione più recente di Unity
 
 ## <a name="moving-to-unity-202039"></a>Passaggio a Unity 2020.3.9
 
-A partire da oggi, AltspaceVR è stato aggiornato a una versione recente di Unity (2020.3.9). Oltre ad alcuni miglioramenti delle prestazioni, questo aggiornamento rappresenta una prova per le prossime funzionalità che microsoft è molto contenta di incorporare. Questa modifica deve essere compatibile con tutto il contenuto esistente. In caso contrario, contattare il supporto tecnico: altvr.com/support
+A partire da oggi, AltspaceVR è stato aggiornato a una versione recente di Unity (2020.3.9). Oltre ad alcuni miglioramenti delle prestazioni, questo aggiornamento rappresenta una prova per le prossime funzionalità che microsoft è contenta di incorporare. Questa modifica deve essere compatibile con tutto il contenuto esistente. In caso contrario, contattare il supporto tecnico: altvr.com/support
 
 Anche se questo passaggio alla versione 2020.3.9 non ha inciso sul contenuto generato dall'utente, in alcune settimane verrà apportata una modifica alla modalità [di rendering stereo]( https://docs.unity3d.com/Manual/SinglePassStereoRendering.html)di AltspaceVR che richiederà agli utenti di aggiornare il contenuto . Questo aggiornamento alla [funzionalità single pass-instancing](https://docs.unity3d.com/Manual/SinglePassInstancing.html) consentirà di migliorare notevolmente le prestazioni in tutto il mondo. Tenere presente che questa nuova build non supporterà più la compatibilità con le versioni precedenti con il contenuto della versione 2019.4 e precedenti. È urgente che tutto il contenuto di proprietà dell'autore sia aggiornato appena possibile per evitare modifiche di rilievo. Seguire la guida seguente per aggiornare il contenuto e garantire una transizione senza problemi a Single Pass Instancing in Unity 2020.3.9.
 
 > [!NOTE]
-> Se si usa regolarmente contenuto di proprietà di un altro utente che è stato condiviso con l'utente, contattare il proprietario del kit/mondo e assicurarsi che abbia intenzione di aggiornare il contenuto.
+> Se si usa regolarmente contenuto di proprietà di un altro utente che è stato condiviso con l'utente, contattare il proprietario del kit/mondo e assicurarsi che abbia in programma di aggiornare il contenuto.
 
 > Se si è un autore di contenuti e si hanno domande o si richiede assistenza, contattare il team di supporto per assistenza: altvr.com/support
 
@@ -37,7 +37,7 @@ Usare le versioni di anteprima seguenti di AltspaceVR per testare il contenuto a
 
 ## <a name="storecompatibilitycheck"></a>Controllo di compatibilità dell'archivio
 
-L'aggiornamento a Unity 2020.3.9 influirà anche sulla compatibilità tra visori VR e build dello store. È ora necessario scaricare AltspaceVR dallo Store compatibile con il visore VR. Ad esempio: per un visore VR WinMR o Oculus, scaricare altspaceVR rispettivamente da Windows Store o Oculus Store. Windows Mixed Reality gli utenti devono scaricare AltspaceVR da Windows Store, gli utenti di SteamVR da Steam e Oculus Rift da Oculus Store.
+L'aggiornamento a Unity 2020.3.9 influirà anche sulla compatibilità del visore VR e della build dello store. È ora necessario scaricare AltspaceVR dallo Store compatibile con il visore VR. Ad esempio: per un visore VR WinMR o Oculus, scaricare altspaceVR rispettivamente da Windows Store o Oculus Store. Windows Mixed Reality gli utenti devono scaricare AltspaceVR da Windows Store, gli utenti di SteamVR da Steam e gli utenti di Oculus Rift da Oculus Store.
 
 ## <a name="altspacevr-uploader-v090-upgrade-guide"></a>Guida all'aggiornamento di AltspaceVR Uploader v0.9.0 
 
@@ -77,12 +77,12 @@ Al termine dell'importazione del pacchetto, la familiare finestra uploader dovre
 
 1. Se si verificano problemi di controller o di input sul visore VR WinMR, assicurarsi che sia posizionato sulla testa per coinvolgere correttamente il sensore di presenza. Si tratta di un problema noto e Microsoft sta lavorando attivamente per risolverlo.
 
-2. Controllare il visore VR e la compatibilità della compilazione dello store. Se ad esempio si usa un visore VR WinMR, assicurarsi che la build altspaceVR sia stata acquisita tramite Windows Store.
+2. Controllare il visore VR e la compatibilità della compilazione dello store. Se ad esempio si usa un visore VR WinMR, assicurarsi che la build di AltspaceVR sia stata acquisita tramite Windows Store.
 
 3. Se durante i test si scopre che il contenuto viene visualizzato solo in modalità VR, è probabile che gli shader personalizzati in uso non supportino il rendering SPI. È necessario scegliere uno shader diverso o seguire la guida [all'aggiornamento SPI](https://docs.unity3d.com/Manual/SinglePassInstancing.html) di Unity per modificare manualmente lo shader e aggiungere il supporto.
 
-4. Per quelli in WinMR, ricorda che prima di poter accedere alla modalità VR in AltspaceVR, devi: 
+4. Per quelli in WinMR, tenere presente che prima di poter accedere alla modalità VR in AltspaceVR, è necessario: 
     1. Scaricare e installare OpenXR per Windows Mixed Reality dalla Microsoft Store.
         1. Aprire l'app Portale realtà mista app
         2. Nell'angolo inferiore sinistro dell'app selezionare "Vedi altro"
-        3. Nel menu visualizzato selezionare Configura OpenXR. Questa operazione causerà l'avvio di Windows Store da cui è possibile installare il runtime. Se questa voce di menu non viene visualizzata, OpenXR potrebbe essere già installato nel PC.
+        3. Nel menu visualizzato selezionare Configura OpenXR. Questa operazione causerà l'avvio Windows Store da cui è possibile installare il runtime. Se questa voce di menu non viene visualizzata, OpenXR potrebbe essere già installato nel PC.
