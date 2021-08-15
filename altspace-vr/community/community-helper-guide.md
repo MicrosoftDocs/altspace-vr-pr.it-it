@@ -1,38 +1,38 @@
 ---
-title: Guida dell'helper della community
-description: Rimanere sempre aggiornati sul programma di supporto della community di AltspaceVR e le regole e le responsabilità dell'uso della funzionalità di voto a sospensione.
+title: Community helper
+description: Rimanere aggiornati sul programma helper della community di AltspaceVR e sulle regole e le responsabilità dell'uso della funzionalità vote-to-suspend.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: community, guida, regole
-ms.openlocfilehash: 6587ae86231c092da42aa68e782538828cc17606
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: a917396ee93d35ad2bef1835a3a08603238d1174dbefe8b7c7b5add70fe29d51
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213230"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125022"
 ---
-# <a name="community-helper-guide"></a>Guida dell'helper della community
+# <a name="community-helper-guide"></a>Community helper
 
-Il voto per sospendere la funzionalità è disponibile esclusivamente per gli helper della community di AltspaceVR. Si tratta di uno strumento di moderazione che consente di garantire la AltspaceVR di accoglienza, sicurezza e maturità. Il voto per la sospensione consente agli helper della community di contrassegnare chiunque sia in violazione delle linee guida della community. Di seguito sono riportate le regole ufficiali e le responsabilità associate alla capacità di voto in sospeso. 
+La funzionalità Vota per sospendere è disponibile solo per gli helper Community AltspaceVR. Si tratta di uno strumento di moderazione che consente di mantenere AltspaceVR benvenuto, sicuro e maturo. Vote-to-Suspend consente Community helper di contrassegnare tutti gli utenti che violano le Community guida. Di seguito sono riportate le regole e le responsabilità ufficiali associate alla possibilità Di votare per sospendere. 
 
-## <a name="vote-to-suspend-rules--responsibilities"></a>Regole di voto per sospendere & responsabilità: 
+## <a name="vote-to-suspend-rules--responsibilities"></a>Regole vote-to-suspend & responsabilità: 
 
 **Regole** 
 
-* La sospensione è consentita solo se un utente viola le linee guida della community di AltspaceVR. Nessun altro motivo. Nessuna eccezione.  
-* Prima di poter votare per sospenderli, gli utenti sottoposti a minorenne devono identificarsi in modo esplicito come se fossero sotto i 13 anni di età. 
-* Tutti i voti vengono registrati e monitorati nel sistema. 
-* È necessario essere disposti e in grado di spiegare i motivi per il voto a un utente di divieto, se richiesto. 
+* La sospensione è consentita solo se un utente viola le linee guida Community AltspaceVR. Nessun altro motivo. Nessuna eccezione.  
+* Gli utenti minorenni devono identificarsi in modo esplicito come minore di 13 anni prima di poter votare per sospenderli. 
+* Tutti i voti vengono registrati e registrati nel sistema. 
+* Se richiesto, è necessario essere disposti e in grado di spiegare il motivo del voto a un utente di divieto. 
 
 **Responsabilità** 
 
-* Ottenere assistenza dal CST nel falò se si incontra un utente che è particolarmente difficile e non si è certi del modo migliore per continuare.  
-* Se si incontra un utente che potrebbe richiedere una sospensione immediata, richiedere assistenza dal CST nel falò. 
-* Le nuove persone potrebbero non essere sempre in grado di capire cosa sia giusto e sbagliato. Ricordarsi di impostare sempre l'esempio per il significato di un AltspaceVR Citizen valido. 
-* Aiuta a rispondere a domande al meglio delle tue capacità. Se non si è certi di una risposta accettabile. 
-* Tutti gli utenti con un problema tecnico o che necessitano di risoluzione dei problemi devono essere invitati ad aprire un ticket con il team di supporto: [altvr.com/support/](https://help.altvr.com/hc/requests/new?ticket_form_id=114093998653)
+* Se si incontra un utente particolarmente difficile e non si è certi del modo migliore per continuare, è possibile ottenere assistenza dal CST di Campfire.  
+* Se si incontra qualcuno che potrebbe richiedere una sospensione immediata, chiedere aiuto al CST in Campfire. 
+* I nuovi utenti potrebbero non sempre sapere cosa è giusto e sbagliato, quindi sii paziente e gentile. Ricordarsi di impostare sempre l'esempio per il significato di essere un buon utente altspaceVR. 
+* Rispondere alle domande al meglio delle proprie capacità. In caso di dubbi su una risposta corretta. 
+* Chiunque abbia un problema tecnico o ha bisogno di risoluzione dei problemi deve essere invitato ad aprire un ticket con il team di supporto: [altvr.com/support/](https://help.altvr.com/hc/requests/new?ticket_form_id=114093998653)
 
 **Ricordare** 
 
-* È possibile attivare o disattivare la notifica di supporto della community. Quando si attiva o disattiva la notifica, viene attivata anche l'opzione "off" della capacità di voto in sospeso. 
-* La funzionalità di voto a sospensione è un programma pilota e non viene garantita alcuna garanzia per garantire la capacità futura. 
+* È possibile attivare/disattivare la notifica Community Helper. Quando si attiva o disattiva la notifica, si disattiva anche l'opzione Vota-sospendi. 
+* La funzionalità Vote-to-Suspend è un programma pilota e non viene garantita alcuna garanzia per garantire capacità future. 

@@ -1,27 +1,27 @@
 ---
-title: Gli auricolari VR hanno un microfono incorporato?
-description: Informazioni su come verificare la presenza di un microfono incorporato in una realtà mista di Windows, Oculus Rift, Oculus quest o HTC vive.
+title: I visori VR hanno un microfono incorporato?
+description: Informazioni su come verificare la presenza di un microfono incorporato nel dispositivo Windows Mixed Reality, Oculus Rift, Oculus Quest o IL VISORE VR DI SKYT Vive.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: VR, Windows
-ms.openlocfilehash: 6fc5bc192fd9cf285f3203ff07fe4614476c8ec9
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: vr, windows
+ms.openlocfilehash: 0847c2baa63f866ae473d1eee20f5d4515e47078d4070ca349ffc812cb82f2aa
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212970"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121171"
 ---
-# <a name="does-my-vr-headsets-have-a-built-in-mic"></a>Gli auricolari VR hanno un microfono incorporato?
+# <a name="does-my-vr-headsets-have-a-built-in-mic"></a>I visori VR hanno un microfono incorporato?
 
-## <a name="oculus-rift-oculus-quest-and-htc-vive-users"></a>Utenti di Oculus Rift, Oculus quest e HTC vive
+## <a name="oculus-rift-oculus-quest-and-htc-vive-users"></a>Utenti di Oculus Rift, Oculus Quest e PIÙ Vive
 
-Sì, questi auricolari VR hanno microfoni predefiniti.
+Sì, questi visori VR hanno microfoni predefiniti.
 
 ## <a name="windows"></a>Windows
 
-Per gli auricolari usati con Windows, dovrebbe essere possibile trovare il microfono elencato nei dispositivi di **registrazione** mentre è installata la cuffia.
+Per i visori VR usati con Windows, dovrebbe essere possibile  trovare il microfono elencato sotto Dispositivi di registrazione mentre il visore VR è collegato.
 
-## <a name="further-troubleshooting"></a>Ulteriore risoluzione dei problemi
+## <a name="further-troubleshooting"></a>Risoluzione dei problemi
 
-* [Supporto di AltspaceVR: altri utenti non riescono a ricevere](other-users-cant-hear-me.md)
-* [Supporto di AltspaceVR-gestione delle autorizzazioni per Oculus quest](../getting-started/oculus-controls.md#managing-permissions)
+* [Supporto altspaceVR - Altri utenti non possono ascoltare l'utente](other-users-cant-hear-me.md)
+* [Supporto di AltspaceVR - Gestione delle autorizzazioni per Oculus Quest](../getting-started/oculus-controls.md#managing-permissions)

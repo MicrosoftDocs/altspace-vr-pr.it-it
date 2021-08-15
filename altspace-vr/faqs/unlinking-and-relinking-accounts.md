@@ -3,13 +3,13 @@ title: Scollegamento e Re-Linking'account Microsoft
 description: Istruzioni dettagliate su come scollegare e collegare nuovamente l'account AltspaceVR dall'account Microsoft.
 ms.date: 05/11/2021
 ms.topic: article
-keywords: registrazione, account, collegamento dell'account, account Microsoft, domande frequenti, risoluzione dei problemi, account del servizio gestiti, AAD
-ms.openlocfilehash: 3ad57ca9becbec610bada7bcf029474a9283906a
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: registrazione, account, collegamento di account, account Microsoft, domande frequenti, risoluzione dei problemi, account del servizio gestiti, AAD
+ms.openlocfilehash: 2629a474b2d22402a3e89b908ae7bdee1c29f299baa458dd0139e25b2f22d4cf
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961287"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121242"
 ---
 # <a name="unlinking-and-re-linking-your-microsoft-account"></a>Scollegamento e Re-Linking'account Microsoft
 
@@ -43,9 +43,9 @@ ms.locfileid: "112961287"
     4. Fare clic su "Collega account" per collegare l'account Altspace classico e l'account Microsoft. NOTA: gli account aziendali o dell'istituto di istruzione non sono attualmente supportati, a meno che l'amministratore non lo abbia detto diversamente.
     5. Eseguire Altspace e accedere con l'account Microsoft
     
-* Se si sta tentando di usare la versione consumer di AltspaceVR, è necessario usare un account Microsoft. Se si usa un account aziendale o dell'istituto di istruzione, verrà visualizzato un messaggio di errore che richiede di collegarsi a un account Microsoft personale. Seguire i passaggi precedenti per scollegare e collegare nuovamente gli account. 
+* Se si sta provando a usare la versione consumer di AltspaceVR, è necessario usare un account Microsoft. Se si usa un account aziendale o dell'istituto di istruzione, verrà visualizzato un messaggio di errore che richiede di collegarsi a un account Microsoft personale. Seguire i passaggi precedenti per scollegare e collegare nuovamente gli account. 
 
-* Inviare i log in caso di problemi accedendo a MAIN MENU > SETTINGS (IMPOSTAZIONI) > **SUPPORT > Upload Logs (Carica log).**
+* Inviare i log se si verificano problemi accedendo a **MAIN MENU > SETTINGS > SUPPORT > Upload Logs**.
 
 * Per altri suggerimenti, vedere Le [domande frequenti sull'account](../getting-started/creating-and-linking-accounts.md)
 

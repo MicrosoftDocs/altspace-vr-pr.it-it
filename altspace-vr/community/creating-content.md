@@ -1,44 +1,44 @@
 ---
-title: Creazione del contenuto di AltspaceVR
-description: Informazioni su come creare contenuto AltspaceVR, usare estensioni di realtà miste e partecipare alla community in espansione.
+title: Creazione di contenuto AltspaceVR
+description: Informazioni su come creare contenuto AltspaceVR, usare estensioni di realtà mista e partecipare alla community in espansione.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: estensioni di realtà mista, community, compilazione globale, risorse
-ms.openlocfilehash: f77c1ad1dfc5a6e95882f153152ad6dcbefcab8b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: estensioni di realtà mista, community, world building, risorse
+ms.openlocfilehash: 83888f0a6a4d81ca4573641daa28d0e5343039ea073337c2b18d8e7610d2a14e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212761"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125101"
 ---
-# <a name="creating-altspacevr-content"></a>Creazione del contenuto di AltspaceVR
+# <a name="creating-altspacevr-content"></a>Creazione di contenuto AltspaceVR
 
-AltspaceVR è una grande community per coloro che desiderano creare e condividere contenuti VR. 
+AltspaceVR è un'ottima community per chi vuole creare e condividere contenuto VR. 
 
-## <a name="mre-mixed-reality-extension-sdk"></a>SDK di MRE (Mixed Reality Extension)
+## <a name="mre-mixed-reality-extension-sdk"></a>MRE (Mixed Reality Extension) SDK
 
-Vogliamo supportare e ampliare la nostra community di sviluppatori. Sono state create diverse risorse che ci auguriamo di assistere anche agli sviluppatori principianti per la creazione di app Web e esperienze 3D multiutente. 
+Microsoft vuole supportare e far crescere la community di sviluppatori. Sono state create diverse risorse che ci auguriamo possano aiutare anche gli sviluppatori principianti a creare app Web ed esperienze multi-utente 3D. 
 
-## <a name="start-creating"></a>Avvia creazione
+## <a name="start-creating"></a>Iniziare a creare
 
-Visitare il [portale per sviluppatori AltspaceVR](https://developer.altvr.com/) per altre informazioni sull'SDK di MRE (Mixed Reality Extension).
+Per altre informazioni su MRE (Mixed Reality [Extension) SDK, portale per sviluppatori altspaceVR.](https://developer.altvr.com/)
 
 ## <a name="join-the-community"></a>Partecipare alla community
 
-È possibile contattare altri membri della community nei canali di discordia:
+È possibile contattare altri membri della community nei canali Discord:
 
-* [Discordia-AltspaceVR ufficiale](https://discord.gg/eYQ5VxK)
-* [Discord-MRE SDK](https://discord.gg/ypvBkWz)
+* [Discord - Official AltspaceVR](https://discord.gg/eYQ5VxK)
+* [Discord - MRE SDK](https://discord.gg/ypvBkWz)
 
-Puoi anche unirti a Microsoft in AltspaceVR in occasione della nostra bi-settimanale (mer @ 16.00 PT/gio @ 11:00 PT) [ALTSPACEVR SDK.](https://account.altvr.com/channels/sdk)
+È anche possibile unirsi a Noi in AltspaceVR nel nostro bi-settimanale (wed @ 4pm PT/Thu @ 11am PT) [AltspaceVR SDK Meetups!](https://account.altvr.com/channels/sdk)
 
-## <a name="world-building"></a>Compilazione globale
+## <a name="world-building"></a>World-Building
 
-La creazione di un ambiente consente agli utenti di trascinare e rilasciare facilmente oggetti nel proprio spazio per creare il proprio mondo.
+La creazione del mondo consente agli utenti di trascinare e rilasciare facilmente oggetti nel proprio spazio per creare il proprio mondo.
 
 ## <a name="resources"></a>Risorse
 
-* Pagine della Guida-compilazione globale
+* Pagine della Guida - World-Building
     * [Ricerca per categorie iniziare a creare il mondo?](../world-building/world-building-getting-started.md)
-    * [Dove posso ottenere assistenza per la compilazione globale?](../world-building/getting-help.md)
-* [Discordia-AltspaceVR ufficiale](https://discord.gg/eYQ5VxK), nel canale per la creazione di #world
+    * [Dove è possibile ottenere assistenza per la creazione di un mondo?](../world-building/getting-help.md)
+* [Discord - Official AltspaceVR](https://discord.gg/eYQ5VxK), nel canale #world-building

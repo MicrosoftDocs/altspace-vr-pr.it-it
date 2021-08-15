@@ -1,50 +1,50 @@
 ---
-title: AltspaceVR causerà la malattia del movimento?
-description: È possibile rimanere sempre aggiornati sulle domande e sulle soluzioni frequenti più recenti per la malattia in movimento negli ambienti VR.
+title: AltspaceVR causerà problemi di movimento?
+description: Rimanere aggiornati sulle domande frequenti più recenti e sulle soluzioni per la malattia del movimento negli ambienti di realtà virtuale.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: cinetosi, VR, nausea
-ms.openlocfilehash: 54f746bc2b213f011dbf94c2703ed039b4717d72
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: movimento insoditezza, vr, tutto
+ms.openlocfilehash: 29d7c20ae16a212ba808b6f1d16909a7f0d29daf7e2f6fd6e8401c83cbdb2e7e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213372"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128157"
 ---
-# <a name="will-altspacevr-cause-motion-sickness"></a>AltspaceVR causerà la malattia del movimento?
+# <a name="will-altspacevr-cause-motion-sickness"></a>AltspaceVR causerà problemi di movimento?
 
-## <a name="why-do-some-people-feel-ill-in-vr"></a>Perché alcune persone si sentono male in VR?
+## <a name="why-do-some-people-feel-ill-in-vr"></a>Perché alcune persone si sentano male nella realtà virtuale?
 
-Si tratta di una convinzione diffusa che tutti i VR causano vertigini e nausea. Il problema deriva da una discrepanza tra ciò che gli occhi osservano e il modo in cui l'orecchio interno trasmette al cervello. Quando gli occhi rilevano il movimento e le orecchie comunicano che ci si trova ancora, è possibile che alcuni utenti reagino indurre vertigini e nausea. Alcune persone più vulnerabili alla cinetosi possono essere più sensibili a questo fenomeno, mentre altre potrebbero non avere problemi. 
+È un'idea comune che tutta la realtà virtuale causa vertigini e tutto il mondo. Il problema deriva da una discrepanza tra ciò che gli occhi vedono e ciò che l'udito interno sta trasmettendo al cervello. Quando gli occhi rilevano il movimento e gli occhi comunicano che ci si trova ancora in piedi, il cervello di alcuni individui può reagire inducendo capogiri e capogiri. Alcune persone più vulnerabili alla malattia del movimento potrebbero essere più sensibili a questo fenomeno, mentre altre potrebbero non avere problemi. 
 
-Ci sono diverse operazioni che vengono eseguite a livello di hardware e alcune nel software di AltspaceVR che riduce o Elimina completamente il movimento di induzione della nausea in VR.
+Esistono diverse operazioni che vengono eseguite a livello di hardware e alcune nel software altspaceVR che riducono o eliminano completamente il movimento che induce il movimento nella realtà virtuale.
 
-## <a name="hardware-based-nausea-reduction"></a>Riduzione della nausea Hardware-Based
+## <a name="hardware-based-nausea-reduction"></a>Hardware-Based Riduzione dei costi
 
-L'hardware di VR contemporaneo come Oculus Rift e HTC vive riduce la malattia di movimento presentando fotogrammi video a una velocità che elimina la latenza che può causare nausea. Se il software viene ottimizzato, come AltspaceVR è, non si verifica alcun ritardo quando si trasforma la testa in VR. Gli accelerometri nella HMD comunicano lo spostamento e la trasmissione dei dati di telemetria più velocemente rispetto all'occhio umano che può rilevare qualsiasi latenza. Nei modelli HMD con le fotocamere posizionali, questo passaggio è più approfondito, non solo lo spostamento rotazionale rappresenta, quindi è il movimento laterale (Side-to-side).
+L'hardware VR moderno, ad esempio Oculus Rift e LARE Vive, riduce l'affaticamento del movimento presentando fotogrammi video a una velocità che elimina la latenza che può causare il mal di movimento. Se il software è ottimizzato, come altspaceVR, non si verifica alcun ritardo percepito quando si ruota la testa nella realtà virtuale. Gli accelerometri nell'HMD comunicano il movimento e trasmettono i dati di telemetria più velocemente di quanto l'occhio umano possa rilevare qualsiasi latenza. Nei modelli HMD dotati di fotocamere posizionali, questo va oltre, non solo è rappresentato il movimento rotazionale, così come il movimento laterale (da lato a lato).
 
-## <a name="software-based-nausea-reduction"></a>Riduzione della nausea Software-Based
+## <a name="software-based-nausea-reduction"></a>Software-Based Riduzione dei costi
 
-Oltre ai miglioramenti e ai framerate dell'hardware, AltspaceVR ha implementato diverse funzionalità che consentono agli utenti di ridurre ed eliminare la nausea:
+Oltre ai miglioramenti dell'hardware e ai framerate, AltspaceVR ha implementato diverse funzionalità che consentono agli utenti di ridurre ed eliminare il rischio:
 
-* **Teleporting** : lo spostamento immediato da punto a punto non comunica il movimento al cervello, eliminando così la malattia di movimento.
-* **Snap** -on tutti i componenti hardware, AltspaceVR fornisce mezzi per la rotazione "ratcheted" o "con rientri" della visualizzazione in VR. In altre parole, quando si attiva la visualizzazione, il pivot viene trasformato in circa 20 gradi di rotazione. Anche in questo caso non si attiva la nausea nella maggior parte degli utenti.
-* **Snap** -in un determinato hardware, scorrendo in avanti sul touchpad la prospettiva viene spostata in avanti in un incremento che non attiva la malattia di movimento. 
+* **Teletrasporto:** lo spostamento istantaneo da punto a punto non comunica il movimento al cervello, eliminando così la malattia del movimento.
+* **Attivazione** agganciamento: su tutto l'hardware, AltspaceVR fornisce i mezzi per la rotazione "con o senza spaziatura" della visualizzazione nella realtà virtuale. In altre parole, quando si esegue la rotazione, la visualizzazione verrà trasformata in pivot di circa 20 gradi di rotazione. Anche in questo caso, questo non attiva il mal di testa nella maggior parte delle persone.
+* **Blocca movimento:** su determinati componenti hardware, scorrendo verso l'avanti sul touchpad, la prospettiva verrà spostata in avanti in un incremento che non attiva problemi di movimento. 
  
-## <a name="suggestions-for-eliminating-motion-sickness"></a>Suggerimenti per eliminare la malattia di movimento
+## <a name="suggestions-for-eliminating-motion-sickness"></a>Suggerimenti per eliminare la malattia del movimento
 
-**Fermo**
+**Restare inalterati**
 
-Provare a non spostarsi troppo con i controller, semplicemente ruotare l'intestazione o verso l'alto o verso il basso per cercare in VR.
+Provare a non spostarsi troppo usando i controller, ma semplicemente ruotare la testa/l'alto/verso il basso per guardarsi attorno nella realtà virtuale.
 
-**Non usare un mouse/KB o un controller**
+**Non usare mouse/KB o controller**
 
-AltspaceVR offre agli utenti la possibilità di usare periferiche di gioco standard, ad esempio controller di tastiera e mouse, per spostarsi in VR come per un gioco video. Sono inclusi movimento multidirezionale, bombardamento e un pulsante Turbo. Si consiglia di usare questi solo dopo essere abituati a essere in VR. Anche in questo modo, è lento.
+AltspaceVR offre agli utenti la possibilità di usare periferiche di gioco standard, ad esempio mouse/tastiera e controller di gioco, per spostarsi nella realtà virtuale come in un video game. Ciò include spostamento multidirezionale, strafing e un pulsante turbo. È consigliabile usarli solo dopo essere stati abituati a usare la realtà virtuale. Anche in questo caso, rallentarlo.
 
-**È sempre possibile uscire da una cauzione**
+**È sempre possibile uscire**
 
-Se si riscontrano nausea, rimuovere immediatamente il HMD. Riottenere l'equilibrio, calmare lo stomaco e, quando si è pronti, tornare all'ambiente VR. Provare a ricordare lo spostamento che ha causato la sensazione ed evitare di ripeterlo.
+Se si verificano problemi, rimuovere immediatamente l'HMD. Riacquistare l'equilibrio, affrontare i problemi e quando si è pronti a tornare all'ambiente di realtà virtuale. Provare a ricordare il movimento che ha causato la ripetizione del movimento che ha causato l'estasi e il disartimento.
 
-**Informazioni sul momento in cui uscire da VR**
+**Sapere quando è il momento di uscire dalla realtà virtuale**
 
-In particolare, è importante tenere presente che è il momento di interrompersi. Si conosce il corpo e quando viene indicato che si è verificato un errore, ascoltare. Prendere una pausa e ottenere un po' di aria. Esaminare e riallineare l'equilibrio. Una volta riprovata, tornerò, siamo sicuri che la parte sarà ancora in corso.
+La cosa più importante è sapere quando è il momento di fare una pausa. Si conosce il corpo e quando viene data un'indicazione forte che qualcosa non va, ascoltare. Fare una pausa e prendere un po' d'aria. Spostarsi e riallineare l'equilibrio. Quando si è di nuovo a buon agio, si è certi che la parte continuerà a essere in corso.

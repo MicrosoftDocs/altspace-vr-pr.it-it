@@ -1,31 +1,31 @@
 ---
-ms.openlocfilehash: 87635656f90c6e6affb033fb19409b968101aba0
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 9e4ce07f8e549f9d648e7666971a1009ecaffc729b5f1ff9d5fd1148e520e05c
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213070"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126469"
 ---
 # <a name="altspacevr-application"></a>[Applicazione AltspaceVR](#tab/application)
 
 * [Ricerca della versione dell'app AltspaceVR](../faqs/app-version.md)
-* [Ricerca per categorie caricare i log del client?](../faqs/uploading-client-logs.md)
+* [Ricerca per categorie i log client?](../faqs/uploading-client-logs.md)
 * [Non è possibile avviare AltspaceVR](../faqs/unable-to-launch.md)
 
 # <a name="audio"></a>[Audio](#tab/audio)
 
-* [Gli auricolari VR hanno un microfono incorporato?](../faqs/vr-headset-mic.md)
-* [È presente un pulsante push a Talk?](../faqs/push-to-talk.md)
-* [L'audio è frammentato](../faqs/choppy-audio.md)
-* [Altri utenti non possono ascoltarmi](../faqs/other-users-cant-hear-me.md)
+* [I visori VR hanno un microfono incorporato?](../faqs/vr-headset-mic.md)
+* [È presente un pulsante push-to-talk?](../faqs/push-to-talk.md)
+* [L'audio è sconscioso](../faqs/choppy-audio.md)
+* [Altri utenti non possono sentirmi](../faqs/other-users-cant-hear-me.md)
 
-# <a name="account--avatar"></a>[Account & avatar](#tab/account)
+# <a name="account--avatar"></a>[Avatar & account](#tab/account)
 
-* [Come funziona targhette?](../faqs/nametags.md)
-* [Ricerca per categorie aggiornare le informazioni personali?](../faqs/updating-email-address.md)
+* [Come funzionano i tag dei nomi?](../faqs/nametags.md)
+* [Ricerca per categorie le informazioni personali?](../faqs/updating-email-address.md)
 
-# <a name="contact-us"></a>[Contattaci](#tab/contact)
+# <a name="contact-us"></a>[contattaci](#tab/contact)
 
 * [Aprire un ticket di supporto](../community/open-support-ticket.md)
-* [Inviare commenti e suggerimenti e richieste di funzionalità](../community/feature-requests.md)
-* [Segnala un report di abusi](../community/filing-abuse-reports.md)
+* [Inviare commenti e suggerimenti e richiedere funzionalità](../community/feature-requests.md)
+* [Segnalare un abuso](../community/filing-abuse-reports.md)

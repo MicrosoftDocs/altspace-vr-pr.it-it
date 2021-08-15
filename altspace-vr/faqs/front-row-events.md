@@ -1,28 +1,28 @@
 ---
 title: Che cosa sono gli eventi FrontRow?
-description: Informazioni sul modo in cui gli eventi Front Row consentono agli utenti di avvicinarsi a eventi AltspaceVR e personali.
+description: Informazioni su come gli eventi in prima riga consentono agli utenti di essere sempre più vicini e personali negli eventi AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Domande frequenti
-ms.openlocfilehash: 25bb2638dd0d9eeb1b11ac3913c1b5cab005bdf7
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3c2374662017377f8d50c3261efd2d6c5ce1a619dee02cdc9ad16d6e48436694
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213540"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128174"
 ---
 # <a name="what-are-frontrow-events"></a>Che cosa sono gli eventi FrontRow? 
 
-Gli eventi Front Row consentono a tutti i membri del gruppo di destinatari di partecipare ai nostri eventi più interessanti e interessanti. Che si tratti di una commedia o un concerto musicale, vogliamo che tutti gli utenti siano in grado di partecipare e godere di questi eventi senza dover attendere le righe. 
+Gli eventi in prima riga consentono a un numero qualsiasi di membri del pubblico di partecipare agli eventi più interessanti e interessanti. Indipendentemente dal fatto che si sia in piedi comedy o un concerto musicale, vogliamo che tutti possano partecipare a questi eventi senza dover attendere in nessuna riga. 
 
-La nostra tecnologia di prima riga consente all'esecutore di essere in aria tra tutte le istanze della sede VR, così come sono necessarie per supportare il numero di addetti interessati di quel particolare evento. 
+La tecnologia Front Row consente all'esecutore di essere on-air in tutte le istanze della sede VR necessarie per supportare il numero di assistenti interessati di quel particolare evento. 
 
-## <a name="my-friends-are-in-a-different-instance-of-the-event-than-me-how-can-i-join-them"></a>I miei amici si trovano in un'istanza diversa dell'evento, come è possibile unirli?
+## <a name="my-friends-are-in-a-different-instance-of-the-event-than-me-how-can-i-join-them"></a>I miei amici sono in un'istanza diversa dell'evento rispetto a me, come posso unirmi a loro?
 
-Una volta che uno degli amici è stato aggiunto a un evento di riga anteriore, è possibile immettere l'istanza dell'evento usando la freccia accanto al nome nell'elenco dell'amico. Se la relativa istanza è piena, è possibile eliminarli un messaggio che li invita a partecipare all'istanza. 
+Dopo che uno dei tuoi amici ha aderito a un evento in prima riga, puoi immettere l'istanza dell'evento usando la freccia accanto al nome nell'elenco dei tuoi amici. Se l'istanza è piena, è possibile eliminare un messaggio che invita a unirsi all'utente nell'istanza. 
 
-## <a name="can-the-performer-see-me"></a>È possibile visualizzare l'esecutore?
+## <a name="can-the-performer-see-me"></a>L'esecutore può vedermi?
 
-Il talento sulla fase è la visualizzazione dei destinatari che popolano una singola istanza dell'evento di riga anteriore, sebbene possano visualizzare gli Emoji generati dagli utenti in tutte le istanze dell'evento.
+Il talent sul palco sta visualizzando il pubblico che popola una singola istanza dell'evento front row, anche se può visualizzare le emoji generate dagli utenti in tutte le istanze dell'evento.
 
-Quando un utente seleziona il pulsante "Raise Hand", gli host di eventi possono attivare l'aria per tale persona usando gli strumenti host. A questo punto, il membro del pubblico può essere visualizzato e sentito in tutte le istanze come gli esecutori. Ciò consente agli utenti di partecipare alla presentazione e interagire con il talento durante le domande e risposte&una sessione in cui si trovano.
+Quando un utente seleziona il pulsante "Alza mano", gli host eventi possono attivare On-Air per tale persona usando gli strumenti host. A questo punto il membro del pubblico può essere visto e ascoltato in tutte le istanze, proprio come gli esecutori. In questo modo gli utenti possono partecipare alla presentazione e interagire con il talent durante le sessioni di domande&A in qualsiasi stanza.

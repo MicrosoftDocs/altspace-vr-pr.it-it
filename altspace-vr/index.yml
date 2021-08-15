@@ -13,19 +13,19 @@ metadata:
   ms.date: 02/10/2021
 highlightedContent:
   items:
-    - title: Guida introduttiva
+    - title: Introduzione
       itemType: get-started
       url: journey.md
     - title: Individuare il contenuto & persone
       itemType: overview
-      url: getting-started/system-requirements.md
+      url: community/exploring-title-screen.md
     - title: Creazione di eventi
       itemType: how-to-guide
       url: tutorials/creating-an-event.md
     - title: Creazione di un mondo
       itemType: learn
       url: world-building/world-editor-getting-started.md
-    - title: Primi acccess
+    - title: Accesso anticipato
       itemType: whats-new
       url: world-building/early-access.md
     - title: Risoluzione dei problemi
@@ -87,9 +87,9 @@ additionalContent:
           links:
             - text: Iscriversi alla newsletter
               url: community/newsletter-subscriptions.md
-            - text: Programma helper della community
+            - text: Community helper
               url: community/community-helper-program.md
-            - text: Guida dell'helper della community
+            - text: Community helper
               url: community/community-helper-guide.md
         - title: Risoluzione dei problemi e supporto
           links:
@@ -97,7 +97,7 @@ additionalContent:
               url: faqs/vr-headset-mic.md
             - text: Account e avatar
               url: faqs/nametags.md
-            - text: AltspaceVR - applicazione
+            - text: Applicazione AltspaceVR
               url: faqs/app-version.md
             - text: Sicurezza & integrità
               url: faqs/motion-sickness.md
