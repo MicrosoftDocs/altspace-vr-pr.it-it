@@ -77,7 +77,7 @@ Al termine dell'importazione del pacchetto, la familiare finestra uploader dovre
 
 1. Se si verificano problemi di controller o di input sul visore VR WinMR, assicurarsi che sia posizionato sulla testa per coinvolgere correttamente il sensore di presenza. Si tratta di un problema noto e Microsoft sta lavorando attivamente per risolverlo.
 
-2. Controllare il visore VR e la compatibilità della compilazione dello store. Se ad esempio si usa un visore VR WinMR, assicurarsi che la build di AltspaceVR sia stata acquisita tramite Windows Store.
+2. Controllare il visore VR e la compatibilità della compilazione dello store. Se si usa un visore VR WinMR, ad esempio, assicurarsi che la build di AltspaceVR sia stata acquisita tramite Windows Store.
 
 3. Se durante i test si scopre che il contenuto viene visualizzato solo in modalità VR, è probabile che gli shader personalizzati in uso non supportino il rendering SPI. È necessario scegliere uno shader diverso o seguire la guida [all'aggiornamento SPI](https://docs.unity3d.com/Manual/SinglePassInstancing.html) di Unity per modificare manualmente lo shader e aggiungere il supporto.
 

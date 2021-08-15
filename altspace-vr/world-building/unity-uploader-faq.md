@@ -68,7 +68,7 @@ No, Altspace sta servendo i file dopo averli caricati
 Sì
 
 **16. Con quale rapidità è possibile eseguire l'iterazione usando lo strumento di caricamento?**
-Se si è già nel mondo, è possibile premere Upload in Uploader, reimpostare world e visualizzare la scena aggiornata in meno di 10 secondi. In genere, vengono visualizzati cicli da 30 secondi a pochi minuti a seconda della complessità della scena. Bevi una bevanda e ti disderti di essere un World Builder.
+Se si è già nel mondo, è possibile premere Upload in Uploader, reimpostare Il mondo e visualizzare la scena aggiornata in meno di 10 secondi. In genere, vengono visualizzati cicli da 30 secondi a pochi minuti a seconda della complessità della scena. Bevi una bevanda e ti disderti di essere un World Builder.
 
 **17. Dove si ottengono i modelli 3D?**
 Sketchfab, Sketchup, Minecraft, Unity Asset Store e così via.
@@ -80,4 +80,4 @@ Sketchfab, Sketchup, Minecraft, Unity Asset Store e così via.
 **19. Come è possibile configurare l'audio spaziale?** Importare il file wav preferito, creare un oggetto gioco vuoto nella scena e selezionare questo oggetto. Trascinare e rilasciare il suono importato nel controllo dell'oggetto per creare un'origine audio. Successivamente, regolare il volume su un valore non superiore a 0,5, modificare la fusione spaziale in 3D e regolare la distanza minima e massima per creare un'area audio appropriata. Questa viene visualizzata come sfera come collisori per impostazione predefinita. Per ottenere un calo reale, è necessario modificare la curva di discesa in base alle proprie necessità. [(tramite @IsThatToasted )](https://www.youtube.com/watch?v=ktb2vAAwknw&list=PLGmYIROty-5bpzKQNK3mRMi4pmh_LinV4&t=642s&index=29)
 
 **20. Com'è possibile che si vedano gli occhi incrociati o l'insodenza?**
-In alcuni casi uploader non esegue correttamente l'override delle impostazioni di rendering. "Vai a Modifica > Project Impostazioni > lettore". Assicurarsi che "XR Impostazioni > Virtual Reality Supported" (XR Impostazioni > Virtual Reality Supported) sia selezionato e che "Stereo Rendering Method" (Metodo di rendering stereo) sia "Single Pass" o "Single Pass (Preview)" (Singolo passaggio (anteprima)) per PC e Android (selezionare l'icona del robot). Successivamente, compilare e caricare di nuovo e reimpostare Il mondo. 
+In alcuni casi uploader non esegue correttamente l'override delle impostazioni di rendering. "Vai a Modifica > Project Impostazioni > lettore". Assicurarsi che "XR Impostazioni > Virtual Reality Supported" (XR Impostazioni > Virtual Reality Supported) sia selezionato e che "Stereo Rendering Method" (Metodo di rendering stereo) sia "Single Pass" o "Single Pass (Preview)" per PC e Android (selezionare l'icona del robot). Successivamente, compilare e caricare di nuovo e reimpostare Il mondo. 

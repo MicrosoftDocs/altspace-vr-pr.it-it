@@ -21,7 +21,7 @@ Il pulsante principale nell'editor del mondo è il **pannello editor**. Verrà a
 
 ![Finestra dell'editor world](images/world-editor-img-02.png)
 
-Quando si scorre un oggetto, viene visualizzato un limite di evidenziazione blu. Fare clic sull'oggetto per selezionarlo. Il limite rimarrà blu fino a quando viene selezionato. È anche possibile bloccare un oggetto sul posto per assicurarsi che sia posizionato esattamente nella posizione desiderata. Bloccando l'oggetto, il colore del limite di evidenziazione sarà rosso. Questi colori e segnali visivi corrispondono nel pannello dell'editor, che semplifica la visualizzazione di ciò che si sta lavorando e dello stato in cui si trova un oggetto.
+Quando si scorre un oggetto, viene visualizzato un limite di evidenziazione blu. Fare clic sull'oggetto per selezionarlo. Il limite rimarrà blu fino a quando viene selezionato. È anche possibile bloccare un oggetto sul posto per assicurarsi che sia posizionato esattamente nella posizione desiderata. Bloccando l'oggetto, il colore del bordo dell'evidenziazione sarà rosso. Questi colori e segnali visivi corrispondono nel pannello dell'editor, che semplifica la visualizzazione di ciò che si sta lavorando e dello stato in cui si trova un oggetto.
 
 :::row:::
     :::column:::
@@ -49,12 +49,12 @@ Usare il **pulsante Attiva/Disattiva** ambiente per nascondere o visualizzare lo
 
 ![Attivare o disattivare il pulsante ambiente per nascondere o visualizzare lo spazio](images/world-editor-img-08.png)
 
-Usare il **pulsante Attiva/Disattiva** volo per abilitare la possibilità di sfidare la gravità. Who necessario uno scaffolding quando è possibile scorrere il cielo? Usare questa funzionalità per portare il "cantiere" al livello successivo. Il volo è semplice: basta guardare nella direzione in cui si vuole pilotare e usare i tasti di scelta rapida (o il pollice sul controller) per arrivarci. 
+Usare il **pulsante Attiva/Disattiva** volo per abilitare la possibilità di sfidare la gravità. Who necessario uno scaffolding quando è possibile scorrere il cielo? Usare questa funzionalità per portare il "cantiere" al livello successivo. Il volo è semplice: basta guardare nella direzione in cui si vuole pilotare e usare i tasti di scelta rapida (o la levetta sul controller) per arrivarci. 
 
 Usare il **pulsante Di ritaglio dell'ambiente** per passare gli oggetti con facilità in modo da poter aggirarsi nello spazio 3D senza farsi inciampare dagli elementi del mondo. La possibilità di ritagliare elementi e pareti consente una totale libertà di movimento, in modo da ottenere un mondo perfettamente dettagliato.  
 
 Tenere presente che la pratica è perfetta. Quindi, hop nel mondo e ottenere la creazione con l'editor del mondo! 
 
-Se si hanno altre domande o si vuole apprendere dai professionisti, vedere il canale #world-building nel [server Discord della community.](https://discord.com/invite/altspacevr) 
+Se si hanno altre domande o si vuole imparare dai professionisti, vedere il canale #world-building nel [server Discord della community.](https://discord.com/invite/altspacevr) 
 
 Compilazione soddisfatta.

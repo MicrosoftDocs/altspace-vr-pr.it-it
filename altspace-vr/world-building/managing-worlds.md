@@ -30,7 +30,7 @@ ms.locfileid: "119125612"
 
 ![Create world panel open with input fields (Crea pannello mondo aperto con i campi di input)](images/manage-worlds-img-03.png)
 
-5. Congrats on your brand new World! È possibile premere **INVIO per** avviare Altspace o condividere il collegamento a questa pagina con gli amici. Nella realtà virtuale è possibile trovarla in Worlds > My Worlds (Worlds > My Worlds). Non esiste alcun limite al numero di Worlds che è possibile creare.
+5. Congrats on your brand new World! È possibile premere **INVIO per** avviare Altspace o condividere il collegamento a questa pagina con gli amici. Nella realtà virtuale è possibile trovarlo in Worlds > My Worlds (Worlds > My Worlds). Non esiste alcun limite al numero di Worlds che è possibile creare.
 
 ![Mondo in esecuzione nella realtà virtuale](images/manage-worlds-img-04.png)
 
@@ -46,4 +46,4 @@ ms.locfileid: "119125612"
 
 ## <a name="creating-extra-universes"></a>Creazione di universes aggiuntivi
 
-In **Worlds > My Worlds > Universes**(I miei >) è presente un pulsante **Create Universe (Crea** universo) nella parte superiore. Verrà creato un nuovo universo. Gli inii non sono ancora presenti nella realtà virtuale.
+In **Worlds > My Worlds > Universes**(I miei >) è presente un pulsante **Create Universe** (Crea universo) nella parte superiore. Verrà creato un nuovo universo. Gli inii non sono ancora presenti nella realtà virtuale.

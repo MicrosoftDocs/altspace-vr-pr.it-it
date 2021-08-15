@@ -30,7 +30,7 @@ Il proiettore Web AltspaceVR è una soluzione di condivisione multimediale affid
 1. Per iniziare, è necessario scaricare e installare l'estensione del browser, disponibile [qui](https://account.altvr.com/web_projector).
 2. Successivamente, [sideload dell'estensione nel browser Microsoft Edge.](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/extension-sideloading)
     * Al termine del download, passare alla **sezione Estensioni** del browser. (Disponibile in **Impostazioni**)
-    * Decomprimere il file .zip.
+    * Decomprimere il file .zip file.
     * Attivare la **modalità sviluppatore** e selezionare **Carica disimballato**
     * Scegliere la cartella appena decompressa. Questa è l'estensione del proiettore Web.
     * Dopo aver aggiunto l'estensione, è possibile passare a **Dettagli** per configurare le impostazioni.
@@ -47,7 +47,7 @@ Dopo aver scaricato e installato l'estensione, è possibile usarla.
 ## <a name="projecting-your-browser-in-world"></a>Proiettare il browser nel mondo
 
 1. Dopo aver configurato il browser per la proiezione e aver avviato lo streaming tramite l'estensione, aprire AltspaceVR.
-2. Configurare il proiettore Web nell'ambiente preferito aprendo World Editor > Basics > Web Projector (Informazioni di base sul web projector)
+2. Configurare il proiettore Web nell'ambiente preferito aprendo World Editor > Basics > Web Projector
 3. Una volta posizionati, è possibile usare i controlli World Editor per ridimensionare il proiettore Web. Includerà anche istruzioni sullo schermo.
 4. Selezionare il **pulsante Connessione** per avviare lo streaming del browser Edge.
 5. Ricordarsi di **fare clic su** Broadcast per iniziare a condividere con tutti gli utenti guest nello spazio.
@@ -61,4 +61,4 @@ Dopo aver scaricato e installato l'estensione, è possibile usarla.
 > Al momento i pulsanti di controllo aggiuntivi nella parte superiore del proiettore Web non sono ancora live. Rimarranno grigie e non selezionabili con il pulsante destro del mouse. Non si tratta di un bug, ma di progettazione (per il momento).
 
 > [!IMPORTANT]
-> DISCLAIMER: Nota: l'utilizzo del proiettore Web, come tutte le [](../community/terms-of-service.md) altre funzionalità di AltspaceVR, è soggetto alle Condizioni per l'utilizzo e agli [standard Community Microsoft.](../community/community-standards.md) Di conseguenza, il proiettore Web non può essere usato per lo streaming di contenuto che viola uno dei due contratti. In questo modo verranno eseguite azioni di moderazione da AltspaceVR. L'accesso a Web Projector Open Beta non è garantito e può essere concesso solo per una versione di valutazione temporanea. La lunghezza della versione beta e la durata della partecipazione sono a discrezione del team altspaceVR. L'uso della versione beta del proiettore Web non è obbligatorio e la partecipazione alla versione beta è puramente volontaria. I partecipanti sono invitati a offrire commenti e suggerimenti sul proiettore Web che consentono di modellare le funzionalità e l'usabilità della funzionalità man mano che lo sviluppo continua. La versione beta del proiettore Web può avere funzionalità limitate e potrebbe essere soggetta a bug imprevisti. Grazie, in anticipo, per la partecipazione.
+> DISCLAIMER: Nota: l'utilizzo del proiettore Web, come tutte le [](../community/terms-of-service.md) altre funzionalità di AltspaceVR, è soggetto alle Condizioni per l'utilizzo e agli [standard Community microsoft.](../community/community-standards.md) Di conseguenza, il proiettore Web non può essere usato per lo streaming di contenuto che viola uno dei due contratti. In questo modo verranno eseguite azioni di moderazione da AltspaceVR. L'accesso a Web Projector Open Beta non è garantito e può essere concesso solo per una versione di valutazione temporanea. La lunghezza della versione beta e la durata della partecipazione sono a discrezione del team altspaceVR. L'uso della versione beta del proiettore Web non è obbligatorio e la partecipazione alla versione beta è puramente volontaria. I partecipanti sono invitati a offrire commenti e suggerimenti sul proiettore Web che consentono di modellare le funzionalità e l'usabilità della funzionalità man mano che lo sviluppo continua. La versione beta del proiettore Web può avere funzionalità limitate e potrebbe essere soggetta a bug imprevisti. Grazie, in anticipo, per la partecipazione.

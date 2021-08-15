@@ -1,6 +1,6 @@
 ---
-title: L'audio è sconscioso
-description: Informazioni su come diagnosticare e correggere l'audio sconscioso negli eventi AltspaceVR.
+title: L'audio è molto azzarto
+description: Informazioni su come diagnosticare e correggere l'audio non corretto negli eventi AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Domande frequenti
@@ -11,11 +11,11 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119128211"
 ---
-# <a name="my-audio-is-choppy"></a>L'audio è sconscioso
+# <a name="my-audio-is-choppy"></a>L'audio è molto azzarto
 
-Alcuni utenti hanno notato che quando un altro avatar parla l'audio si presenta come un'immagine sminuzzata o con normali drop-out. In altri casi è possibile essere informati da altri utenti che il proprio audio sta passando attraverso un'audio sconscioso o robotico.
+Alcuni utenti hanno notato che quando un altro avatar pronuncia l'audio si presenta come un'estrazione o con regolari drop-out. In altri casi si potrebbe essere informati da altri utenti che il proprio audio sta passando attraverso un sistema robotico o di tipo robotico.
 
-La prima cosa da provare è rientrare sempre nello spazio in cui ci si trova o persino riavviare AltspaceVR se l'operazione non riesce. I problemi audio non sono comuni, ma quando si verificano si tratta spesso di una soluzione semplice. 
+La prima cosa da provare è accedere sempre allo spazio in cui ci si trova o persino riavviare AltspaceVR se l'operazione non riesce. I problemi audio non sono comuni, ma quando si verificano spesso si tratta di una soluzione semplice. 
 
 Se l'operazione non riesce, è possibile eseguire altre indagini. 
 
@@ -23,8 +23,8 @@ Se l'operazione non riesce, è possibile eseguire altre indagini.
 
 ### <a name="cpu-performance"></a>Prestazioni CPU
 
-Esaminare le [specifiche di sistema consigliate per](../getting-started/system-requirements.md) l'hardware consigliato per l'esecuzione di AltspaceVR. È stato rilevato che le CPU i3 e i problemi di causa inferiori non solo con la frequenza dei fotogrammi del video, ma possono contribuire a problemi audio, ad esempio drop-out e qualità scadente.
+Esaminare le [specifiche di sistema consigliate per](../getting-started/system-requirements.md) l'hardware consigliato per l'esecuzione di AltspaceVR. È stato rilevato che le CPU i3 e le cpu inferiori causano problemi non solo con le frequenze dei fotogrammi del video, ma possono contribuire a problemi audio, ad esempio gli drop out e la qualità scadente.
 
 ### <a name="internet-bandwidth-and-network-connection"></a>Larghezza di banda Internet e connessione di rete
 
-Gli utenti con connessioni Internet lente (meno di 5 mbps) o nel Wi-Fi possono avere problemi audio, ad esempio i drop-out. È consigliabile una connessione di rete fissa di un cavo Ethernet al computer e una connessione più veloce di 5 mbps. È possibile chiudere tutti i programmi che potrebbero usare la connettività Internet in background.
+Gli utenti con connessioni Internet lente (inferiori a 5 mbps) o in Wi-Fi possono avere problemi audio, ad esempio gli drop-out. È consigliabile una connessione fissa di un cavo Ethernet al computer e una connessione più veloce di 5 mbps. È possibile uscire da tutti i programmi che potrebbero usare la connettività Internet in background.

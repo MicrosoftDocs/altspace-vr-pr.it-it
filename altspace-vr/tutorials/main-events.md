@@ -27,7 +27,7 @@ Gli eventi principali sono eventi pubblici che hanno soddisfatto requisiti speci
 
 ## <a name="what-is-the-all-tab-of-the-calendar"></a>Che cos'è la scheda "Tutti" del calendario?
 
-La scheda "Tutti" è l'elenco totale di tutti gli eventi pubblici in AltspaceVR. Spesso contiene eventi rapidi come giochi impromptui di Ologrammi Against Reality o AltQuiz. Gli eventi pubblici che non sono elencati come Eventi principali sono ancora individuabili nella scheda "Tutti", ma non sono considerati idonei per la promozione.
+La scheda "Tutti" è l'elenco totale di tutti gli eventi pubblici in AltspaceVR. Spesso contiene eventi rapidi come giochi impromptu di Ologrammi Against Reality o AltQuiz. Gli eventi pubblici che non sono elencati come Eventi principali sono ancora individuabili nella scheda "Tutti", ma non sono considerati idonei per la promozione.
 
 ## <a name="how-can-my-event-become-a-main-event"></a>In che modo l'evento può diventare un evento principale?
 
@@ -41,7 +41,7 @@ Durante il processo di creazione degli eventi, è possibile selezionare "Aggiung
 * L'account AltspaceVR dell'autore/host deve avere una data minima di una settimana (sette giorni).
 * L'autore/host deve aver ospitato almeno un (1) evento pubblico precedente.
 * L'autore o l'host deve essere ok con AltspaceVR che promuove il proprio evento tramite tutti i metodi pertinenti (social media, newsletter, Eventi Oculus e così via.
-* Se viene rilevato che un evento non è performante, contiene contenuto inappropriato o in violazione degli standard o delle condizioni per l'utilizzo del servizio di Community, l'host deve seguire tutte le richieste/modifiche emesse dal personale altspaceVR per mantenere la designazione dell'evento principale.
+* Se viene rilevato che un evento non è performante, contiene contenuto inappropriato o in violazione degli standard o delle condizioni per l'utilizzo del servizio di Community, l'host deve seguire le richieste o le modifiche emesse dal personale altspaceVR per mantenere la designazione dell'evento principale.
 * Il mondo di origine deve superare il controllo di diagnostica: (tutte le metriche all'interno delle tabelle GOOD e OK sono consentite. Le metriche all'interno della tabella BAD non lo sono.
 
 | Analisi diagnostica | Buono (passerà) | Ok (passerà) | Non riuscito (avrà esito negativo) |
@@ -78,18 +78,18 @@ Sì, assolutamente. I feed di social media e la newsletter settimanale continuer
 
 ## <a name="how-can-i-maximize-my-chances-of-attracting-a-large-audience-to-my-event-or-being-promoted-by-altspacevr"></a>Come è possibile sfruttare al massimo le possibilità di attirare un pubblico di grandi dimensioni per l'evento o di essere promossi da AltspaceVR?
 
-Quando si crea l'evento, è consigliabile usare alcuni elementi per aumentare le probabilità di essere presenti nel calendario degli eventi & essere selezionati per la promozione:
+Quando si crea l'evento, è consigliabile eseguire alcune operazioni per aumentare le probabilità di essere presenti nel calendario degli eventi & essere selezionati per la promozione:
 
 1. Usare il titolo per inquere leità delle persone
-    * Essere specifici. Parlare agli interessi delle persone. Essere un invito.
-    * Ad esempio: "Chat di basket" è meno interessante di "FINALS Watch Party"
+    * Essere specifici. Parlare con gli interessi delle persone. Essere invito.
+    * Ad esempio: "Basket Chat" è meno accattivante di "NBA Finals Watch Party"
 2. Scrivere una descrizione breve ma informativa
-    * Indicare alle persone cosa aspettarsi. È possibile mantenerlo breve ma interessante. Non essere criptico. Non usare markdown
-    * Ad esempio: "Science talk about dinosaurs" (Parlare di dinosauri) è meno interessante di "Join Dr.Band Geller on a safari-like a safari-like a Jurassic World. Scopri i dinosauri che una volta si sono aggirati sulla Terra".
+    * Indicare agli utenti cosa aspettarsi. Tienilo breve ma interessante. Non essere criptico. Non usare markdown
+    * Ad esempio: "Parlare di scienza sui dinosauri" è meno interessante di "Partecipare al dr. Ross Geller in una spedizione simile a un safari attraverso un mondo giurassico virtuale. Scopri i dinosauri che una volta hanno vagato per la Terra."
 3. Usare un'immagine personalizzata
     * Gli oggetti visivi interessanti sono un modo sicuro per distinguersi nel calendario.
-    * Evitare di aggiungere testo. usare il colore; aggiungere logo nella moderazione.
+    * Evitare di aggiungere testo; usare il colore; aggiungere logo nella moderazione.
 4. Creare l'inserzione in anticipo e in anticipo sulla data dell'evento
-    * Maggiore è il tempo trascorso dall'evento nel calendario, maggiore sarà il tempo necessario per essere individuati dai nuovi destinatari.
-5. Coerenza nel contenuto e nella comunicazione
-    * Impostare una pianificazione di & in modo che i destinatari sappiano quando cercare l'inserzione successiva; usare social media o piattaforme come Discord per comunicare con i fan.
+    * Maggiore è il tempo che l'evento dedica al calendario, maggiore sarà il tempo necessario per essere individuati dai nuovi destinatari.
+5. Essere coerenti nel contenuto e nella comunicazione
+    * Impostare una pianificazione dell'evento & ai destinatari quando cercare l'inserzione successiva; usare social media o piattaforme come Discord per comunicare con i fan.

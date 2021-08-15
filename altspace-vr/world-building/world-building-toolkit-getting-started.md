@@ -1,6 +1,6 @@
 ---
 title: Introduzione al world building Toolkit
-description: Informazioni su come configurare e caricare i mondi AltspaceVR usando i modelli di scena unity con l'Toolkit.
+description: Informazioni su come configurare e caricare i mondi AltspaceVR usando i modelli di scena di Unity con il world building Toolkit.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Toolkit
@@ -16,14 +16,14 @@ ms.locfileid: "119125407"
 > [!NOTE]
 > The World Building Toolkit è un progetto della community gestito dal nostro straordinario amico, [Anthony Madden,](https://twitter.com/chigamesstudio)con il supporto di Microsoft. Se si è interessati, iscriversi al [disco ufficiale altspaceVR e](https://discordapp.com/invite/altspacevr) visitare il canale #world-building. Attualmente è disponibile una versione beta della versione di valutazione Mac, [altri dettagli](https://altvr.com/altspacevr-mac)
 
-Uploader consente di usare una scena unity come modello per i mondi. È possibile ospitare una casa infestata per Halloween o la creazione preferita da Minecraft. Se è possibile importarlo in Unity, è possibile ottenerlo in Altspace in questo modo. Ecco alcuni esempi [di Worlds](https://account.altvr.com/worlds/1046572460192825569).
+Uploader consente di usare una scena unity come modello per i mondi. È possibile ospitare una casa infestata per Halloween o la creazione preferita da Minecraft. Se è possibile importarlo in Unity, è possibile ottenerlo in Altspace in questo modo. Ecco alcuni esempi [di Worlds.](https://account.altvr.com/worlds/1046572460192825569)
 
 ![Mondi di esempio](images/unity-uploader-img-01.png)
 
 ## <a name="setup"></a>Eseguire la configurazione
 
 1. Partecipa alla [discordia altspaceVR](https://discordapp.com/invite/altspacevr) ufficiale e visita il canale #world-building - Friends don't let friends build Worlds alone(Amici non lasciare che gli amici costruiscono worlds da soli).
-2. Per informazioni [di base, Attività iniziali sulla](world-building-getting-started.md) creazione del mondo
+2. Per informazioni [di base, Attività iniziali guida](world-building-getting-started.md) alla creazione del mondo
 3. [Installare Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) e **Unity 2020.3.9.** Il caricatore non funzionerà a meno che non si corrisponda esattamente a questa versione. Sarà necessario un account Unity gratuito se non è disponibile e scegliere **Personale** perché si sta eseguendo questa operazione per divertimento. Durante l'installazione, assicurarsi di selezionare **l'opzione Compilazioni Android** e disabilitare l'aggiornamento automatico.
 4. [Scaricare la versione più recente di Unity Uploader](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
 5. [Creare un modello nel](https://account.altvr.com/space_templates/new) sito Web. Assegnare **Hello World modello**.
@@ -40,16 +40,16 @@ Uploader consente di usare una scena unity come modello per i mondi. È possibil
 3. Aprire **il menu > altspaceVR > build Impostazioni**
 4. Accedere con le credenziali dell'account Altspace
 5. Selezionare **Carica modelli** e quindi selezionare Hello World **modello**
-6. Aggiungere un cubo alla scena e salvarlo.
-7. Selezionare **Compila per Windows?** e deselezionare **Compila per Android?**
+6. Aggiungere un cubo alla scena e salvare.
+7. Selezionare **Compila per Windows?** e **deselezionare Compila per Android?**
 8. Selezionare **Carica**. In circa un minuto dovrebbe essere **visualizzato** Upload completa.
-9. Partecipare **Hello World** avviare Altspace ed entrare da **Menu > Worlds > My Worlds**
+9. Partecipa **Hello World** avviando Altspace ed immettendo da **Menu > Worlds > My Worlds**
 10. Reset the World from **Menu > Impostazioni > Moderate > Reset Space**
 11. Verrà visualizzato il cubo. Se lo si fa rapidamente come nel video precedente, è possibile visualizzare le modifiche entro un massimo di 10 secondi.
 
 ## <a name="whats-supported"></a>Attività supportate
 
-* Sì: modelli, collisioni, animazioni, effetti delle particelle, audio, skybox e così via
+* Sì: modelli, collisione, animazioni, effetti delle particelle, audio, skybox e così via
 * No: script. Per motivi di sicurezza, i caricamenti contenenti script verranno rifiutati
 * Forse: cose fantasiose come l'illuminazione globale dinamica
 * Upload scene per piattaforme diverse separatamente o insieme
@@ -71,7 +71,7 @@ Uploader consente di usare una scena unity come modello per i mondi. È possibil
 
 **Sto cadendo o non riesco a teletrasportarmi su nulla** È necessario aggiungere la collisione agli oggetti per teletrasportarli.
 
-**Non è stato modificato alcun elemento**
+**Non è cambiato nulla**
     * La scena è stata salvato in Unity?
     * È stata scelta la piattaforma su cui si sta testando?
     * Sei nel mondo giusto? È stato scelto il modello giusto nel modulo Uploader AND in the World?
@@ -84,7 +84,7 @@ Uploader consente di usare una scena unity come modello per i mondi. È possibil
     * Non forzare l'uscita durante una compilazione. Può danneggiare la scena. Provare a ricaricare.
 
 **Si tratta di un processo lento**
-    * È consigliabile compilare solo per PC durante l'iter e per Android in un secondo momento.
+    * È consigliabile compilare solo per PC durante l'iterazione e per Android in un secondo momento.
     * Provare a rimuovere i file inutilizzati. Per qualsiasi motivo Unity diventa troppo zealous a volte.
 
 **Non è possibile accedere con le credenziali altspace**

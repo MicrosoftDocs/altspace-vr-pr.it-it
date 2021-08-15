@@ -1,6 +1,6 @@
 ---
-title: Backup dei mondi
-description: Informazioni su come creare, gestire e risolvere i problemi relativi agli snapshot di backup dei mondi AltspaceVR.
+title: Eseguire il backup dei propri mondo
+description: Informazioni su come creare, gestire e risolvere i problemi relativi agli snapshot di backup di altspaceVR.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: salvataggio
@@ -11,9 +11,9 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119125473"
 ---
-# <a name="backing-up-your-worlds"></a>Backup dei mondi
+# <a name="backing-up-your-worlds"></a>Eseguire il backup dei propri mondo
 
-Un backup è uno "snapshot" o un record di tutti gli oggetti in un mondo in un momento specifico. Si supponga di creare la casa dei dream e che un giorno sia stato accidentalmente eliminato il living. Se il giorno prima è stato creato un backup del mondo, è possibile ripristinare il backup specifico, reimpostare il mondo ed evitare un attacco di panico. Oppure si dispone di una versione della propria cabin-in-the-boscaglia per ogni stagione e si desidera passare da una all'altra. È possibile farlo con i backup. Ogni backup è specifico di un singolo mondo e contiene non solo le trasformazioni (posizione, rotazione, scala), ma anche altre impostazioni sugli oggetti. Non esiste alcun limite al numero di backup che è possibile creare per un mondo.  
+Un backup è uno "snapshot" o un record di tutti gli oggetti in un mondo in un momento specifico. Si supponga di creare la casa dei dream e di aver eliminato accidentalmente il locale. Se fosse stato creato un backup del mondo il giorno prima, era possibile ripristinare quel particolare backup, reimpostare il mondo ed evitare un attacco di panico. Oppure si dispone di una versione del proprio tempo per ogni stagione e si desidera passare da una all'altra: è possibile farlo con i backup. Ogni backup è specifico di un singolo mondo e contiene non solo le trasformazioni (posizione, rotazione, scala), ma anche altre impostazioni sugli oggetti. Non esiste alcun limite al numero di backup che è possibile creare per un mondo.  
 
 ## <a name="whats-included-in-a-backup"></a>Che cosa è incluso in un backup?
 
@@ -21,10 +21,10 @@ Un backup include attualmente la maggior parte degli elementi che è possibile g
 * Artifacts (oggetti Kit)
 * Etichette
 * Teletrasporti
-* Generare punti
+* Genera punti
 * Foto
-* App dell'SDK MRE
-* App native (ad esempio, Ologrammi Against Reality)
+* App MRE SDK
+* App native (ad esempio, Ologrammi contro la realtà)
 
 Non è incluso quanto segue:
 
@@ -36,29 +36,29 @@ Non è incluso quanto segue:
 
 ## <a name="managing-backups"></a>Gestione dei backup
 
-È possibile creare un backup aprendo World Editor/Altspace e facendo clic su "Backup". Il primo pulsante sarà il pulsante "Nuovo backup". Quando si crea un backup, verrà richiesto di specificare un nome breve. Questo è facoltativo ma altamente consigliato perché si otterrà rapidamente confusione. I backup esistenti verranno elencati dopo il pulsante "Crea". Facendo clic su un backup esistente verrà avviato un ripristino. Quando si ripristina un backup, world verrà reimpostato dopo alcuni istanti, ma le modifiche potrebbero non essere visualizzate. Attendere uno o due minuti e reimpostare di nuovo Il mondo. **Attualmente non è possibile modificare o eliminare** un backup in VR. Per il momento è necessario gestire i backup nel sito Web. La gestione dei backup nella realtà virtuale verrà migliorata a breve. Nel frattempo, portare con noi).
+È possibile creare un backup aprendo World Editor/Altspace e facendo clic su "Backup". Il primo pulsante sarà il pulsante "Nuovo backup". Quando si crea un backup, verrà chiesto di specificare un nome breve. Si tratta di un'operazione facoltativa ma altamente consigliata perché può generare confusione rapidamente. I backup esistenti verranno elencati dopo il pulsante "Crea". Facendo clic su un backup esistente verrà avviato un ripristino. Quando si ripristina un backup, Il mondo verrà reimpostato dopo alcuni istanti, ma le modifiche potrebbero non essere visualizzate. Attendere uno o due minuti e reimpostare di nuovo World. **Attualmente non è possibile modificare o eliminare un** backup nella realtà virtuale. Per il momento sarà necessario gestire i backup nel sito Web. La gestione dei backup nella realtà virtuale verrà presto migliorata. Nel frattempo, portaci con noi).
 
 Per gestire i backup nel sito Web:
 
-1. Passare a [Worlds > Mine](https://account.altvr.com/users/sign_in), trovare il proprio mondo e premere "Backup" in Administrator Controls (Controlli amministratore):
+1. Passare a [Worlds > Mine,](https://account.altvr.com/users/sign_in)trovare world e premere "Backups" in Administrator Controls (Controlli amministratore):
 
-![Controlli dell'amministratore nel sito Web worlds con il pannello backup aperto](images/world-backup-img-01.png)
+![Controlli dell'amministratore nel sito Web del mondo con il pannello dei backup aperto](images/world-backup-img-01.png)
 
 2. È possibile creare, modificare ed eliminare i backup, controllare il numero di oggetti all'interno e persino caricare un'immagine di anteprima: 
 
 ![Finestra Backup con i comandi di creazione, modifica ed eliminazione evidenziati](images/world-backup-img-02.png)
 
-Non esiste alcun limite al numero di backup e la presenza di più backup non influisce sulle prestazioni del mondo.
+Non esiste alcun limite al numero di backup e la presenza di più backup non inciderà sulle prestazioni del mondo.
 
-## <a name="other-ways-to-back-up-your-worlds"></a>Altri modi per eseguire il backup dei mondi
+## <a name="other-ways-to-back-up-your-worlds"></a>Altri modi per eseguire il backup di Worlds
 
-* Creare un altro mondo, Mostra opzioni avanzate e Importa dal mondo. Scegliere il mondo di cui si vuole eseguire il backup dal menu a discesa in quello nuovo. Non sono presenti limiti per le importazioni.
+* Creare un altro mondo, Mostra opzioni avanzate e Importa da mondo. Scegliere il mondo di cui si vuole eseguire il backup dal menu a discesa nel nuovo. Non sono presenti limiti per le importazioni.
 * Se si usa Unity Uploader, è consigliabile usare il controllo della versione. Ad esempio, [Github per Unity.](https://unity.github.com)
 
 ## <a name="troubleshooting"></a>Risoluzione dei problemi
 
-**Guida. È stato ripristinato accidentalmente un backup e il lavoro non** è più disponibile. Si crea automaticamente un nuovo backup prima di ripristinarne uno precedente. Cercarne uno con un nome che inizia con **Auto** con il timestamp giusto e ripristinarne uno (ad esempio, **Auto 2019-01-14T08:23:33-08:00**).  Se non funziona, inviare un [Richiesta di supporto](https://help.altvr.com/hc/requests/new)
+**Guida. È stato accidentalmente ripristinato un backup e il lavoro non** è più stato eseguito. Si crea automaticamente un nuovo backup prima di ripristinarne uno precedente. Cercarne uno con un nome che inizia con **Auto** con il timestamp giusto e ripristinarne uno (ad esempio, **Auto 2019-01-14T08:23:33-08:00).**  Se non funziona, inviare un [Richiesta di supporto](https://help.altvr.com/hc/requests/new)
 
-**È stato ripristinato un backup e alcuni oggetti sono mancanti** Se sono presenti foto, queste foto sono state eliminate? Non è possibile ripristinare le foto eliminate per motivi di privacy. Inviare un [Richiesta di supporto](https://help.altvr.com/hc/requests/new) in modo che sia possibile analizzare
+**È stato ripristinato un backup e alcuni oggetti sono mancanti** Se sono presenti foto, sono state eliminate? Non è possibile ripristinare le foto eliminate per motivi di privacy. Inviare un [Richiesta di supporto](https://help.altvr.com/hc/requests/new) per poter esaminare
 
-**Non sono presenti modifiche** I backup vengono ripristinati in modo asincrono, ovvero possono richiedere alcuni minuti a seconda del numero di oggetti. Ricordarsi di reimpostare Il mondo e se non viene visualizzato nulla dopo pochi minuti, provare a reimpostare di nuovo. In futuro, è possibile fornire altri commenti e suggerimenti sullo stato del processo di ripristino
+**Non vengono apportate modifiche** I backup vengono ripristinati in modo asincrono, il che significa che il ripristino può richiedere alcuni minuti a seconda del numero di oggetti. Ricordarsi di reimpostare Il mondo e, se non viene visualizzato alcun elemento dopo alcuni minuti, provare a reimpostare di nuovo. In futuro, è possibile fornire altri commenti e suggerimenti sullo stato del processo di ripristino
