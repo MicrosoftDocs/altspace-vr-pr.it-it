@@ -35,7 +35,7 @@ Presto saranno disponibili altre risorse.
 
 ## <a name="world-editor"></a>World Editor
 
-All'interno di AltspaceVR è possibile usare l'editor del mondo predefinito nello spazio iniziale. Questo è il modo più semplice per iniziare a modificare lo spazio. Selezionare il pulsante World Editor (Editor mondo) in basso a destra quando si è nello spazio iniziale. Vedere la pagina Informazioni di base With World Building (Compilazione [del mondo).](../world-building/world-building-getting-started.md) Con World Editor puoi posizionare oggetti 3D, teletrasportatori ed estensioni (MRE) e cambiare il mondo skybox.
+All'interno di AltspaceVR è possibile usare l'editor del mondo predefinito nello spazio iniziale. Questo è il modo più semplice per iniziare a modificare lo spazio. Selezionare il pulsante World Editor (Editor mondo) in basso a destra quando si è nello spazio iniziale. Vedere la pagina Informazioni di base With World Building (Informazioni di base [with World Building).](../world-building/world-building-getting-started.md) Con World Editor puoi posizionare oggetti 3D, teletrasportatori ed estensioni (MRE) e cambiare il mondo skybox.
 
 Se si partecipa al [programma Early Access](../world-building/early-access.md), è possibile creare altri world nella pagina My Worlds di [AltspaceVR](https://account.altvr.com/users/sign_in).
 

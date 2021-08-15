@@ -79,11 +79,11 @@ Usare un foglio di calcolo per creare una singola colonna con tutti gli indirizz
 
 1. Creare o modificare il gruppo.  
 2. Trovare il **campo Messaggi di posta elettronica** dei membri.  
-3. Trovare **l'opzione Choose File** (Scegli file) per importare i messaggi di posta elettronica da un file .csv file.
+3. Trovare **l'opzione Choose File (Scegli** file) per importare i messaggi di posta elettronica da un file .csv file.
 4. L'elenco deve essere importato con un messaggio di posta elettronica per riga.
 
 > [!NOTE]
-> Se si sceglie, è anche possibile copiare e incollare i messaggi di posta elettronica nel campo anziché importarli da un file *.csv.
+> Se si sceglie, è anche possibile copiare e incollare i messaggi di posta elettronica nel campo anziché eseguire l'importazione da un file *.csv.
 
 ### <a name="importing-a-list"></a>Importazione di un elenco
 
@@ -91,11 +91,11 @@ Piattaforme come Patreon ed Eventbrite consentono di esportare un file *.csv (va
 
 1. Creare o modificare il gruppo.  
 2. Trovare il **campo Messaggi di posta elettronica** dei membri.  
-3. Trovare **l'opzione Choose File** (Scegli file) per importare i messaggi di posta elettronica da un file .csv file.
+3. Trovare **l'opzione Choose File (Scegli** file) per importare i messaggi di posta elettronica da un file .csv file.
 4. L'elenco deve essere importato con un messaggio di posta elettronica per riga.
 
 > [!NOTE]
-> Se si sceglie, è anche possibile copiare e incollare i messaggi di posta elettronica nel campo anziché importarli da un file *.csv.
+> Se si sceglie, è anche possibile copiare e incollare i messaggi di posta elettronica nel campo anziché eseguire l'importazione da un file *.csv.
 
 ## <a name="faq"></a>Domande frequenti 
 
