@@ -13,18 +13,18 @@ ms.locfileid: "119127212"
 ---
 # <a name="adding-welcome-messages"></a>Aggiunta di messaggi di benvenuto
 
-Quando si immette Un mondo, è possibile che venga visualizzato un messaggio di benvenuto simile al seguente:
+Quando si entra in un mondo, è possibile che venga visualizzato un messaggio di benvenuto simile al seguente:
 
 ![Nuovo messaggio di accesso per un mondo](images/welcome-img-01.png)
 
-I world builder possono aggiungere un messaggio facoltativo che viene visualizzato a ogni persona quando entra nel mondo. Ciò può essere utile se il mondo ha il volo abilitato e si vuole che i visitatori accertino il volo. 
+World-Builders può aggiungere un messaggio facoltativo che viene visualizzato a ogni persona quando entra nel mondo. Questo può essere utile se il mondo ha il volo abilitato e si vuole che i visitatori accertino il volo. 
 
-1. Nel sito Web di Microsoft passare [a Worlds > Mine](https://account.altvr.com/users/sign_in)e modificare world
+1. Nel sito Web passare a [Worlds > Mine](https://account.altvr.com/users/sign_in)e modificare world
 2. Immettere il messaggio nel campo **Istruzioni** e fare clic su **Aggiorna**
 
-![Modifica del messaggio informativo sul mondo](images/welcome-img-02.png)
+![Modifica del messaggio informativo del mondo](images/welcome-img-02.png)
 
-3. In Altspace immettere Il mondo e quindi verrà visualizzato il messaggio aggiornato
+3. In Altspace immettere world e quindi verrà visualizzato il messaggio aggiornato
 
 ## <a name="troubleshooting"></a>Risoluzione dei problemi
 

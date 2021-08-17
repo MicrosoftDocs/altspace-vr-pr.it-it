@@ -21,7 +21,7 @@ Il viaggio da un evento o un mondo a un altro è un ottimo modo per te e la comm
 
 ## <a name="the-slightly-longer-version"></a>Versione leggermente più lunga
 
-Prima di tutto, assicurarsi di essere nel proprio homespace, in un evento o in un mondo in cui è stato creato o in cui è stato assegnato il ruolo Terraformer. Se si è in modalità 2D e non viene visualizzato il pulsante World Editor in basso a destra dell'interfaccia utente, fare clic con il pulsante destro del mouse per attivare/disattivarlo. Se il pulsante World Editor non è ancora visualizzato, è possibile che si sia nello spazio di un altro utente. In questo caso, chiedere all'host di assegnare il ruolo Terraformer.
+Prima di tutto, assicurarsi di essere nel proprio spazio domestico, in un evento o in un mondo in cui è stato creato o in cui è stato assegnato il ruolo Terraformer. Se si è in modalità 2D e non viene visualizzato il pulsante World Editor in basso a destra nell'interfaccia utente, fare clic con il pulsante destro del mouse per attivare/disattivarlo. Se il pulsante World Editor non è ancora visualizzato, è possibile che si sia nello spazio di un altro utente. In questo caso, chiedere all'host di assegnare il ruolo Terraformer.
 
 Sarà utile anche per: 
 1. Creare prima gli eventi o i mondi
@@ -35,15 +35,15 @@ Verrà visualizzato il pannello Destinazione teletrasporto. Verranno visualizzat
 
 * **MY SPACES** : elenco di mondi creati.
 * **RECENT:** elenco degli eventi recenti a cui sei stato fatto. Usare questa opzione se si vuole passare a un evento. Questa è l'unica opzione che consente di passare a un evento, gli altri 2 consentono solo di passare da un mondo all'altro. NOTA: vedere Avanzate di seguito se si connettono eventi in prima riga con Mondi importati. Sarà necessario generare e configurare i teletrasportatori nel mondo importato e non nell'evento effettivo.
-* **IN PRIMO** PIANO: elenco di mondi in primo piano in cui è possibile impostare il teletrasporto su cui recarsi.
+* **IN PRIMO** PIANO: elenco di mondi in primo piano su cui è possibile impostare il teletrasporto.
 
 Selezionare l'evento o il mondo che si vuole usare, che genera il teletrasporto e mette un testo Etichetta del nome evento o Mondo leggermente indietro. È quindi possibile selezionare l'icona Ingranaggio nella sezione Oggetti presenti per modificare il nome dell'etichetta.
 
-È possibile selezionare teletrasporto con il cursore (verrà chiesto se è ok andare in questo punto, nel caso in cui si sia verificata un'errore di clic) o spostare l'avatar direttamente nel teletrasporto e, presto, si sta viaggiando verso la destinazione. Digli di salutare.
+È possibile selezionare teletrasporto con il cursore (verrà chiesto se è ok andare in questo punto, nel caso in cui si sia verificata un'errore di clic) o spostare l'avatar direttamente nel Teleporter e, presto, si sta viaggiando verso la destinazione. Digli di salutare.
 
 ## <a name="advanced-features"></a>Funzionalità avanzate
 
-Se si crea una conferenza, un vertice o un evento più grande usando Front Row con un mondo personalizzato (ad esempio, un mondo di base, un modello di spazio del caricatore Unity, Re-Import World), è necessario configurare il teletrasporto nel mondo di base e NON nell'evento effettivo. Assicurarsi di configurare il teletrasporto per il viaggio verso l'evento corretto (deve essere presente nell'elenco Recenti) in Foundation World, quindi Re-Import World in the Event per visualizzare i teletrasportatori in tutti gli spazi eventi della prima riga.
+Se si crea una conferenza, un vertice o un evento più grande usando Front Row con un mondo personalizzato (ad esempio, un mondo di base, un modello di spazio del caricatore Unity, Re-Import World), è necessario configurare il teletrasporto nel mondo di base e NON nell'evento effettivo. Assicurarsi di configurare il teletrasporto per il viaggio all'evento corretto (deve essere presente nell'elenco Recenti) in Foundation World, quindi Re-Import World in the Event per far sì che i teletrasportatori siano visualizzati in tutti gli spazi eventi della prima riga.
 
 ## <a name="faqs"></a>Domande frequenti
 

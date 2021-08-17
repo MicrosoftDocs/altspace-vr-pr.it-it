@@ -1,5 +1,5 @@
 ---
-title: È presente un pulsante di push per parlare?
+title: È presente un pulsante push-to-talk?
 description: Informazioni su come trovare e identificare un pulsante push-to-talk nella visualizzazione AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
@@ -11,13 +11,13 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119128032"
 ---
-# <a name="is-there-a-push-to-talk-button"></a>È presente un pulsante di push per parlare?
+# <a name="is-there-a-push-to-talk-button"></a>È presente un pulsante push-to-talk?
 
-In basso a destra nella visualizzazione è presente un pulsante del microfono che può essere usato per attivare o disattivare la condivisione della voce con altri utenti. In alternativa, è possibile usare i tasti di scelta rapida **CTRL+ALT+T** per attivare o disattivare questa impostazione. 
+Nella parte inferiore destra della visualizzazione è presente un pulsante del microfono che può essere usato per attivare o disattivare la condivisione della voce con altri utenti. In alternativa, è possibile usare il tasto di scelta rapida **CTRL+ALT+T** per attivare o disattivare questa impostazione. 
  
 Se l'icona lampeggia quando si parla, il microfono funziona.
  
 Domande, commenti o suggerimenti? 
 
 > [!div class="nextstepaction"]
-> [Fare clic qui per inviare una richiesta di supporto](https://help.altvr.com/hc/requests/new).
+> [Fare clic qui per inviare una richiesta di supporto.](https://help.altvr.com/hc/requests/new)

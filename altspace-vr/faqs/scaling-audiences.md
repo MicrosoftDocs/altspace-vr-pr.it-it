@@ -56,7 +56,7 @@ La conversione dell'evento in un evento FrontRow aggiunge alcuni strumenti e cap
 * **Ridistribuire:** ridistribuire tutti i guest attualmente in una stanza in altre stanze. (È un'ottima scelta per il crowding).
 * **Teletrasporto:** passare a un'altra stanza.
 
-In un evento FrontRow, gli host visualizzano anche altri strumenti e funzionalità come **On-Air.** Questo pulsante, che si trova accanto a **Host Tools**(Strumenti host), consente a un host o a un moderatore di rispecchiare i membri del gruppo di destinatari e altri partecipanti in modo che possano essere visibili in tutti gli spazi. In qualità di host, è probabile che si voglia essere **anche on-air.** (Pro suggerimento: [Usare le zone host](https://altvr.com/holiday2020/) per abilitare automaticamente l'attivazione in modalità on-air per tutti gli utenti all'interno della zona.
+In un evento FrontRow, gli host visualizzano anche altri strumenti e funzionalità come **On-Air.** Questo pulsante, che si trova accanto a **Host Tools**(Strumenti host), consente a un host o a un moderatore di rispecchiare i membri del gruppo di destinatari e altri partecipanti in modo che possano essere visibili in tutti gli spazi. In qualità di host, è probabile che si voglia essere **anche on-air.** (Pro suggerimento: [Usare zone host](https://altvr.com/holiday2020/) per abilitare automaticamente l'attivazione in modalità on-air per tutti gli utenti all'interno della zona.
 
 Per un'analisi completa e approfondita di ognuna delle funzionalità e delle funzioni disponibili per gli host negli eventi [FrontRow,](../tutorials/host-tools-for-events.md) vedere l'articolo Host Tools Overview for FrontRow Events (Panoramica degli strumenti host per eventi FrontRow).
 

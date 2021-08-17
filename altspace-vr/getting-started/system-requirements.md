@@ -30,7 +30,7 @@ ms.locfileid: "119127556"
 
 ## <a name="htc-vive-windows-only"></a>PIÙ Vive (solo Windows)
 
-* NVIDIA GeForce® GTX 970, AMD Radeon™ R9 equivalente o migliore
+* NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 equivalente o migliore
 * Intel® i5-4590, AMD FX 8350 equivalente o migliore   
 * Almeno 4 GB di RAM
 * HDMI 1.4, DisplayPort 1.2 o versione più recente

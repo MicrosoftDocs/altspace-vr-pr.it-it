@@ -33,7 +33,7 @@ Creazione dell'account con un account di accesso Microsoft:
 6. Passare alla schermata del browser del computer e passare a https://www.microsoft.com/devicelogin
 7. Immettere il codice univoco e selezionare AVANTI. *Il codice non fa distinzione tra maiuscole e minuscole.*
 8. Seguire le istruzioni visualizzate per attivare il dispositivo.
-9. Dopo aver completato il processo di collegamento dell'account, verrà richiesto di compilare il nome visualizzato e il nome utente.
+9. Dopo aver completato il processo di collegamento dell'account, verrà richiesto di specificare il nome visualizzato e il nome utente.
 10. Selezionare "Registra".
 
 ## <a name="how-to-create-an-account-in-2d-mode"></a>Come creare un account in modalità 2D
@@ -43,8 +43,8 @@ Creazione dell'account con un account di accesso Microsoft:
 1. Per [iniziare, scaricare la build live di AltspaceVR](https://altvr.com/getaltspacevr) dall'App Store o dalla libreria preferita. <br>*Se l'applicazione è già installata, assicurarsi di avere installato gli aggiornamenti più recenti.*
 2. Avviare l'applicazione.
 3. Selezionare il pulsante "Accedi" e quindi il pulsante "Accedi con Microsoft".
-3. Verrà visualizzata una finestra separata in cui viene richiesto di selezionare l'account Microsoft che si vuole usare. Selezionare un account Microsoft personale, non quello associato a un account aziendale o dell'istituto di istruzione.
-4. Dopo aver completato il processo di collegamento dell'account, verrà richiesto di compilare il nome visualizzato e il nome utente.
+3. Verrà visualizzata una finestra separata in cui viene richiesto di selezionare l'account Microsoft che si vuole usare. Selezionare un account Microsoft personale, non uno associato a un account aziendale o dell'istituto di istruzione.
+4. Dopo aver completato il processo di collegamento dell'account, verrà richiesto di specificare il nome visualizzato e il nome utente.
 5. Selezionare "Registra".
 
 ## <a name="linking-your-microsoft-account"></a>Collegamento dell'account Microsoft
@@ -57,7 +57,7 @@ Collegamento con la modalità 2D nel PC:
 2. Avviare AltspaceVR e assicurarsi di aver eseguito l'accesso con l'account AltspaceVR classico. Se viene richiesto di accedere all'avvio di AltspaceVR, selezionare il pulsante "Accedi" e quindi il collegamento "Oppure accedi con un account AltspaceVR".
 2. Nella schermata del titolo selezionare la scheda "Account" sul lato destro. Se l'account non è collegato, lo stato dell'account dovrebbe essere "Account Altspace classico"
 3. Selezionare "Collega account Microsoft". Verificare che sia visualizzato il nome utente corretto, quindi selezionare il pulsante "Collegamento".
-4. Verrà visualizzata una finestra separata in cui viene richiesto di selezionare l'account Microsoft da collegare. Selezionare un account Microsoft personale, non quello associato a un account aziendale o dell'istituto di istruzione.
+4. Verrà visualizzata una finestra separata in cui viene richiesto di selezionare l'account Microsoft da collegare. Selezionare un account Microsoft personale, non uno associato a un account aziendale o dell'istituto di istruzione.
 5. Seguire le istruzioni di collegamento. Dopo aver completato il processo di collegamento dell'account, le credenziali dell'account sono state aggiornate nella sezione "Account" del menu. Lo stato dovrebbe essere "Account Microsoft Home (MSA)"
 
 Collegamento con la modalità VR sul visore:
@@ -113,48 +113,48 @@ Se il menu "You" non viene visualizzato, il riavvio del client AltspaceVR dovreb
 
 Il collegamento dell'account AltspaceVR all'account Microsoft non modifica il nome utente o il nome visualizzato pubblicamente. Verranno modificate solo le credenziali di accesso dell'account, che sono private per l'utente. Si ha comunque il controllo completo sul modo in cui il nome, il nome utente e l'immagine del profilo vengono visualizzati ad altri utenti in AltspaceVR.
 
-**È comunque possibile cambiare account? Questa opzione non è più in Impostazioni.**
+**È comunque possibile cambiare account? Questa opzione non è più disponibile Impostazioni.**
 
-Sì, l'operazione è stata ridecorredata un po'. È ora possibile gestire l'account & cambiare account nel **menu principale > Account > utente**
+Sì, l'operazione è stata ridecorredata un po'. È ora possibile gestire l'account & cambiare account in Menu principale > **Account > utente**
 
 **È già presente un account Microsoft?**
 
-È possibile che si abbia già un account Microsoft. Si usano Minecraft, giochi su xbox, si effettua la sottoscrizione a Office 365 o si usano regolarmente altri prodotti o servizi Microsoft? In tal caso, probabilmente si dispone già di un account di accesso Microsoft. È possibile verificare se il messaggio di posta elettronica è già associato a un account del servizio microsoft [esistente qui](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2).
+È possibile che si abbia già un account Microsoft. Si esegue Minecraft giochi su xbox, si effettua la sottoscrizione a Office 365 o si usano regolarmente altri prodotti o servizi Microsoft? In tal caso, probabilmente si dispone già di un account di accesso Microsoft. È possibile verificare se il messaggio di posta elettronica è già associato a un account del servizio msa [esistente qui.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
 
-**Questo significa che è necessario creare un nuovo indirizzo di posta elettronica con Outlook?**
+**Ciò significa che è necessario creare un nuovo indirizzo di posta elettronica con Outlook?**
 
-No. È possibile configurare un account Microsoft con un indirizzo di posta elettronica corrente anche se non è ospitato con Microsoft. Ad esempio: G-Mail, Yahoo e così via. Se si accede con credenziali Microsoft che condividono lo stesso indirizzo di posta elettronica dell'account AltspaceVR classico, verrà richiesto di collegare l'account dopo l'accesso. Seguire le istruzioni per accedere all'account classico e gli account Altspace e Microsoft verranno collegati per l'utente.
+No. È possibile configurare un account Microsoft con un indirizzo di posta elettronica corrente anche se non è ospitato con Microsoft. Ad esempio: G-Mail, Yahoo e così via. Se si accede con credenziali Microsoft che condividono lo stesso messaggio di posta elettronica dell'account AltspaceVR classico, verrà richiesto di collegare l'account dopo l'accesso. Seguire le istruzioni per accedere all'account classico e gli account Altspace e Microsoft verranno collegati per conto dell'utente.
 
-**Ha un costo?**
+**È un costo?**
 
-No! La creazione di un account Microsoft è gratuita. Anche l'uso di AltspaceVR è gratuito. Tenere presente che l'account Microsoft è collegato ad altri prodotti e servizi, quindi è possibile usarlo per effettuare acquisti di elementi all'esterno di AltspaceVR, ad esempio sottoscrizioni (ad esempio, Office 365) o prodotti speciali (ad esempio, Minecraft Marketplace).
+No! La creazione di un account Microsoft è gratuita. Anche l'uso di AltspaceVR è gratuito. Tenere presente che l'account Microsoft è collegato ad altri prodotti e servizi, quindi è possibile usarlo per effettuare acquisti di articoli al di fuori di AltspaceVR, ad esempio sottoscrizioni (ad esempio Office 365) o beni speciali (ad esempio Minecraft Marketplace).
 
 **Cosa succede se si verificano problemi durante il collegamento degli account?**
 
-Se si è bloccati, è sempre possibile contattare Microsoft [all'help desk.](https://help.altvr.com/hc/requests/new)
+Se si è bloccati, è sempre possibile contattarci [all'help desk.](https://help.altvr.com/hc/requests/new)
 
 **Cosa succede se si hanno più account AltspaceVR?**
 
-È possibile collegare un solo account AltspsaceVR a un account Microsoft. È necessario un account Microsoft separato per ognuno degli account AltspaceVR a cui si vuole connettersi.
+È possibile collegare un solo account AltspsaceVR a un account Microsoft. Sarà necessario un account Microsoft separato per ognuno degli account AltspaceVR che si vuole connettere.
 
 **Cosa succede se si dimenticano i dettagli di accesso?**
 
-Se si verificano problemi durante l'accesso ad AltspaceVR dopo la connessione all'account Microsoft, contattare Microsoft [all'help desk](https://help.altvr.com/hc/requests/new). Per problemi di accesso all'account Microsoft, visitare [qui](https://support.microsoft.com/account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735) o [qui](https://support.microsoft.com/account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9) per un elenco di suggerimenti e risorse per la risoluzione dei problemi.
+In caso di problemi di accesso ad AltspaceVR dopo la connessione all'account Microsoft, contattare [l'help desk.](https://help.altvr.com/hc/requests/new) Per problemi di accesso all'account Microsoft, visitare [qui](https://support.microsoft.com/account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735) o [qui](https://support.microsoft.com/account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9) per un elenco di suggerimenti e risorse per la risoluzione dei problemi.
 
 **È necessario connettersi all'account Microsoft?**
 
-Non c'è da preoccuparsi, ma si ha tempo per eseguire l'aggiornamento. L'integrazione dell'account Microsoft verrà in più fasi. Tuttavia, nel corso del tempo, alcune delle principali nuove funzionalità a cui stiamo lavorando saranno disponibili solo per gli utenti che hanno collegato il proprio account AltspaceVR al proprio account Microsoft. Il motivo è che queste funzionalità, ad esempio gli eventi con ticket, richiedono misure di sicurezza solide e affidabili. Per altre informazioni, vedere [il blog](https://altvr.com/microsoft-account-integration).
+Non ti preoccupare, hai tempo per eseguire l'aggiornamento. L'integrazione dell'account Microsoft verrà in sequenza in più fasi. Tuttavia, nel corso del tempo, alcune delle principali nuove funzionalità su cui si sta lavorando saranno disponibili solo per gli utenti che hanno collegato il proprio account AltspaceVR al proprio account Microsoft. Il motivo è che queste funzionalità, ad esempio gli eventi con ticket, richiedono misure di sicurezza affidabili e solide. Per altre informazioni, vedere il [blog](https://altvr.com/microsoft-account-integration).
 
-**Che ne è della privacy e dei dati?**
+**Che dire della privacy e dei dati?**
 
-Non sono presenti modifiche alle Condizioni per [l'utilizzo del servizio o](../community/terms-of-service.md) all'Informativa [sulla privacy.](https://privacy.microsoft.com/privacystatement) Microsoft e AltspaceVR si impegnano a proteggere la privacy dell'utente. Si impegnano anche a garantire il controllo completo dei dati e delle informazioni. Per altre informazioni sui principi di base di Microsoft in materia di privacy, [vedere](https://privacy.microsoft.com)qui . È anche possibile richiedere informazioni dettagliate sui dati personali di [](https://www.microsoft.com/concern/privacyrequest-msa)Microsoft relativi all'account Microsoft qui . Infine, se si ha un account AltspaceVR attivo, è possibile richiedere una copia dei dati e richiedere l'eliminazione dei dati in qualsiasi momento.
+Non sono presenti modifiche alle Condizioni per il [servizio o](../community/terms-of-service.md) all'Informativa [sulla privacy.](https://privacy.microsoft.com/privacystatement) Microsoft e AltspaceVR sono impegnati a proteggere la privacy dell'utente. Rimangono inoltre impegnati a garantire che l'utente rimanga completamente sotto controllo per quanto riguarda i dati e le informazioni. Per altre informazioni sui principi di base di Microsoft sulla privacy, [vedere .](https://privacy.microsoft.com) È anche possibile richiedere informazioni dettagliate sui dati personali di Microsoft relativi all'account Microsoft [qui](https://www.microsoft.com/concern/privacyrequest-msa). Infine, se si dispone di un account AltspaceVR attivo, è possibile richiedere una copia dei dati e richiedere l'eliminazione dei dati in qualsiasi momento.
 
 ## <a name="more-resources"></a>Altre risorse
 
 * [Informazioni su MSA](https://account.microsoft.com/account?lang=)
-* [Condizioni per l'utilizzo del servizio msa](https://www.microsoft.com/servicesagreement/)
-* [Configurare l'account Microsoft in tutti i dispositivi](https://account.microsoft.com/account/connect-devices)
-* [Guida per i quando non è possibile accedere](https://support.microsoft.com//account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735)
-* [Come reimpostare la password dell'account del servizio microsoft](https://support.microsoft.com//account-billing/how-to-reset-your-microsoft-account-password-eff4f067-5042-c1a3-fe72-b04d60556c37)
-* [Proteggere l'account Microsoft](https://support.microsoft.com//account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9)
+* [Condizioni per il servizio MSA](https://www.microsoft.com/servicesagreement/)
+* [Configurare il account Microsoft in tutti i dispositivi](https://account.microsoft.com/account/connect-devices)
+* [Guida per quando non è possibile accedere](https://support.microsoft.com//account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735)
+* [Come reimpostare la password msa](https://support.microsoft.com//account-billing/how-to-reset-your-microsoft-account-password-eff4f067-5042-c1a3-fe72-b04d60556c37)
+* [Proteggere e proteggere l'account Microsoft](https://support.microsoft.com//account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9)
 * [Account e controlli figlio e famiglia](https://account.microsoft.com/family/about?refd=www.microsoft.com&ru=https:%2F%2Faccount.microsoft.com%2Ffamily%3Frefd%3Dwww.microsoft.com)

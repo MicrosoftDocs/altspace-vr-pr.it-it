@@ -35,7 +35,7 @@ Gli host possono amplificare i microfoni per assicurarsi che tutti gli utenti de
 
 ### <a name="stage-blocking-onoff"></a>Blocco fase (on/off)
 
-Decidere quando e dove i partecipanti possono essere presenti. Scegliere di ingranire i riflettori, presentarsi a turno o invitare tutti i presenti sul palco per una party di musica di gruppo.
+Decidere quando e dove possono essere presenti i partecipanti. Scegliere di ingranire i riflettori, presentarsi a turno o invitare tutti i presenti sul palco per una party di musica di gruppo.
 
 > [!IMPORTANT]
 > Non tutti i mondi contengono un blocco di fase, quindi scegliere con sapiente i modelli di evento. Acquisire familiarità con i modelli di evento sugli eventi di test prima di creare l'evento ufficiale.
@@ -54,7 +54,7 @@ La scheda Guest consente di tenere traccia di guest, moderatori e host nel propr
 
 ### <a name="moderation-tools"></a>Strumenti di moderazione
 
-Come host eventi si è responsabili della gestione dell'esperienza di altri utenti. Per eseguire questa operazione in modo efficiente, sono necessari strumenti di moderazione affidabili. In quanto host di un evento è possibile disattivare gli utenti che causano interruzioni, escludere temporaneamente o durante l'evento gli utenti che causano interruzioni delle regole e persino assegnare il ruolo moderatore ad altri utenti per ottenere assistenza nella gestione dei destinatari.
+Come host eventi si è responsabili della gestione dell'esperienza di altri utenti. Per eseguire questa operazione in modo efficiente, sono necessari strumenti di moderazione affidabili. Come host di un evento è possibile disattivare gli utenti che causano interruzioni dell'evento, escludere le regole dall'evento (temporaneamente o durante l'evento) e persino assegnare il ruolo moderatore ad altri utenti per ottenere assistenza nella gestione del pubblico.
 
 ![Pannello host aperto con la scheda partecipazione evidenziata](images/host-tools-img-04.png)
 

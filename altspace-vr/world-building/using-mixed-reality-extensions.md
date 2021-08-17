@@ -1,6 +1,6 @@
 ---
 title: Uso di un'estensione di realtà mista
-description: Informazioni su come usare e risolvere i problemi delle estensioni di realtà mista per estendere e adattare i mondi AltspaceVR.
+description: Scopri come usare e risolvere i problemi delle estensioni di realtà mista per estendere e adattare i tuoi ambienti AltspaceVR.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: realtà mista, estensioni, risoluzione dei problemi
@@ -13,23 +13,23 @@ ms.locfileid: "119125358"
 ---
 # <a name="using-a-mixed-reality-extension"></a>Uso di un'estensione di realtà mista
 
-[Mixed Reality Extensions](https://developer.altvr.com/) (MRE) sono app che è possibile usare in Worlds, dai [caschi](https://account.altvr.com/mres/1173667287173955931) a uno [Stargate funzionante.](https://account.altvr.com/mres/1152987031857529562) Questo è il modo in cui i membri della community con esperienza di programmazione possono estendere Altspace e i World Builder unidireli possono rendere i loro mondi più interattivi. Anche se i mre possono essere usati da chiunque in un mondo, solo gli utenti del World Building Program possono esplorare e generare mre nei loro mondi. 
+[Le estensioni di realtà](https://developer.altvr.com/) mista (MRE) sono app che puoi usare nei tuoi worlds, dai dispositivi [a](https://account.altvr.com/mres/1173667287173955931) uno [stargate funzionante.](https://account.altvr.com/mres/1152987031857529562) Questo è il modo in cui i membri della community con esperienza di programmazione possono estendere Altspace e i World Builder unidireli possono rendere i loro worlds più interattivi. Anche se gli mre possono essere usati da chiunque in un mondo, solo le persone del World Building Program possono esplorare e generare mre nei loro worlds. 
 
-1. Esplorare la sezione MRE del sito [Web](https://account.altvr.com/mres). Per impostazione predefinita, verranno visualizzati i propri MRE, quindi selezionare **Altspace** per visualizzare mre ufficiali e **in** primo piano per visualizzare i mre della community. Acquisire familiarità con qualsiasi MRE prima di usarlo nel proprio mondo. 
-2. Passare a [Caschi](https://account.altvr.com/mres/1173667287173955931) MRE e selezionare **Copia negli Appunti.** 
-3. Immettere world e aprire World Editor to **Basics**> SDK App . Incollare l'URL di Caschi nel campo URI di destinazione e selezionare **Conferma**. L'oggetto MRE dovrebbe essere visualizzato e tentare di connettersi all'MRE in esecuzione nel cloud. A questo punto dovrebbero essere visualizzati alcuni caschi su cui è possibile fare clic.
-4. Spostare/ruotare/ridimensionare l'oggetto MRE esattamente come qualsiasi altro world object.
+1. Esplorare la sezione MRE del sito [Web](https://account.altvr.com/mres). Per impostazione predefinita, verranno visualizzati i propri mre, quindi selezionare **Altspace** per visualizzare mre ufficiali e **in** primo piano per visualizzare gli mre della community. Acquisire familiarità con qualsiasi MRE prima di usarlo nel proprio mondo. 
+2. Passare a [MRE (MRE)](https://account.altvr.com/mres/1173667287173955931) e **selezionare Copy to Clipboard (Copia negli Appunti).** 
+3. Immettere il proprio mondo e aprire World Editor to Basics > SDK App ( Informazioni di **base sull'app SDK).** Incollare l'URL per Il controllo nel campo URI di destinazione e selezionare **Conferma.** Verrà visualizzato l'oggetto MRE e si tenterà di connettersi all'oggetto MRE in esecuzione nel cloud. A questo punto dovrebbero essere visualizzati alcuni commenti su cui è possibile fare clic.
+4. Spostare/ruotare/ridimensionare l'oggetto MRE come qualsiasi altro oggetto world.
 
-Congratulazioni! A questo punto si usano IAS. È così interessante.
+Congratulazioni! A questo punto si stanno usando gli mre. L'operazione è molto interessante.
 
 ## <a name="troubleshooting"></a>Risoluzione dei problemi
 
-**MRE mostra un emoji accigliato** 
+**MRE mostra un'emoji accigliata** 
     * Verificare che l'URL sia corretto
-    * **Attivare/disattivare l'opzione** In riproduzione nell'oggetto e scegliere **conferma**
+    * Opzione **Attiva/Disattiva** riproduzione nell'oggetto e scegliere **Conferma**
     * Provare a rientrare
 
-**MRE è in ritardo** A seconda della posizione in cui è ospitato un MRE, è possibile che si verifichi una latenza di rete
+**MRE è in ritardo** A seconda della posizione in cui è ospitato un MRE, è possibile che si verifichi una certa latenza di rete
 
 **Perché è necessario incollare gli URL?**
-In futuro, è possibile gestire e generare mres come si fa Artifacts da Kits. Fino ad allora, si continuerà a usare gli URL
+In futuro sarà possibile gestire e generare mre come si Artifacts da Kit. Fino ad allora, si continuerà a usare gli URL

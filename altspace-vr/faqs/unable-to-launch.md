@@ -30,7 +30,7 @@ Esistono diversi motivi per cui AltspaceVR potrebbe non essere avviato per l'ute
 * Se si vuole forzare l'aggiornamento, è possibile farlo tramite le varie vetrine:
     * **Microsoft Store:** [Microsoft Store supporto tecnico - Ottenere aggiornamenti per app](https://support.microsoft.com/account-billing/get-updates-for-apps-and-games-in-microsoft-store-a1fe19c0-532d-ec47-7035-d1c5a1dd464f) e giochi in Microsoft Store
     * **Oculus:** Aprire oculus Library e passare a "Updates" (Aggiornamenti) nella barra di spostamento a sinistra.
-    * Problemi di installazione [dell'&](https://support.steampowered.com/kb_article.php?ref=2274-IFLV-5334) di **Vapore:** supporto di Steam
+    * **Problemi di installazione** dell'& di [Vapore: Supporto di Steam](https://support.steampowered.com/kb_article.php?ref=2274-IFLV-5334)
 
 ## <a name="if-the-program-was-working-but-ceased-to-launch-after-update"></a>Se il programma funzionava, ma ha smesso di essere avviato dopo l'aggiornamento:
 
@@ -40,11 +40,11 @@ Esistono diversi motivi per cui AltspaceVR potrebbe non essere avviato per l'ute
 ## <a name="if-altspacevr-fails-to-launch-after-customizing-your-home-space"></a>Se AltspaceVR non viene avviato dopo la personalizzazione dello spazio iniziale:
 
 * Passare al sito [Web dello spazio principale.](https://account.altvr.com/users/sign_in)
-* Verificare che il modello del mondo esista ancora. Se il modello è stato condiviso con l'utente, potrebbe essere stato eliminato dal proprietario, causando un errore di caricamento dello spazio di casa.
+* Verificare che il modello del mondo esista ancora. Se il modello è stato condiviso con l'utente, potrebbe essere stato eliminato dal proprietario, causando il caricamento dello spazio di casa.
     * Se il modello è stato eliminato, è sufficiente "Modificare" il mondo nel pannello "World Tools" a sinistra, sostituire il modello esistente con un altro modello e "Update" per salvare le modifiche.
 * Rimuovere tutti gli oggetti che potrebbero non essere caricati selezionando "Oggetti" nel pannello "World Tools" a sinistra. Gli oggetti problematici possono includere:
-    * Oggetti da kit eliminati o oggetti eliminati dai kit, che sono ancora presenti nel mondo.
+    * Oggetti dai kit eliminati, o oggetti eliminati dai kit, che sono ancora presenti nel mondo.
     * GLTF sperimentali.
-* Dopo aver indirizzato gli elementi precedenti, provare a eseguire di nuovo AltspaceVR.
+* Dopo aver indirizzato gli elementi precedenti, provare a reenter AltspaceVR.
 
 Il supporto più avanzato per gli amministratori di rete o i reparti IT, inclusi gli intervalli IP di Azure e i tag di servizio, è disponibile nei dettagli [del download.](https://www.microsoft.com/en-us/download/details.aspx?id=56519)

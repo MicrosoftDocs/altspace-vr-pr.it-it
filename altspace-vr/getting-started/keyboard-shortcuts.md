@@ -22,7 +22,7 @@ ms.locfileid: "119127879"
 | CTRL+ALT+P | Attivare/disattivare l'interfaccia utente |
 | MAIUSC+ALT+B | Attivare/disattivare il cursore |
 | Pulsante destro del mouse + rotellina di scorrimento del mouse | Zoom avanti/indietro |
-| CTRL+ALT+T o BARRA SPAZIATRICE | Attivare/disattivare l'audio |
+| CTRL+ALT+T o BARRA SPAZIATRICE | Attiva/disattiva l'audio |
 | CTRL+ALT+BARRA SPAZIATRICE | Aprire la riga di comando, digitare "help" per le opzioni |
 | CTRL+ALT+N | Jimmy Cam per la modalità VR |
 | CTRL+ALT+K | Attivare/disattivare "Disattiva l'audio quando AltspaceVR è inattivo" |

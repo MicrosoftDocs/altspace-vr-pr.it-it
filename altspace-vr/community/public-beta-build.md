@@ -64,9 +64,9 @@ Uno degli obiettivi del programma public beta build è trovare e registrare even
 
 Ricordarsi inoltre di inviare log ogni volta che si verifica un possibile bug, regressione o problema. Per inviare i log, passare alla scheda IMPOSTAZIONI nel menu principale, selezionare SUPPORTO e quindi INVIA LOG. Se si è verificato un arresto anomalo, seguire questa procedura, ma selezionare INVIA ULTIMI LOG come passaggio finale. 
 
-In generale, i log sono estremamente utili per riprodurre e verificare eventuali problemi. 
+In generale, i log sono estremamente utili per riprodurre e verificare eventuali problemi potenziali. 
 
-## <a name="getting-beta-builds"></a>Recupero di build beta
+## <a name="getting-beta-builds"></a>Recupero delle build beta
 
 Analogamente alle compilazioni normali, le build beta saranno disponibili tramite l'App Store o la libreria di propria preferenza. Le build beta verranno installate automaticamente se si è attivamente acconsentito esplicitamente tramite lo store/libreria. 
 
@@ -75,4 +75,4 @@ Analogamente alle compilazioni normali, le build beta saranno disponibili tramit
 * Public Beta Build Program è un'iniziativa completamente facoltativa. Il test delle compilazioni iniziali non è un requisito per l'uso di AltspaceVR. 
 * È possibile scegliere di rifiutare esplicitamente in qualsiasi momento tramite il rispettivo app store/libreria (Oculus o Steam).  
 * AltspaceVR si riserva il diritto di decidere quali build imminenti sono idonee per il programma public beta build. Non tutte le build fanno parte del programma public beta build. 
-* L'ordine di priorità e le sequenze temporali delle soluzioni per i ticket inviati tramite il programma public beta build sono a discrezione del team di sviluppo altspaceVR. 
+* L'ordine di assegnazione delle priorità e le sequenze temporali delle soluzioni per i ticket inviati tramite il programma public beta build sono a discrezione del team di sviluppo altspaceVR. 

@@ -19,13 +19,13 @@ Per altre informazioni sugli strumenti host per un evento non FrontRow, vedere P
 
 Ora che l'evento è impostato su FrontRow, viene illustrato come usare tutte le funzionalità straordinarie abilitate con FrontRow.
 
-Quando l'evento è stato creato in origine, è stato configurato con l'host "Ruolo" per tale evento. È anche possibile assegnare il ruolo Host a tutti gli altri utenti a cui si vuole contribuire a eseguire l'evento, che hanno tutte le stesse capacità di hosting dell'utente (vedere altre informazioni sui ruoli qui: Ruoli in eventi, mondi, gruppi e [in AltspaceVR).](../getting-started/roles.md) Il ruolo Host concede l'accesso a funzionalità e funzionalità speciali create in modo specifico per semplificare l'hosting di un evento virtuale live.
+Quando l'evento è stato creato in origine, è stato configurato con l'host "Ruolo" per tale evento. È anche possibile assegnare il ruolo Host a tutti gli altri utenti che si vogliono aiutare a eseguire l'evento, che hanno tutte le stesse capacità di hosting dell'utente (vedere altre informazioni sui ruoli qui: Ruoli in eventi, mondi, gruppi e [in AltspaceVR).](../getting-started/roles.md) Il ruolo Host concede l'accesso a funzionalità e funzionalità speciali create in modo specifico per semplificare l'hosting di un evento virtuale live.
 
 Di seguito è riportata una panoramica dettagliata di queste funzionalità, funzionalità e altri utili suggerimenti per l'hosting di eventi FrontRow in AltspaceVR.
 
 ## <a name="host-tools-overview"></a>Panoramica degli strumenti host
 
-Gli strumenti host vengono visualizzati nella parte inferiore destra del campo di visualizzazione. È disponibile immediatamente dopo la creazione dell'evento, quindi è possibile immettere l'evento in qualsiasi momento (l'ora di inizio dell'evento non si applica agli host o ai moderatori di un evento) e iniziare a usare gli strumenti prima dello showtime. Gli strumenti host consentono di accedere rapidamente a elementi come l'esecuzione on-air (necessaria per l'esecuzione di eventi FrontRow), la disattivazione e la messaggistica del pubblico, la disattivazione dei blocchi di scena, il megafono, la possibilità di "alzare le mani" per porre domande o offrire commenti, la possibilità di passare da FrontRow Room a Room e molto altro ancora.
+Gli strumenti host vengono visualizzati nella parte inferiore destra del campo di visualizzazione. È disponibile immediatamente dopo la creazione dell'evento, quindi è possibile immettere l'evento in qualsiasi momento (l'ora di inizio dell'evento non si applica agli host o ai moderatori di un evento) e usare gli strumenti prima dello showtime. Gli strumenti host consentono di accedere rapidamente a elementi come l'esecuzione on-air (necessaria per l'esecuzione di eventi FrontRow), la disattivazione e la messaggistica del pubblico, l'aggregamento e lo spegnimento dei blocchi di scena, il megafono, la possibilità di "alzare le mani" per porre domande o offrire commenti, la possibilità di passare dalla stanza frontrow alla stanza e molto altro ancora.
 
 ![Menu Degli strumenti host aperto con le azioni disponibili evidenziate](images/host-front-row-img-01.png)
 
@@ -33,7 +33,7 @@ Gli strumenti host vengono visualizzati nella parte inferiore destra del campo d
 
 ### <a name="toggle-mute-all"></a>Attivare o disattivare Mute-All
 
-Se si mutono i partecipanti, è possibile limitare i suoni di distrazione e mantenere le cose belle e silenziose nell'evento FrontRow. La funzione mute durerà fino a quando un host lo consente o quando l'host lascia lo spazio. Quando un partecipante entra nell'evento o tenta di riattivare l'audio, i partecipanti riceveranno un messaggio sullo schermo che informa che l'host ha disattivato l'audio. Quando l'host viene riattivato, i partecipanti riceveranno un messaggio che informa che sono stati riattivati.
+Se si mutono i partecipanti, è possibile limitare i suoni di distrazione e mantenere le cose belle e silenziose nell'evento FrontRow. La funzione mute durerà fino a quando un host lo consente o quando l'host lascia lo spazio. Quando un partecipante entra nell'evento o prova a riattivare l'audio, i partecipanti riceveranno un messaggio sullo schermo che informa che l'host ha disattivato l'audio. Quando l'host viene riattivato, i partecipanti riceveranno un messaggio che informa che sono stati riattivati.
 
 ### <a name="message-all"></a>Messaggio tutto
 
@@ -54,7 +54,7 @@ Essere in onda per l'intera durata dell'evento FrontRow è MOLTO IMPORTANTE. Per
 
 ### <a name="toggle-stage-blocker"></a>Attiva/Disattiva blocco fase
 
-Decidere quando e dove i partecipanti possono essere presenti. Scegliere di ingranire i riflettori, presentarsi a turno o invitare tutti i presenti sul palco per una party di musica di gruppo.
+Decidere quando e dove possono essere presenti i partecipanti. Scegliere di ingranire i riflettori, presentarsi a turno o invitare tutti i presenti sul palco per una party di musica di gruppo.
 
 > [!IMPORTANT]
 > Non tutti i mondi contengono un blocco di fase, quindi scegliere con sapiente i modelli di evento. Acquisire familiarità con i modelli di evento sugli eventi di test prima di creare l'evento ufficiale.
@@ -63,19 +63,19 @@ Decidere quando e dove i partecipanti possono essere presenti. Scegliere di ingr
 
 Selezionando il pulsante Pannello host verranno aperte opzioni più avanzate per l'evento FrontRow:
 
-![Pannello host aperto con la scheda guest selezionata](images/host-front-row-img-02.png)
+![Pannello host aperto con la scheda Guest selezionata](images/host-front-row-img-02.png)
 
 ## <a name="guest-panel"></a>Pannello guest
 
-Consente di tenere traccia di tutti gli utenti nella "stanza" dell'evento. In un evento FrontRow sono presenti più stanze. Il pannello Guest mostra solo gli ospiti nella stanza in cui ci si trova attualmente. È possibile filtrare ciò che viene visualizzato facendo clic su All/Open Mics/Hosts/Friends/On-Air (Tutto/ Open Mics/Hosts/Friends/On-Air). Si tratta di un elenco interattivo che offre una suddivisione di più pagine di chi si trova nella stanza.
+Consente di tenere traccia di tutti gli utenti nella "stanza" dell'evento. In un evento FrontRow sono presenti più stanze. Il pannello Guest mostra solo gli ospiti nella stanza in cui ci si trova attualmente. È possibile filtrare ciò che viene visualizzato facendo clic su All/Open Mics/Hosts/Friends/On-Air (Tutto/Apri microfoni/Host/Amici/On-Air). Si tratta di un elenco interattivo che offre una suddivisione di più pagine di chi si trova nella stanza.
 
-Si sta provando a trovare qualcuno con audio non audio erto? Aprire Microfoni per vedere chi è stato riattivato. Per assicurarsi che tutti gli utenti necessari siano con mirroring nell'evento FrontRow, Selezionare On-Air per visualizzare tutti gli utenti attualmente in esecuzione e con mirroring. 
+Si sta provando a trovare qualcuno con audio non erto? Aprire Microfoni per vedere chi è stato riattivato. Per assicurarsi che tutti gli utenti necessari siano con mirroring nell'evento FrontRow, Selezionare On-Air per visualizzare tutti gli utenti attualmente in esecuzione e con mirroring. 
 
 ### <a name="moderation-tools"></a>Strumenti di moderazione
 
 L'host eventi è responsabile della gestione dell'esperienza di altri utenti. Per moderare in modo efficiente, l'utente e i moderatori hanno bisogno di strumenti di moderazione affidabili. In quanto host di un evento FrontRow è possibile disattivare gli utenti che causano interruzioni, escludere le regole dall'evento (temporaneamente o durante l'evento) e persino assegnare il ruolo Moderator/Host ad altri utenti durante l'evento per ottenere assistenza nella gestione dei destinatari.
 
-È possibile disattivare immediatamente l'audio dei guest dal pannello guest facendo clic sull'icona del parlante accanto al nome o per opzioni aggiuntive selezionare il menu hamburger sul lato destro del pannello del guest:
+È possibile disattivare immediatamente i guest dal pannello guest facendo clic sull'icona del parlante accanto al nome o per opzioni aggiuntive selezionare il menu hamburger sul lato destro del pannello del guest:
 
 ![Singolo elemento guest selezionato nel pannello guest](images/host-front-row-img-03.png)
 
@@ -84,24 +84,24 @@ L'host eventi è responsabile della gestione dell'esperienza di altri utenti. Pe
 ![Singolo elemento guest selezionato con le opzioni dello strumento di moderazione evidenziate](images/host-front-row-img-04.png)
 
 A questo punto è possibile lavorare con FrontRow Hosting Magic e usare queste funzionalità nei partecipanti:
-    * **Messaggio:** in genere è necessario essere amici per poter inviare messaggi a un altro utente, ma come host è possibile inviare/ricevere messaggi con chiunque nel proprio evento.
-    * **Disattiva:** disattivarle per tutti gli utenti dell'evento.
+    * **Messaggio:** in genere è necessario essere amici per poter inviare un messaggio a un altro utente, ma come host è possibile inviare/ricevere messaggi con chiunque nel proprio evento.
+    * **Disattiva:** disattivare l'audio per tutti gli utenti dell'evento.
     * **Megafono:** consente di amplificare la voce.
     * **On-Air:** è possibile "rispecchiare" questo guest, in modo che il proprio avatar sia visto e ascoltato da tutti gli utenti di tutte le stanze nell'evento FrontRow.
     * **Accesso alla fase:** consentire loro di passare a qualsiasi blocco di fase e passare all'area della fase.
     * **Rendi host:** assegna loro il ruolo Host nell'evento FrontRow. Aggiungere un Co-Host in tempo reale, assicurarsi che siano in tempo reale e che possano aiutare a eseguire le operazioni o a farlo recare nelle altre stanze per verificare le cose. Tutti gli utenti sono in modalità on-air e vengono visualizzati nelle stanze secondarie? La presentazione è sincronizzata in tutte le stanze attive? Fare in modo che siano in onda quando si sono nell'altra stanza e si sarà in grado di parlare dell'avatar con l'avatar da Stanza a Stanza.
-    * **Crea moderatore:** assegna loro il ruolo moderatore nell'evento front-row, per facilitare il controllo della massa. I moderatori avranno accesso a uno strumento host limitato, in modo che possano passare da una stanza all'altra per controllare le cose, ma non devono andare in onda. 
-    * **Kick** : consente di escludere temporaneamente o durante l'evento gli interruttori delle regole dall'evento.
+    * **Crea moderatore:** assegna loro il ruolo moderatore nell'evento front-row, per facilitare il controllo della massa. I moderatori avranno accesso a strumenti host limitati, in modo che possano passare da una stanza all'altra per controllare le cose, ma non devono andare in onda. 
+    * **Kick** : esclude le regole dall'evento, temporaneamente o durante l'evento.
 
 ## <a name="participation-panel"></a>Pannello Di partecipazione
  
-È possibile usare questo pannello per interagire con i partecipanti all'evento. È possibile avere un Q&A, formare una coda da eseguire per un microfono aperto o per assicurarsi che anche l'guest con cui si sta parlando sia con mirroring, in modo che tutti possano ascoltare entrambi gli utenti parlare tra loro da tutte le stanze frontrow:
+È possibile usare questo pannello per interagire con i partecipanti all'evento. È possibile avere un&A, formare una coda da eseguire per un microfono aperto o per assicurarsi che anche l'guest con cui si sta parlando sia con mirroring, in modo che tutti possano ascoltare entrambi gli utenti parlare tra loro da tutte le stanze frontrow:
 
 ![Pannello host aperto con la scheda partecipazione selezionata](images/host-front-row-img-05.png)
 
 Il pannello di partecipazione è progettato per consentire di gestire l'interazione e la partecipazione dei destinatari. Qui è possibile attivare o disattivare l'opzione "Consenti alzamenti di mano" per sbloccare la partecipazione dei destinatari. **Negli eventi FrontRow è prima necessario essere in modalità On-Air per attivarlo. In caso contrario, questo pulsante verrà visualizzato in grigio.**
 
-Quando la funzione "Consenti alzamenti di mano" è attivata, viene visualizzato un pulsante "Alza mano" per tutti gli utenti nell'evento FrontRow, nella sezione inferiore destra del campo di visualizzazione:
+Quando viene attivata la funzione "Consenti alzamenti di mano", viene visualizzato un pulsante "Alza mano" per tutti gli utenti nell'evento FrontRow, nella sezione in basso a destra del campo di visualizzazione:
 
 ![Funzione Alza mano evidenziata nel pannello di partecipazione](images/host-front-row-img-06.png)
 
@@ -115,9 +115,9 @@ Per tenere traccia, il pannello di partecipazione accenderà anche una notifica 
 
 A questo punto è possibile chiamare su di essi facendo clic sul pulsante "On-Air + Megaphone". In questo modo il pulsante sarà blu dopo l'attivazione. Questa azione invierà due messaggi al hand raiser, per confermare che vogliono riattivare il microfono e "L'host ha chiamato l'utente e ha reso l'utente più forte". Dopo l'accettazione, il pulsante sarà blu e in questo modo verranno visualizzati e ascoltati in modalità On-Air 'Mirrored' e Amplify My Voice 'Megaphoned'.
 
-Dopo aver completato l'interazione con essi, fare di nuovo clic sul pulsante blu per portarli in modalità off-air, il pulsante non sarà più blu, quindi fare clic sulla X per ignorarli dall'elenco. A questo punto si è pronti per il concorso numero due e così via e così via :)
+Dopo aver completato l'interazione con questi elementi, fare di nuovo clic sul pulsante blu per disattivarli, il pulsante non sarà più blu, quindi fare clic sulla X per ignorarli dall'elenco. Ora si è pronti per il concorso numero due e così via e così via :)
 
-È anche possibile concedere loro l'accesso temporaneo alla fase o fare clic sul pulsante Ignora tutto a destra per cancellare completamente l'elenco di alzamano e iniziare da nuovo.
+È anche possibile concedere loro l'accesso temporaneo alla fase o fare clic sul pulsante Ignora tutto a destra per cancellare completamente l'elenco di alzamano e iniziare da subito.
 
 ## <a name="room-panel"></a>Pannello Della stanza
 
@@ -131,21 +131,21 @@ Le stanze hanno pulsanti per Reimposta spazio, Elimina spazio, Ridistribuire gli
 
 ![Pulsante Reimposta spazio evidenziato nel pannello della stanza](images/host-front-row-img-09.png)
 
-Verrà visualizzato "Reimposta spazio" nella stanza in cui ci si trova. Non è possibile reimpostare gli spazi per tutte le stanze contemporaneamente, sarà necessario recarsi in ogni stanza per eseguire una reimpostazione.
+Verrà visualizzato il messaggio "Reset Space" (Reimposta spazio) nella stanza in cui ci si trova. Non è possibile reimpostare gli spazi per tutte le stanze contemporaneamente, sarà necessario recarsi in ogni stanza per eseguire una reimpostazione.
 
 ![Pulsante Elimina spazio evidenziato nel pannello della stanza](images/host-front-row-img-10.png)
 
-Elimina definitivamente la stanza in cui ci si trova. Tutti gli utenti nella stanza eliminata si uniranno automaticamente all'evento e si uniranno a una stanza diversa.
+Elimina definitivamente la stanza in cui ci si trova attualmente. Tutti gli utenti nella stanza eliminata si uniranno automaticamente all'evento e si uniranno a un'altra stanza.
 
 ![Pulsante Ridistribuire gli utenti evidenziato nel pannello della stanza](images/host-front-row-img-11.png)
 
-A volte, dopo che l'evento FrontRow è stato fatto per un po' di tempo, le prime camere hanno quasi capacità, ma l'ultima camera o due può avere solo un numero ridotto di ospiti per stanza. Facendo clic su questo pulsante, gli ospiti in tale stanza possono scegliere di rimanere nella stanza corrente o di andare in una stanza più popolata.
+In alcuni casi, dopo che l'evento FrontRow è stato in esecuzione per un certo tempo, le prime stanze hanno quasi la capacità, ma l'ultima o due possono avere solo un numero ridotto di guest per stanza. Se si fa clic su questo pulsante, gli utenti della stanza possono scegliere di rimanere nella stanza corrente o di accedere a una stanza più popolata.
 
 > [!NOTE]
-> Non è necessario recarsi nella stanza che si desidera ridistribuire. È possibile fare clic sul pulsante Ridistribui utenti in qualsiasi stanza direttamente dal pannello Stanze. Provare a non eseguire questa operazione troppe volte nella stessa stanza. Gli ospiti potrebbero voler essere con poche persone e potrebbero non voler continuare a ricevere messaggi che chiedono di spostare le stanze.
+> Non è necessario recarsi nella stanza che si desidera ridistribuire. È possibile fare clic sul pulsante Ridistribui utenti in qualsiasi stanza direttamente dal pannello Stanze. Provare a non eseguire questa operazione troppe volte nella stessa stanza. Gli utenti che vi si spostano potrebbero voler essere con poche persone e potrebbero non voler continuare a ricevere messaggi per chiedere di spostare le stanze.
 
 ![Pulsante Teletrasporto evidenziato nel pannello della stanza](images/host-front-row-img-12.png)
 
-Questo è il modo in cui si viaggia da una stanza front-row a un'altra. I moderatori vorranno usarlo per spostarsi da una stanza all'altra per controllare la massa. Durante le prove, è possibile avere un host, On-Air, nella stanza primaria e fare in modo che il resto dell'equipe si recidi nelle altre stanze per vedere come appare tutto. Tutto è sincronizzato nelle altre stanze e ha un aspetto simile a quello nella stanza primaria? Se tutti gli utenti che aiutano a testare hanno il ruolo Host, possono anche recarsi nelle altre stanze, passare in modalità on-air e sarà possibile visualizzare e ascoltare tutti gli utenti in modo da poter comunicare tra le stanze in questo modo.
+Questo è il modo in cui si sposta da una stanza front-row a un'altra. I moderatori vorranno usarlo per spostarsi da room a room per controllare la massa. Durante le prove, è possibile avere un host, On-Air, nella stanza primaria e fare in modo che il resto dell'team si recidi alle altre stanze per vedere come appare tutto. Tutto è sincronizzato nelle altre stanze e sembra proprio come nella stanza primaria? Se tutti gli utenti che aiutano a testare hanno il ruolo host, possono anche passare alle altre stanze, passare in modalità on-air e sarà possibile vedere e ascoltare tutti gli utenti in modo da poter comunicare tra le stanze in questo modo.
 
-Ti senti inviviato a provare tutto? Ottimo. Andare avanti ed estendere i toni dell'host dell'evento FrontRow.
+Provare a provare tutto? Ottimo. Andare avanti ed estendere l'host dell'evento FrontRow.

@@ -19,13 +19,13 @@ ms.locfileid: "119127862"
 
 | Mano sinistra | Mano destra |
 |---|---|
-| Levetta sinistra - Spostamento/Scorrimento | Levetta destra - Ruota/Scorre |
+| Levetta a sinistra - Spostamento/Scorrimento | Levetta destra - Turn/Scroll |
 | X - Azione | A - Azione |
 | Y - Teletrasporto | B - Teletrasporto |
-| Menu - Apri altspaceVR menu | Oculus - Open OculusHome |
-| Riquadro sinistro: afferrare l'oggetto con la mano sinistra | Riquadro destro: afferrare l'oggetto con la mano destra |
-| Trigger a sinistra - Attivazione/esecuzione | Trigger destro - Attivazione |
-| Fare clic sulla levetta sinistra - Reimposta HMD e altitudine |  |
+| Menu - Aprire il menu AltspaceVR | Oculus - Aprire OculusHome |
+| Aderenza a sinistra: afferrare l'oggetto con la mano sinistra | Aderenza a destra: afferrare l'oggetto con la mano destra |
+| Trigger sinistro - Attiva/Esegui | Trigger destro - Attiva |
+| Fare clic sulla levetta a sinistra - Reset HMD and Altitude (Reimposta HMD e altitudine) |  |
 
 ## <a name="hand-gestures"></a>Movimenti della mano
 
@@ -33,17 +33,17 @@ ms.locfileid: "119127862"
 |---|---|
 | Inattivi | Posizione predefinita |
 | Punta indice dito | Pulsante di controllo mantenuto |
-| Pollici in su | Pulsanti di & di controllo mantenuti |
+| Pollici in su | Pulsanti & trigger di controllo mantenuti |
 | Pugno | Pulsanti a controllo, trigger e A/X mantenuti |
 
 ## <a name="managing-permissions"></a>Gestione delle autorizzazioni
 
 <!-- Missing image -->
 
-Per gestire le autorizzazioni in Oculus Quest per ogni app dalla libreria Oculus:
+Per gestire le autorizzazioni per Oculus Quest in base all'app dalla libreria Oculus:
 
 1. Passare all'app nella libreria Oculus.
 2. Selezionare **l'icona a tre punti** per aprire il menu dell'app.
-3. Selezionare **autorizzazioni** dal menu a discesa visualizzato.
+3. Selezionare **le** autorizzazioni dal menu a discesa visualizzato.
 
 Verrà caricata un'interfaccia utente "Autorizzazioni", che è possibile attivare e disattivare per ogni app.

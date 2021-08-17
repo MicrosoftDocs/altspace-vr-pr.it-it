@@ -1,6 +1,6 @@
 ---
-title: Windows Mixed Reality controlli
-description: Informazioni sullo schema di controllo di base per l'esecuzione di AltspaceVR Windows Mixed Reality controller di movimento.
+title: Windows Mixed Reality seguenti
+description: Informazioni sullo schema di controllo di base per l'esecuzione di AltspaceVR Windows Mixed Reality controller del movimento.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: windows mixed reality, controlli
@@ -11,8 +11,8 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119127582"
 ---
-# <a name="windows-mixed-reality-controls"></a>Windows Mixed Reality controlli
+# <a name="windows-mixed-reality-controls"></a>Windows Mixed Reality seguenti
 
 Di seguito sono elencati i controlli di base per Windows Mixed Reality.
 
-![Controller di movimento di realtà mista delle finestre destra e sinistra con callout di azione per ogni pulsante e meccanismo di input](images/windows-mixed-controls.jpg)
+![Controller del movimento di realtà mista delle finestre destra e sinistra con callout di azione per ogni pulsante e meccanismo di input](images/windows-mixed-controls.jpg)

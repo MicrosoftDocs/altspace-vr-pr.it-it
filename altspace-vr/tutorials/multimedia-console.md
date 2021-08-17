@@ -29,7 +29,7 @@ L'introduzione alla console multimediale è un processo in due parti.  Prima di 
   
 ### <a name="placing-the-multimedia-console-in-your-environment"></a>Inserimento della console multimediale nell'ambiente
 
-1. Selezionare World **Editor > Editor Panel > SDK Apps > Multimedia Console**. Non passare a World Editor > **Basics > SDK App**(Informazioni di base sull'app SDK) per le app non registrate.  
+1. Selezionare World **Editor > Editor Panel > SDK Apps > Multimedia Console**. Non passare a World Editor > **Basics > SDK App**(Per le app non registrate).  
 2. Posizionare la console multimediale in modo che sia la soluzione migliore per lo spazio e il pubblico.
 3. Uscire dalla modalità di modifica facendo clic sul pulsante arancione Modalità di modifica.
 4. Verrà chiesto Se si è il **proprietario del lettore multimediale,** Se si è la persona che deve essere il proprietario ufficiale di questa sessione della console multimediale, confermare e continuare. Sono disponibili anche altri ruoli con autorizzazioni. Per un elenco dettagliato, vedere di seguito.

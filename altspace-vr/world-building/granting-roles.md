@@ -33,7 +33,7 @@ Dopo aver selezionato **Update (Aggiorna),** Reset Space in the World (Reimposta
 
 ## <a name="roles"></a>Ruoli
 
-* **Megaphone_only:** la possibilità di parlare nei riti degli utenti ovunque si trova nel mondo
+* **Megaphone_only:** possibilità di parlare alle persone ovunque si trovano nel mondo
 * **Moderatore:** capacità come **il kick** per mantenere il decoro
 * **Pilota:** possibilità di attivare/disattivare la modalità a comparsa e generare lo strumento di volo 6DOF
 * **Host:** capacità come la possibilità di essere sul stage, avere megaphone

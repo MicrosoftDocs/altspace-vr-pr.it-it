@@ -13,8 +13,8 @@ ms.locfileid: "119125375"
 ---
 # <a name="where-can-i-get-help"></a>Dove è possibile ottenere assistenza?
 
-Gli amici non consentono agli amici di creare mondi da soli. Ecco alcuni modi per ottenere assistenza:
+Gli amici non consentono agli amici di creare solo il mondo. Ecco alcuni modi per ottenere assistenza:
 
-* Cercare in questo [Knowledge Base](../index.yml) esplorando in particolare la sezione [world-building.](world-editor-getting-started.md) Creare un account (fare clic su "Accedi" in alto a destra, quindi su "Iscrizione") e seguire questa sezione per ricevere un avviso quando vengono pubblicati nuovi articoli.
-* Partecipare a [World Builders Discord](https://discordapp.com/invite/altspacevr). La maggior parte dei costruttori di tutto il mondo e alcuni tecnici di Altspace sono qui. Provare a porre domande nel #help canale.
-* Partecipare a [MRE SDK Discord](https://discord.gg/xyBcQec). Per sviluppatori più avanzati che usano gli strumenti di programmazione Software Development Kit (SDK) e Unity. 
+* Eseguire una ricerca [in Knowledge Base](../index.yml) ed esplorare in particolare la sezione [world-building.](world-editor-getting-started.md) Creare un account (fare clic su "Accedi" in alto a destra, quindi su "Iscriviti") e seguire questa sezione per ricevere un avviso quando vengono pubblicati nuovi articoli.
+* Partecipa a [World Builders Discord](https://discordapp.com/invite/altspacevr). La maggior parte dei costruttori di tutto il mondo e alcuni tecnici di Altspace sono qui. Provare a porre domande nel #help canale.
+* Partecipare a [MRE SDK Discord](https://discord.gg/xyBcQec). Per sviluppatori di mondo più avanzati che usano il Software Development Kit (SDK) di programmazione e gli strumenti Unity. 

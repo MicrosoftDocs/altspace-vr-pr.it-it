@@ -19,7 +19,7 @@ Per configurare Windows Mixed Reality dal Microsoft Store:
 1. Completare [il processo di configurazione wmr](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/set-up-windows-mixed-reality) nel PC.
 2. Connessione il visore al PC & aprire Portale realtà mista.
 3. Accendere i controller di movimento, ma non accendere ancora il visore.
-4. Attendere che la Windows Mixed Reality principale carichi & che i controller siano visibili.
+4. Attendere che la Windows Mixed Reality home & che i controller siano visibili.
 
 Successivamente, per eseguire AltspaceVR:
 1. [Ottenere AltspaceVR nel Microsoft Store](https://www.microsoft.com/p/altspacevr/9nvr7mn2fchq).
@@ -39,4 +39,4 @@ Successivamente, per eseguire AltspaceVR:
 4. Usare l'app Steam per avviare AltspaceVR dalla libreria di Steam.
 
 > [!NOTE]
-> Per avviare giochi di SteamVR senza spegnere il visore, usare l'app Desktop (**Avvia > Desktop**) per visualizzare e interagire con il desktop del PC all'interno di Windows Mixed Reality.
+> Per avviare giochi di SteamVR senza spegnere il visore, usare l'app Desktop (**Avvia > Desktop**) per visualizzare e interagire con il desktop del PC all'interno Windows Mixed Reality.

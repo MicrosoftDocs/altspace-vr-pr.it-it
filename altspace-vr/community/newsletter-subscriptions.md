@@ -13,7 +13,7 @@ ms.locfileid: "119125084"
 ---
 # <a name="subscribing-to-our-newsletter"></a>Sottoscrizione alla newsletter
 
-Siamo lieti di sapere che si è interessati a ricevere aggiornamenti e notizie su AltspaceVR. La nostra newsletter settimanale è il posto migliore per conoscere gli eventi imminenti e le nuove funzionalità. Alcuni degli eventi live includono stand up comedy, sessioni&A e performance musicali. Visualizzare un evento a cui si desidera partecipare? Selezionare il pulsante "Interessato" nel messaggio di posta elettronica e si sarà certi di inviare un promemoria prima dell'inizio dell'evento in modo da non perdersi.
+Siamo lieti di sapere che si è interessati a ricevere aggiornamenti e notizie su AltspaceVR. La nostra newsletter settimanale è il posto migliore per conoscere gli eventi imminenti e le nuove funzionalità. Alcuni dei nostri eventi live includono stand up comedy, sessioni&A e performance musicali. Visualizzare un evento a cui si desidera partecipare? Selezionare il pulsante "Interessato" nel messaggio di posta elettronica e si sarà certi di inviare un promemoria prima dell'inizio dell'evento in modo da non perdersi.
 
 AltspaceVR e gli eventi di pianificazione vengono costantemente aggiornati solo per l'utente. 
 

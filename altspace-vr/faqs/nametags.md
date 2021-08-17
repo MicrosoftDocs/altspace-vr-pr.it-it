@@ -21,11 +21,11 @@ Verranno visualizzate alcune icone nel tag Nametag: **Friend, Block e** **Mute.*
 
 * **Blocca:** La funzionalità di blocco consente di rimuovere un utente dall'esperienza. L'utente non verrà più visualizzato o sentito e non verrà più visualizzato o sentito. Se è necessario sbloccare un utente, aprire il pannello Amici in AltspaceVR, selezionare la scheda del blocco e quindi sbloccare l'utente.
 
-* **Friending:** Il pulsante friend invierà all'utente una richiesta di amico, dopo aver inviato un messaggio a un altro utente, per vedere quando l'utente è online e per partecipare facilmente alla propria stanza. Il nametag dell'utente includerà anche un bordo blu in modo da poterli riconoscere facilmente come amici. Si noterà anche un contatore nella parte inferiore del nametag, che mostrerà la durata di amici dell'utente.
+* **Friending:** Il pulsante friend invierà all'utente una richiesta di amico, dopo aver inviato un messaggio a un altro utente, per vedere quando l'utente è online e per partecipare facilmente alla propria stanza. Il nametag dell'utente includerà anche un bordo blu in modo da poterli riconoscere facilmente come amici. Si noterà anche un contatore nella parte inferiore del nametag, che mostrerà la durata in cui si è amici con tale utente.
 
 Quando si ospita la propria attività, si riceveranno altri strumenti per la moderazione. A questo punto sarà possibile inviare messaggi agli utenti con cui non si è ancora amici e sarà anche possibile avviare gli utenti.
 
-* **Kick ::** Se un utente interrompe l'attività è sempre possibile usare il pulsante Kick, l'utente verrà rimosso dall'attività. Dopo essere stati espulsi, non saranno più in grado di partecipare all'attività corrente. 
+* **Kick (Avvia):** Se un utente interrompe l'attività è sempre possibile usare il pulsante Kick, l'utente verrà rimosso dall'attività. Dopo essere stati espulsi, non saranno più in grado di partecipare all'attività corrente. 
 
 * **Badge amministratore:** AltspaceVR ha il personale a disposizione 24 ore su 24, 7 giorni su 7 in The Campfire per assistere l'utente nella realtà virtuale. Tutti i membri del personale che rappresentano AltspaceVR avranno il badge amministratore gold sul nome.
 

@@ -22,7 +22,7 @@ ms.locfileid: "119126469"
 # <a name="account--avatar"></a>[Avatar & account](#tab/account)
 
 * [Come funzionano i tag dei nomi?](../faqs/nametags.md)
-* [Ricerca per categorie le informazioni personali?](../faqs/updating-email-address.md)
+* [Ricerca per categorie aggiornare le informazioni personali?](../faqs/updating-email-address.md)
 
 # <a name="contact-us"></a>[contattaci](#tab/contact)
 

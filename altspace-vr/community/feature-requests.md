@@ -13,7 +13,7 @@ ms.locfileid: "119125007"
 ---
 # <a name="submitting-feature-requests"></a>Invio di richieste di funzionalità
 
-Ottimo. Grazie per averci aiutati, non vediamo l'ora di ricevere commenti e suggerimenti.
+Ottimo. Grazie per averci dato una mano, non vediamo l'ora di ricevere commenti e suggerimenti.
 
 > [!div class="nextstepaction"] 
-> [File a Feature Request](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)
+> [File di una richiesta di funzionalità](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)

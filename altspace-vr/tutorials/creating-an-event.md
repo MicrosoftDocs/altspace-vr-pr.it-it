@@ -88,89 +88,89 @@ Nella [pagina >](https://account.altvr.com/events/my) Eventi nel sito Web di Alt
     * Visibilità: gli eventi pubblici sono visibili nella scheda [Tutti](https://account.altvr.com/events/all) del calendario eventi del sito Web altspaceVR e sono aperti al pubblico.
     * Gli eventi privati non sono visibili nei calendari degli eventi altspaceVR e richiedono l'URL dell'evento per immettere lo spazio eventi.
     * Se si vuole "Aggiungi come evento principale", l'evento deve essere impostato su public.
-6. **Selezionare un modello:** Sul lato destro della pagina Web è disponibile un elenco di immagini di anteprima dei modelli disponibili in AltspaceVR. Ci sono sale giochi, uffici, spazi riunioni, spazi di presentazione e spazi di incontro divertenti. Selezionarne uno interessante. Se non ti piace, procedere e creare un nuovo evento con un nuovo modello. Se si vuole creare un mondo di eventi personalizzato, selezionare **Cool Sky** come modello predefinito e seguire le istruzioni riportate di seguito per importare il mondo.
+6. **Selezionare un modello:** Sul lato destro della pagina Web è presente un elenco di immagini di anteprima dei modelli disponibili in AltspaceVR. Sono disponibili sale giochi, uffici, spazi riunioni, spazi di presentazione e spazi di incontro. Selezionarne uno interessante. Se non lo si desidera, è sufficiente creare un nuovo evento con un nuovo modello. Se si vuole creare un mondo di eventi personalizzato, selezionare **cool sky** come modello predefinito e seguire le istruzioni riportate di seguito per importare il mondo.
 7. Selezionare **OPZIONI AVANZATE**
 
 ### <a name="advanced-options"></a>Advanced Options
 
-1. **Alza di livello:** Ogni evento richiede due immagini personalizzate (queste immagini vengono visualizzate nel sito Web AltspaceVR e non vengono visualizzate nell'evento all'interno di AltspaceVR):
+1. **Alza di livello:** Ogni evento richiede due immagini personalizzate(queste immagini vengono visualizzate nel sito Web altspaceVR e non vengono visualizzate nell'evento all'interno di AltspaceVR):
     * **Riquadro:** L'immagine del riquadro deve essere di 1920x1080 pixel. Questa immagine verrà ridimensionata a diverse dimensioni di anteprima e visualizzata nel calendario degli eventi altspaceVR con altri eventi. Assicurarsi che l'immagine sia chiara e non abbia molto testo. Non usare immagini/logo protetti da copyright di cui non si è proprietari.
-    * **Banner:** Le immagini del banner devono essere 1920x576. Verrà ridimensionato automaticamente in base alle esigenze e visibile nelle informazioni sull'evento o nella pagina Web. Una sovrimpressione semitrasparente copre il 25% inferiore dell'immagine. Evitare di inserire testo in tale area.
-    * Un'altra opzione (più rapida) è copiare l'immagine del riquadro nell'immagine del **banner** di sfondo, che userà anche l'immagine del riquadro come immagine del banner. Provare a :). Se non ha un aspetto positivo, è possibile creare una nuova immagine banner.
-2. **In VR:** Questa sezione include le funzionalità che si applicano all'esperienza virtuale durante l'evento all'interno dell'app AltspaceVR:
-    * **Ruoli contestuali predefiniti:** Il punto interrogativo verde elenca i ruoli specifici disponibili per tutti i membri *del gruppo di destinatari nell'evento*. Il più comune è *megaphone_only*. Aggiungere questa opzione per assegnare l'opzione "Amplifica la mia voce" sotto il pulsante Strumenti host a tutti i membri del pubblico in modo che possano essere ascoltati nell'evento se si tratta di uno spazio di grandi dimensioni. Se l'evento richiede il volo, aggiungere *pilota*. Per aggiungerli entrambi, il formato è: *megaphone_only, pilota.* Ogni utente deve abilitare la modalità Fly nell'app AltspaceVR Impostazioni/Input/Fly.
-    * **Istruzioni:** Le [istruzioni sono](../world-building/adding-welcome-messages.md) relative al testo che genera un'immagine di benvenuto all'arrivo nello spazio. Gli utenti devono selezionare "OK" per rimuoverlo dalla visualizzazione. Questo viene spesso usato per fornire istruzioni per i destinatari, ad esempio "Si prega di rimanere silenziati fino a quando non viene invitato a parlare" o "Benvenuti nell'evento XYZ in cui verrà illustrato ABC". Questo non è obbligatorio, quindi usare con giudizio. È anche possibile usare Markdown per aggiungere il colore e il ridimensionamento del carattere, altri dettagli: [http://digitalnativestudios.com/textmeshpro/docs/rich-text](http://digitalnativestudios.com/textmeshpro/docs/rich-text)
-3. **Avanzate:** Di seguito è riportata una rapida spiegazione delle funzionalità avanzate per gli eventi .Alcune di queste funzionalità verranno visualizzate solo dopo la creazione dell'evento e la modifica dell'evento:
-    * **Amministratori:** Gli amministratori sono utenti altspaceVR attendibili per gestire l'evento. Possono essere cohost o host di backup. Aggiungendo il nome utente all'elenco Admins, possono:
+    * **Banner:** Le immagini del banner devono essere 1920x576. Questo verrà ridimensionato automaticamente in base alle esigenze e visibile nelle informazioni sull'evento o nella pagina Web. Una sovrimpressione semitrasparente copre il 25% inferiore dell'immagine. Evitare di inserire testo in tale area.
+    * Un'altra opzione (più rapida) è copiare l'immagine del riquadro nell'immagine del **banner** di sfondo, che userà anche l'immagine del riquadro come immagine del banner. Provare a :). Se l'aspetto non è positivo, è possibile creare una nuova immagine banner.
+2. **Nella realtà virtuale:** Questa sezione include le funzionalità che si applicano all'esperienza virtuale durante l'evento all'interno dell'app AltspaceVR:
+    * **Ruoli contestuali predefiniti:** Il punto interrogativo verde elenca i ruoli specifici disponibili per tutti *i membri del gruppo di destinatari nell'evento*. Il più comune è *megaphone_only*. Aggiungere questa opzione per assegnare l'opzione "Amplify My Voice" (Amplify My Voice) sotto il pulsante Host Tools (Strumenti host) a tutti i membri del gruppo di destinatari in modo che possano essere ascoltati durante l'evento se si tratta di uno spazio grande. Se l'evento richiede un volo, aggiungere *pilota*. Per aggiungerli entrambi, il formato è: *megaphone_only, pilota.* Ogni utente deve abilitare la modalità fly nell'app AltspaceVR Impostazioni/Input/Fly.
+    * **Istruzioni:** Le [istruzioni sono](../world-building/adding-welcome-messages.md) relative al testo che genera un'immagine di benvenuto all'arrivo nello spazio. Gli utenti devono selezionare "OK" per rimuoverlo dalla visualizzazione. Questa opzione viene spesso usata per fornire ai destinatari istruzioni come "Please stay muted until invited to speak" (Non modificare l'audio fino a quando non viene invitato a parlare) o "Welcome to XYZ event where we'll be covering ABC". Questo non è obbligatorio, quindi usare consaciamente. È anche possibile usare Markdown per aggiungere il colore e il ridimensionamento dei caratteri, altri dettagli: [http://digitalnativestudios.com/textmeshpro/docs/rich-text](http://digitalnativestudios.com/textmeshpro/docs/rich-text)
+3. **Avanzate:** Di seguito è riportata una rapida spiegazione delle funzionalità avanzate per gli eventi (alcune di queste funzionalità verranno visualizzate solo dopo la creazione dell'evento e la modifica dell'evento):
+    * **Amministratori:** Gli amministratori sono utenti altspaceVR attendibili per facilitare la gestione dell'evento. Possono essere i cohost o gli host di backup. Aggiungendo il nome utente all'elenco Admins, gli amministratori possono:
         * Modificare il titolo dell'evento, la descrizione e altre funzionalità.
         * Aggiungere e rimuovere ruoli contestuali per moderatori, host e altri ruoli.
         * Eliminare l'evento.
     * **Gruppo:** Scegliere tra i gruppi [privati](group-features.md) usando il menu a discesa. Verrà visualizzato solo se l'account è stato creato o aggiunto a un gruppo.
-    * **Riga tag:** Questa frase concisa verrà visualizzata nella pagina Web dell'evento sotto il titolo.
-    * **Importare dal mondo:** Per usare uno spazio eventi mondiale creato per l'uso ripetuto, questa è la sezione del modulo da usare per importare il layout e la personalizzazione del mondo nell'evento. Tenere presenti le considerazioni seguenti:
+    * **Riga del tag:** Questa frase concisa verrà visualizzata nella pagina Web dell'evento sotto il titolo.
+    * **Importa da mondo:** Per usare uno spazio eventi mondo creato per l'uso ripetuto, questa è la sezione del modulo da usare per importare il layout e la personalizzazione di tale mondo nell'evento. Tenere presenti le considerazioni seguenti:
 
-    **Importare il proprio mondo:** Per importare un mondo, è stato creato e proprietario:
-    * Selezionare la freccia a discesa per visualizzare un elenco di mondi creati.
+    **Importare il proprio mondo:** Per importare un mondo, è stato creato e si è proprietari di:
+    * Selezionare la freccia a discesa per visualizzare un elenco di ambiti creati.
     * Selezionare il mondo.
     * Dopo aver completato il resto del modulo dell'evento, attendere almeno 2 minuti prima di visitare lo spazio eventi in AltspaceVR per assicurarsi che le informazioni del database siano aggiornate e che venga generato il mondo.
     
-    **Usare il mondo di un altro utente:**
-    * Contattare il proprietario del mondo per richiedere di usare la funzionalità **Condividi** con amici in un singolo mondo per condividerla con l'utente.
+    **Usare il mondo di qualcun altro:**
+    * Contattare il proprietario del mondo per richiedere l'uso **della funzionalità Condividi** con amici in un singolo mondo per condividerla con l'utente.
 
-3. **ID video YouTube:** Visibile nella pagina Web dell'evento, aggiunge i trailer o i video degli eventi di YouTube alla pagina Web dell'evento, non nel mondo. Sarà necessaria solo la parte dell'ID video dell'URL: dQw4w9WgXcQ
-4. **Handle Twitter:** Verrà aggiunto il flusso di Twitter alla pagina Web dell'evento. Se l'account Twitter è personale e non è correlato all'evento o all'associazione, è possibile che si sia in evaso. Sarà necessario solo l'handle: @elonmusk
-5. **Ruoli contestuali:** È qui che si controllano i superpoteri o i ruoli [contestuali](../world-building/granting-roles.md) degli host dell'evento, dei moderatori e di altri ruoli all'interno dell'evento. Per aggiungerli, immettere il nome utente altspaceVR e assegnargli un ruolo nel menu a discesa. Per rimuoverli, selezionare la casella di controllo Rimuovi e salvare la pagina Web dell'evento. NOTA: se si vuole concedere una funzionalità di moderazione host, è necessario aggiungerle come host e moderatore. Sono attualmente disponibili i ruoli contestuali seguenti:
-    * **Host:** Aggiunge le [funzionalità front-row](../faqs/front-row-events.md) all'interfaccia della singola in AltspaceVR per aggiungere tali funzionalità.
-    * **Moderatore:** Aggiunge funzionalità di moderazione all'interfaccia dell'utente, inclusa la possibilità di textare ogni partecipante, disattivarli a livello globale per l'evento o rimuoverli dall'evento. Aggiungere di nuovo l'host e assegnare loro ruoli di moderazione se si vuole che abbia privilegi di moderazione.
-    * **Solo megafono:** Aggiunge il pulsante Amplify My Voice alla relativa interfaccia tramite il pulsante Strumenti host.
+3. **ID video YouTube:** Visibile nella pagina Web dell'evento, vengono aggiunti trailer o video di eventi YouTube alla pagina Web dell'evento, non al mondo. È necessaria solo la parte dell'URL dell'ID video: dQw4w9WgXcQ
+4. **Twitter Handle (Handle Twitter):** Il flusso di Twitter verrà aggiunto alla pagina Web dell'evento. Se l'account Twitter è personale e non correlato all'evento o all'associazione, è possibile che la condivisione sia in e over. È necessario solo l'handle: @elonmusk
+5. **Ruoli contestuali:** Qui è possibile controllare i superpoteri o i ruoli [contestuali](../world-building/granting-roles.md) degli host di eventi, moderatori e altri ruoli all'interno dell'evento. Per aggiungerli, immettere il nome utente altspaceVR e assegnare loro un ruolo nel menu a discesa. Per rimuoverli, selezionare la casella di controllo Rimuovi e salvare la pagina Web dell'evento. NOTA: se si vuole concedere una funzionalità di moderazione host, è necessario aggiungerla come host e moderatore. Sono attualmente disponibili i ruoli contestuali seguenti:
+    * **Host:** Aggiunge le [funzionalità front-row](../faqs/front-row-events.md) all'interfaccia dell'utente in AltspaceVR per aggiungere tali funzionalità.
+    * **Moderatore:** Aggiunge funzionalità di moderazione all'interfaccia dell'utente, inclusa la possibilità di sms per ogni partecipante, di disattivarli globalmente per l'evento o di rimuoverli dall'evento. Aggiungere di nuovo l'host e assegnare loro ruoli di moderazione se si vuole che abbia privilegi di moderazione.
+    * **Solo Megaphone:** Aggiunge il pulsante Amplify My Voice alla relativa interfaccia tramite il pulsante Host Tools (Strumenti host).
     * **Terraformer:** Aggiunge il pulsante World Editor alla relativa interfaccia.
     * **Progetto pilota:** Aggiunge funzionalità di volo per l'utente. NOTA: è necessario abilitarla in Impostazioni/Input/Fly
-    * **Performer musicale:** Aggiunge funzionalità e funzionalità associate a eventi musicali e di musica.
-6. **Blocca utenti elencati:** Se si vuole impedire a un utente di accedere o se un utente è stato rimosso in precedenza dall'evento da un moderatore o da un host e l'evento è duplicato, verrà elencato il nome dell'utente elencato. Gli host eventi o gli amministratori possono aggiungere o rimuovere un utente elencato in blocchi in qualsiasi momento.
+    * **Performer Disodato di Musica:** Aggiunge funzionalità e funzionalità associate a eventi di musica e musica.
+6. **Blocca utenti elencati:** Se si vuole impedire a un utente di accedere o se un utente è stato rimosso in precedenza dall'evento da un moderatore o un host e l'evento è duplicato, verrà elencato il nome dell'utente elencato. Gli host eventi o gli amministratori possono aggiungere o rimuovere un utente elencato di blocco in qualsiasi momento.
 
-Dopo aver completato il modulo e averne triplicato il controllo, selezionare **CREATE EVENT**.
+Dopo aver completato il modulo e averne triplicato il controllo, **selezionare CREATE EVENT**.
 
 > [!IMPORTANT]
-> Se l'evento non viene creato correttamente, assicurarsi di avere almeno 10 caratteri nella descrizione e/o di aver selezionato un modello, il nome del modello verrà impostato da bianco a blu, se selezionato.
+> Se l'evento non viene creato correttamente, assicurarsi di avere almeno 10 caratteri nella Descrizione e/o di aver selezionato un modello, se selezionato, il nome del modello verrà impostato da bianco a blu.
 
 ## <a name="event-page-actions"></a>Azioni della pagina eventi
 
 Nella pagina Web Evento sono disponibili le azioni e le opzioni seguenti:
 
 1. Selezionare **MODIFICA** per apportare modifiche alle impostazioni dell'evento.
-2. Selezionare **END EVENT** per terminare l'evento ,ad esempio se l'evento è in anticipo.
-3. Selezionare **IMPOSTA SU BOZZA** per impostare l'evento su Bozza anziché su Attivo.
-4. Se è stato apportato un aggiornamento al mondo importato, è necessario selezionare **RE-IMPORT WORLD** per visualizzare le modifiche nell'evento, non dimenticare di reimpostare lo spazio nell'evento :)
-5. Selezionare **DUPLICA EVENTO** per duplicare l'evento per gli eventi futuri. Questo duplicato verrà quindi visualizzato in My Events/My Draft Events.Sarà quindi necessario aggiornare il nuovo giorno/ora e attivarlo da qui.
-6. Selezionare **AGGIUNGI COME MAIN EVENT** per impostare l'evento nell'elenco del calendario.
-7. Selezionare **DELETE EVENT** se si vuole eliminare completamente l'evento (non è possibile ripristinarlo).
+2. Selezionare **END EVENT (FINE** EVENTO) per terminare l'evento (ad esempio, se l'evento è più in anticipo).
+3. Selezionare **SET TO DRAFT (IMPOSTA SU BOZZA)** per impostare l'evento su Draft (Bozza) anziché su Active (Attivo).
+4. Se è stato apportato un aggiornamento al mondo importato, è necessario selezionare **RE-IMPORT WORLD** per visualizzare le modifiche nell'evento. Non dimenticare di reimpostare lo spazio nell'evento :)
+5. Selezionare **DUPLICATE EVENT (DUPLICA** EVENTO) per duplicare l'evento per gli eventi futuri. Questo duplicato verrà quindi visualizzato in Eventi my/My Draft Events. Dovrai aggiornare il nuovo giorno/ora e attivarlo da questa pagina.
+6. Selezionare **ADD AS MAIN EVENT (AGGIUNGI COME MAIN EVENT)** per impostare l'evento nell'elenco del calendario.
+7. Selezionare **ELIMINA EVENTO** se si vuole eliminare completamente l'evento (non è possibile ripristinarlo).
 
-Quando si è pronti, passare al menu Eventi **> Eventi** personali nell'interfaccia di AltspaceVR in-world e immettere lo spazio eventi per reimpostare lo spazio, esaminare le modifiche o continuare la personalizzazione. 
+Quando si è pronti, passare al menu Eventi > Eventi personali nell'interfaccia di AltspaceVR e immettere lo spazio eventi per Reimpostare lo spazio, esaminare le modifiche o continuare **la** personalizzazione. 
 
 > [!IMPORTANT]
-> Si tratta di una copia e le personalizzazioni nello spazio eventi sono solo per questo evento. Se si sta spendendo molto tempo per personalizzare lo spazio dell'evento, potrebbe essere meglio creare un mondo per l'evento **a uso ripetuto.**
+> Si tratta di una copia e le personalizzazioni dello spazio eventi sono solo per questo evento. Se si sta spendendo molto tempo per personalizzare lo spazio dell'evento, potrebbe essere meglio creare un mondo per l'evento **di uso ripetuto**.
 
 Per altre informazioni sulla personalizzazione dello spazio eventi o sulla creazione di un mondo dello spazio eventi originale da importare:
 
-* [Ricerca per categorie concedere ruoli ad altre persone nei miei mondi?](../world-building/granting-roles.md)
-* [Ricerca per categorie che le persone volino (o hanno altre capacità) nel mio mondo?](../world-building/adding-user-abilities.md)
+* [Ricerca per categorie concedono ruoli ad altre persone nei miei worlds?](../world-building/granting-roles.md)
+* [Ricerca per categorie lasciare che le persone volino (o hanno altre capacità) nel mio mondo?](../world-building/adding-user-abilities.md)
 * [Dove è possibile ottenere assistenza per la creazione di un mondo?](../world-building/getting-help.md)
-* [Ricerca per categorie i miei Mondi?](../world-building/managing-worlds.md)
+* [Ricerca per categorie gestire i miei Worlds?](../world-building/managing-worlds.md)
 * [Domande frequenti sulla creazione di un mondo](../world-building/world-building-faq.md)
 * [Ricerca per categorie aggiungere punti di generazione personalizzati a Worlds?](../world-building/adding-custom-spawn-points.md)
-* [Ricerca per categorie i miei kit?](../world-building/uploading-custom-kits.md)
-* [Ricerca per categorie'introduzione al world building Toolkit (Unity Uploader)?](../world-building/world-building-toolkit-getting-started.md)
+* [Ricerca per categorie caricare i propri kit?](../world-building/uploading-custom-kits.md)
+* [Ricerca per categorie iniziare a usare World Building Toolkit (Unity Uploader)?](../world-building/world-building-toolkit-getting-started.md)
 
-## <a name="using-the-multimedia-console-for-a-slide-presentation"></a>Uso della console multimediale per una presentazione di diapositive
+## <a name="using-the-multimedia-console-for-a-slide-presentation"></a>Uso della console multimediale per una presentazione di una diapositiva
 
-La console multimediale è un ottimo modo per organizzare il contenuto per una presentazione, incluse immagini, audio o video. Seguire le [istruzioni della console multimediale](multimedia-console.md) per ottenere la configurazione per l'evento.
+La console multimediale è un ottimo modo per organizzare il contenuto per una presentazione, incluse immagini, audio o video. Seguire le [istruzioni della console Multimediali](multimedia-console.md) per ottenere la configurazione per l'evento.
 
 ## <a name="branding-your-event-with-images"></a>Personalizzazione dell'evento con immagini
 
-L'aggiunta di immagini allo spazio eventi o al logo e alla personalizzazione dell'azienda o anche di foto di se stessi, del team o di altri contenuti visivi è facile in AltspaceVR.
+L'aggiunta di immagini allo spazio eventi o al logo e alla personalizzazione dell'azienda o anche di fotografie di se stessi, del team o di altri contenuti visivi è facile in AltspaceVR.
 
 I requisiti dell'immagine sono:
-* I file JPG o PNG vengono accettati
+* I file JPG o PNG sono accettati
 * Dimensioni massime dell'immagine: 1920x1080
 * Risoluzione: 72 DPI
 * Dimensioni file: meno di 250 KB per file
@@ -191,7 +191,7 @@ In AltspaceVR e nel mondo degli eventi posizionarsi vicino al punto in cui si vu
 3. Selezionare **Foto**.
 4. Foto vengono archiviati nell'ordine cronologico di caricamento, quindi l'immagine più recente caricata deve essere la prima immagine nell'elenco. Selezionarlo per aggiungerlo al mondo.
 5. Usando il cursore del dispositivo, afferrare l'immagine e posizionarla nel punto desiderato.
-    * Puoi ridimensionarlo usando i controller (in genere scorrendo il cursore orizzontalmente sul touch pad nella realtà virtuale o usando il mouse in modalità 2D).
+    * Puoi ridimensionarlo usando i controller (in genere scorrendo il cursore orizzontalmente sul touch pad virtuale o usando il mouse in modalità 2D).
     * Per ottimizzare la posizione e la rotazione dell'immagine, selezionare il simbolo **GEAR** nell'immagine nell'editor e impostare rotazione e posizione in modo appropriato.
     * È anche possibile ridimensionare l'immagine con la funzionalità Scala.
 

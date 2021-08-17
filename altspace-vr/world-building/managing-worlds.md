@@ -46,4 +46,4 @@ ms.locfileid: "119125612"
 
 ## <a name="creating-extra-universes"></a>Creazione di universes aggiuntivi
 
-In **Worlds > My Worlds > Universes**(I miei >) è presente un pulsante **Create Universe** (Crea universo) nella parte superiore. Verrà creato un nuovo universo. Gli inii non sono ancora presenti nella realtà virtuale.
+In **Worlds > My Worlds > Universes**(I miei >) è presente un pulsante **Create Universe (Crea** universo) nella parte superiore. Verrà creato un nuovo universo. Gli inii non sono ancora presenti nella realtà virtuale.

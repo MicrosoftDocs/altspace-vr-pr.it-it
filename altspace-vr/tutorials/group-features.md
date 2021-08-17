@@ -1,6 +1,6 @@
 ---
 title: Uso della funzionalità Gruppi per creare eventi privati
-description: Informazioni su come creare spazi vr privati aperti agli elenchi di guest approvati usando la funzionalità degli eventi di gruppo.
+description: Informazioni su come creare spazi VR privati aperti agli elenchi guest approvati usando la funzionalità eventi di gruppo.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: gruppi, eventi privati, patreon, eventbrite, risoluzione dei problemi
@@ -13,22 +13,22 @@ ms.locfileid: "119126603"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>Uso della funzionalità Gruppi per creare eventi privati
 
-La funzionalità Gruppi offre agli host la possibilità di creare uno spazio vr aperto a un elenco approvato di guest. Gli host possono aggiungere manualmente tutti i nomi utente/messaggi di posta elettronica altspaceVR a cui vogliono concedere l'accesso al proprio spazio. Ecco come usare questa funzionalità per ospitare eventi, riunioni e conferenze:
+La funzionalità Gruppi offre agli host la possibilità di creare uno spazio VR aperto a un elenco approvato di guest. Gli host possono aggiungere manualmente i nomi utente/messaggi di posta elettronica altspaceVR a cui vogliono concedere l'accesso al proprio spazio. Ecco come usare questa funzionalità per ospitare eventi, riunioni e conferenze:
 
 > [!NOTE]
-> Prima di poter accedere a "Gruppi", è necessario acconsentire esplicitamente alle funzionalità di accesso anticipato accedendo a altvr.com, modificando il profilo utente nel sito Web e selezionando Accesso anticipato. Oppure, all'interno dell'app AltspaceVR, Impostazioni, Generale, Partecipare al Programma di accesso anticipato.
+> Prima di poter accedere a "Gruppi" è necessario acconsentire esplicitamente alle funzionalità di accesso anticipato accedendo a altvr.com, modificando il profilo utente nel sito Web e selezionando Accesso anticipato. Oppure, all'interno dell'app AltspaceVR, Impostazioni, Generale, Partecipa al programma di accesso anticipato.
 
-1. Nel browser passare a  [https://altvr.com](https://altvr.com)   e accedere al proprio account. 
-2. Trovare **il** menu a discesa Altro.
-3. Selezionare **Gruppi**
+1. Nel browser passare a  [https://altvr.com](https://altvr.com)   e accedere all'account. 
+2. Trovare il menu **a** discesa Altro.
+3. Selezionare **i gruppi**
 
-![AltspaceVR web view with more pull down menu highlighted (AltspaceVR web view with more pull down menu highlighted)(AltspaceVR web view with more pull down menu](images/group-features-img-01.png)
+![Visualizzazione Web altspaceVR con un altro menu a discesa evidenziato](images/group-features-img-01.png)
 
-4. Nella pagina Gruppi è possibile visualizzare un elenco di gruppi di cui si fa parte o di cui si è amministratori. 
+4. Nella pagina Gruppi è possibile visualizzare un elenco di gruppi di cui si fa parte o di cui si è un amministratore. 
 
 ![Pagina dei gruppi di visualizzazione Web altspaceVR](images/group-features-img-02.png)
 
-5. Selezionare il **pulsante Crea** per creare un nuovo gruppo.
+5. Selezionare il pulsante **Crea** per creare un nuovo gruppo.
 6. Compilare i campi per creare il gruppo.
 
 ![Pagina di creazione del nuovo gruppo con campi di input](images/group-features-img-03.png)
@@ -36,17 +36,17 @@ La funzionalità Gruppi offre agli host la possibilità di creare uno spazio vr 
 > [!NOTE]
 > È possibile passare il puntatore del mouse sul "?" verde. per ottenere informazioni aggiuntive sui campi che li hanno.
 
-7. Inviare un messaggio di posta elettronica a tutti i partecipanti e fare in modo che creino un account AltspaceVR usando lo stesso indirizzo di posta elettronica. Possono creare un account AltspaceVR nel mondo o nel sito [Web](https://account.altvr.com/users/sign_up).
+7. Inviare un messaggio di posta elettronica a tutti i partecipanti e fare in modo che creino un account AltspaceVR usando lo stesso indirizzo di posta elettronica. Possono creare un account AltspaceVR nel mondo o nel sito [Web.](https://account.altvr.com/users/sign_up)
 
 ## <a name="how-to-create-a-private-eventfrom-a-group"></a>Come creare un evento privato da un gruppo 
 
 1. Nella pagina Membro o Amministratore selezionare il gruppo a cui si vuole accedere. 
 2. **Gli amministratori possono** modificare tutte le opzioni configurate in precedenza per creare il gruppo.Passare al pulsante "Modifica" nella pagina del gruppo per accedervi.  
-3. **Aggiunta di altri amministratori per un gruppo:**   Quando si modifica, è possibile aggiungere altri utenti come amministratori per gestire il gruppo.  
-    * Deve essere il nome utente altspaceVR per l'utente e non il relativo indirizzo di posta elettronica dell'account.  
-4. Selezionare **Crea evento.**  
+3. **Aggiunta di altri amministratori per un gruppo:**   Durante la modifica, è possibile aggiungere altri utenti come amministratori per gestire il gruppo.  
+    * Deve essere il nome utente altspaceVR per l'utente e non il messaggio di posta elettronica dell'account.  
+4. Selezionare **Crea evento**.  
 
-![Evento creato](images/group-features-img-04.png)
+![Evento Creato](images/group-features-img-04.png)
 
 ## <a name="how-to-attend-a-group-event-as-an-invitee"></a>Come partecipare a un evento di gruppo come invitato 
 
@@ -55,23 +55,23 @@ La funzionalità Gruppi offre agli host la possibilità di creare uno spazio vr 
 ![Menu principale dell'app AltspaceVR](images/group-features-img-05.png)
 
 2. Selezionare **Eventi** nella parte inferiore del menu.
-3. Nella parte superiore cercare **Eventi**
-4. Trovare l'evento in **base al nome** fornito dall'autore dell'evento nella visualizzazione principale con le immagini del riquadro.Selezionarlo per immettere l'evento, se è live.
+3. Nella parte superiore cercare **My Events**
+4. Trovare l'evento in **base al nome** fornito dall'autore dell'evento nella visualizzazione principale con le immagini del riquadro.Selezionarlo per immettere l'evento se è in tempo reale.
 
-![App ALTSPACEVR con il pannello eventi evidenziato](images/group-features-img-06.png)
+![App AltspaceVR con il pannello eventi evidenziato](images/group-features-img-06.png)
 
 ## <a name="how-to-find-the-group-world-commons"></a>Come trovare il mondo del gruppo (Commons):  
 
 1. Aprire il menu principale:  
-2. Selezionare **Worlds (Mondo)** nella parte inferiore del menu.   
+2. Selezionare **Worlds (Mondi)** nella parte inferiore del menu.   
 3. Nella parte superiore cercare **My Worlds**.
-4. Trovare il nome del gruppo e selezionarlo per accedere a Group World(Mondo gruppo).
+4. Trovare il nome del gruppo e selezionarlo per immettere Il mondo del gruppo.
 
 ![App AltspaceVR con il pannello Worlds evidenziato](images/group-features-img-07.png)
 
 ## <a name="how-to-use-patreon-and-eventbrite-to-host-a-ticketed-vr-event"></a>Come usare Patreon ed Eventbrite per ospitare un evento VR con ticket: 
 
-È possibile usare Patreon, Eventbrite per creare eventi con ticket in Altspace.È necessario creare un elenco di indirizzi di posta elettronica degli utenti o esportare le informazioni dalla piattaforma di pagamento.  
+È possibile usare Patreon, Eventbrite per creare eventi con ticket in Altspace.È necessario creare un elenco degli indirizzi di posta elettronica degli utenti o esportare le informazioni dalla piattaforma di pagamento.  
 
 ### <a name="creating-a-list"></a>Creazione di un elenco
 
@@ -79,11 +79,11 @@ Usare un foglio di calcolo per creare una singola colonna con tutti gli indirizz
 
 1. Creare o modificare il gruppo.  
 2. Trovare il **campo Messaggi di posta elettronica** dei membri.  
-3. Trovare **l'opzione Choose File (Scegli** file) per importare i messaggi di posta elettronica da un file .csv file.
+3. Trovare **l'opzione Scegli file** per importare i messaggi di posta elettronica da un file *.csv file.
 4. L'elenco deve essere importato con un messaggio di posta elettronica per riga.
 
 > [!NOTE]
-> Se si sceglie, è anche possibile copiare e incollare i messaggi di posta elettronica nel campo anziché eseguire l'importazione da un file *.csv.
+> Se si sceglie, è anche possibile copiare e incollare i messaggi di posta elettronica nel campo anziché importarli da un file *.csv file.
 
 ### <a name="importing-a-list"></a>Importazione di un elenco
 
@@ -91,49 +91,49 @@ Piattaforme come Patreon ed Eventbrite consentono di esportare un file *.csv (va
 
 1. Creare o modificare il gruppo.  
 2. Trovare il **campo Messaggi di posta elettronica** dei membri.  
-3. Trovare **l'opzione Choose File (Scegli** file) per importare i messaggi di posta elettronica da un file .csv file.
+3. Trovare **l'opzione Scegli file** per importare i messaggi di posta elettronica da un file *.csv file.
 4. L'elenco deve essere importato con un messaggio di posta elettronica per riga.
 
 > [!NOTE]
-> Se si sceglie, è anche possibile copiare e incollare i messaggi di posta elettronica nel campo anziché eseguire l'importazione da un file *.csv.
+> Se si sceglie, è anche possibile copiare e incollare i messaggi di posta elettronica nel campo anziché importarli da un file *.csv file.
 
 ## <a name="faq"></a>Domande frequenti 
 
-### <a name="im-having-trouble-filling-out-the-fields-in-groups-what-do-they-mean"></a>Non è possibile compilare i campi in gruppi. Cosa significano?
+### <a name="im-having-trouble-filling-out-the-fields-in-groups-what-do-they-mean"></a>Si sono visualizzati problemi durante la compilazione dei campi in gruppi. Che cosa significano?
 
-(*È possibile passare il puntatore del mouse sul "?" verde.per ottenere informazioni aggiuntive sui campi che li hanno. 
+(*È possibile passare il puntatore del mouse sul "?" verde?per ottenere informazioni aggiuntive sui campi che li hanno. 
 
 * **Nome**   : nome del gruppo che sarà visibile a tutti i membri.   
 * **Descrizione**   : campo per descrivere lo scopo del gruppo. Visibile a tutti i membri.
-* **Utenti**   : questo campo consente di elencare i membri del gruppo per il gruppo come nome utente o indirizzo di posta elettronica, purché sia uno per riga.È un modo per definire i membri del gruppo. Tuttavia, per gli utenti che usano piattaforme di pagamento esterne come  **Patreon,** usare il campo "Email Allow List" (Elenco indirizzi di posta elettronica consentiti) descritto più avanti in questa pagina.
+* **Utenti**   : questo campo consente di elencare i membri del gruppo come nome utente o indirizzo di posta elettronica, purché sia uno per riga.È un modo per definire i membri del gruppo. Tuttavia, per gli utenti che usano piattaforme di pagamento esterne come  **Patreon,** usare il campo "Email Allow List" descritto più avanti in questa pagina.
     * Compilare un nome utente o un messaggio di posta elettronica per riga.  
     * Per trovare un nome utente in AltspaceVR, fare in modo che l'utente a open the "Main Menu" (Menu principale) e passare alla sezione "Me".È il nome tra parentesi.  
-    * Per trovare il nome utente nel sito Web, fare in modo che l'utente oseni "Profilo" dall'opzione "More -> Profile". È possibile trovarlo nella colonna sinistra della pagina Profilo.  
+    * Per trovare il nome utente nel sito Web, fare in modo che l'utente oseni "Profilo" dall'opzione "Altro -> profilo". È possibile trovarlo nella colonna sinistra della pagina Profilo.  
     * Il campo fa distinzione tra maiuscole e minuscole, quindi "username" e "Username" sono considerati diversi.  
-    * Questo campo accetta sia i nomi utente che i messaggi di posta elettronica associati ad account validi.Assicurarsi che sia presente un elemento per riga.Non è necessario inserire sia un messaggio di posta elettronica che un nome utente se sono la stessa persona, entrambi funzionano.  
+    * Questo campo accetta sia i nomi utente che i messaggi di posta elettronica associati a account validi.Assicurarsi che sia presente un elemento per riga.Non è necessario inserire sia un messaggio di posta elettronica che un nome utente se si tratta della stessa persona, ma entrambi funzionano.  
     * Gli account devono essere in regola.  
-    * È possibile cercare l'elenco con l'opzione trova del browser "CTRL+F"  
+    * È possibile cercare l'elenco con l'opzione find del browser "CTRL+F"  
 * **Immagine**   : usato come immagine del banner promozionale per il gruppo.È visibile nella pagina Web Del gruppo e nella realtà virtuale.  
-    * È consigliabile usare 1920 x 1080 per una migliore fedeltà delle immagini.  
+    * È consigliabile usare 1920 x1080 per una migliore fedeltà delle immagini.  
     * Jpeg o PNG preferito.  
-    * Le immagini devono avere proporzioni 16:9.  
+    * Le immagini devono avere proporzioni di 16:9.  
     * Le anteprime vengono rigenerate automaticamente dal caricamento e usate in varie schermate dell'interfaccia utente in AltspaceVR e nel sito Web.  
 * **Immagine del profilo**   : usato come immagine del profilo dei gruppi. È visibile nella pagina Web Del gruppo e nella realtà virtuale.  
     * È consigliabile usare 512×512 per una migliore fedeltà delle immagini.  
     * Jpeg o PNG preferito.  
     * Le anteprime vengono rigenerate automaticamente dal caricamento e usate in varie schermate dell'interfaccia utente in AltspaceVR e nel sito Web.  
-* **Selezionare un ambiente**   : sul lato destro della pagina verranno visualizzate varie anteprime degli ambienti disponibili da usare. Questo ambiente fungerà da hangout principale del gruppo World e verrà visualizzato in "Worlds -> My Worlds -> <Name from "Name" field> Commons" per l'utente e i membri del gruppo.  
+* **Selezionare un ambiente**   : sul lato destro della pagina verranno visualizzate varie anteprime degli ambienti disponibili da usare. Questo ambiente fungerà da hangout world principale del gruppo e verrà visualizzato nel campo "Worlds -> My Worlds -> <Name from "Name"> Commons" (Worlds -> My Worlds -> <Name from "Name"> Commons) per l'utente e i membri del gruppo.  
     * Se si vuole creare un mondo personalizzato, è necessario farlo tramite il sito [Web](https://account.altvr.com/worlds/my). Tali Worlds verranno visualizzati come possibili opzioni. 
 
 > [!NOTE]
-> Questa funzionalità è in versione beta. Si consiglia ai gruppi di usare i world preesistenti nella finestra di dialogo di selezione dell'ambiente.
+> Questa funzionalità è disponibile nella versione Beta. Si consiglia ai gruppi di usare i world preesistenti nella finestra di dialogo di selezione dell'ambiente.
 
 * La parola "Commons" verrà sempre visualizzata come suffisso per il mondo dei hangout di qualsiasi gruppo.  
 * **Messaggi di posta elettronica dei membri**   : questo campo consente di elencare gli utenti in base al messaggio di posta elettronica associato a un account AltspaceVR.  **L'uso di questo elenco sostituisce l'elenco "Utenti" descritto in precedenza.**   Questo è il modo consigliato per gestire l'appartenenza a un gruppo, in particolare quelli che usano piattaforme di pagamento esterne.  
     * Quando si compila questo campo, assicurarsi che sia elencato il messaggio di posta elettronica associato all'account AltspaceVR oppure si potrebbe perdere l'accesso al gruppo.  
     * Quando si incollano gli indirizzi nel campo, assicurarsi che sia presente un messaggio di posta elettronica per riga.  
     * Questo elenco accetta messaggi di posta elettronica senza un account AltspaceVR valido.I nomi utente altspaceVR vengono verificati, gli indirizzi di posta elettronica no. Tuttavia, quando tale messaggio di posta elettronica viene usato per creare un account AltspaceVR, l'utente a cui è associato o accederà al gruppo.  
-    * È possibile importare un elenco da un file *.csv. Selezionare l'opzione "Choose File" (Scegli file) e selezionare il file.
+    * È possibile importare un elenco da un file .csv file . Selezionare l'opzione "Choose File" (Scegli file) e selezionare il file.
     * È consigliabile usare i messaggi di posta elettronica dei membri per gestire i gruppi creati da piattaforme di pagamento come Patreon o Eventbrite, perché è un modo più definitivo per riconciliare i membri.Si noti che gli amministratori di gruppo dovranno informare gli utenti o i membri che devono usare lo stesso indirizzo di posta elettronica esatto usato nella piattaforma di pagamento per creare un account AltspaceVR.  
     * Vedere la sezione Importazione di utenti in gruppi per istruzioni su come ottenere l'elenco degli utenti.   
 * **Abilitare l'importazione automatica**   : l'importazione automatica è un processo ricorrente eseguito nell'elenco indirizzi di posta elettronica consentiti. Riconcilia se a un messaggio di posta elettronica è ora associato un account AltspaceVR valido e concede l'accesso.   

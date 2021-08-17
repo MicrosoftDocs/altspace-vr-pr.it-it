@@ -15,7 +15,7 @@ ms.locfileid: "119125022"
 
 La funzionalità Vota per sospendere è disponibile solo per gli helper Community AltspaceVR. Si tratta di uno strumento di moderazione che consente di mantenere AltspaceVR benvenuto, sicuro e maturo. Vote-to-Suspend consente Community helper di contrassegnare tutti gli utenti che violano le Community guida. Di seguito sono riportate le regole e le responsabilità ufficiali associate alla possibilità Di votare per sospendere. 
 
-## <a name="vote-to-suspend-rules--responsibilities"></a>Regole vote-to-suspend & responsabilità: 
+## <a name="vote-to-suspend-rules--responsibilities"></a>Regole di voto a sospensione & responsabilità: 
 
 **Regole** 
 
@@ -26,13 +26,13 @@ La funzionalità Vota per sospendere è disponibile solo per gli helper Communit
 
 **Responsabilità** 
 
-* Se si incontra un utente particolarmente difficile e non si è certi del modo migliore per continuare, è possibile ottenere assistenza dal CST di Campfire.  
+* Ottenere assistenza dal CST in Campfire se si incontra qualcuno particolarmente difficile e non si è certi del modo migliore per continuare.  
 * Se si incontra qualcuno che potrebbe richiedere una sospensione immediata, chiedere aiuto al CST in Campfire. 
-* I nuovi utenti potrebbero non sempre sapere cosa è giusto e sbagliato, quindi sii paziente e gentile. Ricordarsi di impostare sempre l'esempio per il significato di essere un buon utente altspaceVR. 
+* I nuovi utenti potrebbero non sempre sapere cosa è giusto e sbagliato, quindi sii paziente e gentile. Ricordarsi di impostare sempre l'esempio per ciò che significa essere un buon utente altspaceVR. 
 * Rispondere alle domande al meglio delle proprie capacità. In caso di dubbi su una risposta corretta. 
 * Chiunque abbia un problema tecnico o ha bisogno di risoluzione dei problemi deve essere invitato ad aprire un ticket con il team di supporto: [altvr.com/support/](https://help.altvr.com/hc/requests/new?ticket_form_id=114093998653)
 
 **Ricordare** 
 
 * È possibile attivare/disattivare la notifica Community Helper. Quando si attiva o disattiva la notifica, si disattiva anche l'opzione Vota-sospendi. 
-* La funzionalità Vote-to-Suspend è un programma pilota e non viene garantita alcuna garanzia per garantire capacità future. 
+* La funzionalità Vote-to-Suspend è un programma pilota e non vengono garantite le capacità future. 

@@ -1,6 +1,6 @@
 ---
 title: Caricamento di Skybox personalizzati
-description: Istruzioni dettagliate sul caricamento e sulla risoluzione dei problemi degli skybox personalizzati in Esperienze AltspaceVR.
+description: Istruzioni dettagliate sul caricamento e la risoluzione dei problemi degli skybox personalizzati in Esperienze AltspaceVR.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: skyboxes, risoluzione dei problemi
@@ -13,7 +13,7 @@ ms.locfileid: "119126794"
 ---
 # <a name="uploading-custom-skyboxes"></a>Caricamento di Skybox personalizzati
 
-Skybox è un modo per creare uno **sfondo** per il mondo che rende l'esperienza più coinvolgente. Esistono diversi tipi di Skybox, ma attualmente è supporto **equirettangolare**. Ecco un esempio preso con una fotocamera a 360 (altro esempio [qui):](http://moments.mankindforward.com/) 
+Skybox è un modo per creare uno **sfondo per** il mondo che rende l'esperienza più coinvolgente. Esistono diversi tipi di Skybox, ma attualmente è supporto **equirettangolare**. Ecco un esempio preso con una fotocamera a 360 (altro esempio [qui):](http://moments.mankindforward.com/) 
 
 ![360 visualizzazione equirettangolare di un living](images/custom-skyboxes-img-01.jpeg)
 
@@ -27,10 +27,10 @@ Skybox è un modo per creare uno **sfondo** per il mondo che rende l'esperienza 
 
 ![Modulo di creazione skybox](images/custom-skyboxes-img-03.png)
 
-3. Facoltativamente, è possibile caricare **un'immagine** di anteprima in modo da poter identificare facilmente questo skybox. È anche possibile caricare l'audio di ambiente in formato WAV. 
+3. Facoltativamente, è possibile caricare **un'immagine di** anteprima in modo da poter identificare facilmente questo skybox. È anche possibile caricare l'audio di ambiente in formato WAV. 
 
 > [!IMPORTANT]
-> Dopo aver caricato l'immagine a 360, è consigliabile caricare separatamente immagini di anteprima e audio di ambiente. Se si caricano insieme, le dimensioni dei file possono essere sufficientemente grandi da bloccare il processo. [Jetsons World è](https://account.altvr.com/worlds/1004174988393054363/spaces/1084431533181240311) un ottimo esempio di come usare skybox con audio ambientale. Si noti che World-Builder ha mantenuto basso il volume audio e i suoni uditi sono sporadici in modo che le persone non si annoino. 
+> Dopo aver caricato l'immagine a 360, è consigliabile caricare separatamente immagini di anteprima e audio di ambiente. Se si caricano insieme, le dimensioni dei file possono essere sufficientemente grandi da bloccare il processo. [Jetsons World è](https://account.altvr.com/worlds/1004174988393054363/spaces/1084431533181240311) un ottimo esempio di come usare skybox con audio di ambiente. Si noti che World-Builder ha mantenuto basso il volume audio e i suoni uditi sono sporadici in modo che le persone non si infastidino. 
 
 4. Immettere world e aprire World Editor. In Skyboxes selezionare il nuovo Skybox. In pochi secondi il cielo cambierà letteralmente. Anche altri utenti del mondo potranno vedere il cambiamento del cielo. Per tornare indietro, scegliere la **skybox** predefinita nello stesso elenco. 
 

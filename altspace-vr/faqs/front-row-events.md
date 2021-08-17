@@ -25,4 +25,4 @@ Dopo che uno dei tuoi amici ha aderito a un evento in prima riga, puoi immettere
 
 Il talent sul palco sta visualizzando il pubblico che popola una singola istanza dell'evento front row, anche se può visualizzare le emoji generate dagli utenti in tutte le istanze dell'evento.
 
-Quando un utente seleziona il pulsante "Alza mano", gli host eventi possono attivare On-Air per tale persona usando gli strumenti host. A questo punto il membro del pubblico può essere visto e ascoltato in tutte le istanze, proprio come gli esecutori. In questo modo gli utenti possono partecipare alla presentazione e interagire con il talent durante le sessioni di domande&A in qualsiasi stanza.
+Quando un utente seleziona il pulsante "Alza mano", gli host eventi possono attivare On-Air per tale persona usando gli strumenti host. A questo punto il membro del pubblico può essere visto e ascoltato in tutte le istanze, proprio come gli esecutori. In questo modo gli utenti possono partecipare alla presentazione e interagire con il talent durante le sessioni Q&A in qualsiasi stanza.
