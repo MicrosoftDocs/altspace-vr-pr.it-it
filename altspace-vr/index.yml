@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Benvenuti in AltspaceVR.
-summary: Esplora il mondo in espansione degli eventi di realtà virtuale con AltspaceVR.
+summary: Esplora il mondo in espansione degli eventi VR con AltspaceVR.
 brand: windows
 metadata:
   title: Benvenuti in AltspaceVR.
-  description: Esplora il mondo in espansione degli eventi di realtà virtuale con AltspaceVR.
+  description: Esplora il mondo in espansione degli eventi VR con AltspaceVR.
   services: mixed-reality
   ms.service: mixed-reality
   ms.topic: hub-page
@@ -13,7 +13,7 @@ metadata:
   ms.date: 02/10/2021
 highlightedContent:
   items:
-    - title: Introduzione
+    - title: Guida introduttiva
       itemType: get-started
       url: journey.md
     - title: Individuare il contenuto & persone
@@ -22,7 +22,7 @@ highlightedContent:
     - title: Creazione di eventi
       itemType: how-to-guide
       url: tutorials/creating-an-event.md
-    - title: Creazione di un mondo
+    - title: Creazione di mondi
       itemType: learn
       url: world-building/world-editor-getting-started.md
     - title: Accesso anticipato
@@ -54,26 +54,26 @@ productDirectory:
         - url: tutorials/creating-an-event.md
           text: Creazione di un evento
         - url: getting-started/roles.md
-          text: 'Ruoli in eventi, mondo e gruppi'
+          text: 'Ruoli in eventi, mondi e gruppi'
         - url: tutorials/main-events.md
           text: Requisiti per gli eventi
         - url: faqs/scaling-audiences.md
           text: Ridimensionamento dei destinatari
         - url: tutorials/multimedia-console.md
-          text: Uso della console Multimediali
+          text: Uso della console multimediale
         - url: tutorials/host-tools-overview.md
           text: Panoramica degli strumenti host
-    - title: Edificio mondiale
+    - title: Creazione di un mondo
       imageSrc: images/icon-worlds.png
       links:
         - url: world-building/world-editor-getting-started.md
-          text: Esplorare World Editor
+          text: Esplorare l'editor del mondo
         - url: world-building/managing-worlds.md
-          text: Gestione di un mondo
+          text: Gestione dei mondi
         - url: world-building/adding-custom-spawn-points.md
           text: Aggiunta di punti di generazione
         - url: world-building/adding-user-abilities.md
-          text: Offrire agli utenti le capacità
+          text: Fornire agli utenti le capacità
         - url: world-building/world-building-toolkit-getting-started.md
           text: World Building Toolkit
         - url: world-building/using-mixed-reality-extensions.md
@@ -85,7 +85,7 @@ additionalContent:
       items:
         - title: Community
           links:
-            - text: Iscriversi alla newsletter
+            - text: Sottoscrivere la newsletter
               url: community/newsletter-subscriptions.md
             - text: Community helper
               url: community/community-helper-program.md
@@ -109,5 +109,5 @@ additionalContent:
               url: community/open-support-ticket.md
             - text: Richieste di funzionalità
               url: community/feature-requests.md
-            - text: Compilare report sugli abusi
+            - text: Compilare report di abuso
               url: community/filing-abuse-reports.md

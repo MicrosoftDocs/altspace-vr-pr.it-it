@@ -1,21 +1,23 @@
 ---
 title: Esplorazione di AltspaceVR
 description: Introduzione alla creazione e all'hosting di eventi virtuali nella piattaforma AltspaceVR con il percorso di checkpoint curato.
-ms.date: 03/29/2021
+author: qianw211
+ms.author: v-qianwen
+ms.date: 08/26/2021
 ms.topic: article
-keywords: altspace, realtà virtuale, eventi, world-building, esercitazioni
-ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+keywords: AltspaceVR, meetup virtuale, meetup di realtà virtuale, meetup VR, piattaforme di realtà virtuale, piattaforma VR, eventi virtuali immersivi, eventi VR immersivi, eventi di realtà virtuale, eventi VR di creazione del mondo, esperienza VR immersiva, social VR, piattaforma VR social, hosting di eventi VR, realtà virtuale sociale, hosting di eventi di realtà virtuale
+ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126452"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979031"
 ---
 # <a name="exploring-altspacevr"></a>Esplorazione di AltspaceVR
 
 ![Immagine del banner altspaceVR](images/altspace-vr-banner.png)
 
-AltspaceVR è una piattaforma social leader per la realtà virtuale. Incentrato su eventi che spaziano da eventi di dimensioni sala a meet up speciali, AltspaceVR usa la tecnologia per ridimensionare la connessione umana.
+AltspaceVR è la piattaforma leader per le esperienze di realtà mista live. AltspaceVR consente ad artisti, creatori, marchi e aziende di creare facilmente i propri eventi virtuali. Questa app social consente a persone di tutto il mondo di connettersi e collaborare in tempo reale con un vero senso di presenza. Gli avatar espressivi, il contatto visivo coinvolgente, il suono spaziale e gli ambienti virtuali immersivi consentono alle persone di stare insieme anche quando gli oceani sono separati. Sedersi all'intersezione tra esperienza, contenuto e community, AltspaceVR è il luogo ideale per i live, le conferenze, i programmi di cinema, i festival, i talk tecnici, le riunioni in team, la collaborazione remota e altro ancora.  
 
 Che tu sia un esperto esperto di AltspaceVR o un nuovo utente, è importante avere risorse solide su cui poter contare. Sono stati compilati i checkpoint seguenti per illustrare come portare gli eventi virtuali nel mondo. È possibile coprire le informazioni in sequenza, ovvero ciò che è consigliabile, oppure passare a un altro punto se si sa cosa si sta cercando. In entrambi i modi, è necessario rivedere questo percorso ogni volta che è necessaria una direzione.
 
@@ -26,7 +28,7 @@ Prima di iniziare a creare e ospitare eventi virtuali, sono necessari gli strume
 |  Checkpoint  |  Risultato  |
 | --- | --- |
 | [Requisiti di sistema](getting-started/system-requirements.md) | Assicurarsi di avere gli strumenti e i requisiti di sistema necessari per iniziare |
-| Installare [Windows Mixed Reality](getting-started/wmr-installation.md) [o Oculus Quest](getting-started/oculus-installation.md)| Scaricare e installare le app Windows Mixed Reality o Oculus Quest più recenti |
+| Installare [Windows Mixed Reality](getting-started/wmr-installation.md) o [Oculus Quest](getting-started/oculus-installation.md)| Scaricare e installare le app Windows Mixed Reality o Oculus Quest più recenti |
 | [Creare e collegare un account AltspaceVR](getting-started/creating-and-linking-accounts.md) | Creare e registrare un account direttamente all'interno dell'app AltspaceVR e collegarlo all'account Microsoft|
 
 ## <a name="2-getting-comfortable"></a>2. Ottenere familiarità
@@ -50,7 +52,7 @@ Non è sempre necessario essere un host in AltspaceVR. A volte si sarà un membr
 
 ## <a name="4-creating--hosting-events"></a>4. Creazione di & eventi di hosting
 
-Dopo aver trattato la logistica, è possibile imparare a creare e ospitare eventi. AltspaceVR ha diverse funzionalità per questo processo, ma sono stati suddivisi in nozioni di base, opzioni più avanzate e strumenti specifici per l'hosting. Sia che si esere in sequenza o si salti, si creerà con sicurezza eventi personalizzati entro la fine di questa sezione.
+Ora che è stata illustrata la logistica, è possibile imparare a creare e ospitare eventi. AltspaceVR ha diverse funzionalità per questo processo, ma sono stati suddivisi in nozioni di base, opzioni più avanzate e strumenti specifici per l'hosting. Sia che si esere in sequenza o si salti, si creerà con sicurezza eventi personalizzati entro la fine di questa sezione.
 
 **Configurazione di eventi di base**
 
@@ -89,7 +91,7 @@ Se si verificano problemi con la creazione di eventi, audio, l'applicazione Alts
 
 ## <a name="6-community--resources"></a>6. Community & risorse
 
-AltspaceVR è una community e ci piace partecipare. Esaminare gli standard della community, le condizioni per il servizio, l'informativa sulla privacy e sottoscrivere la newsletter per tutte le ultime novità.
+AltspaceVR è una community e ci piace partecipare. Prendere un minuto per esaminare gli standard della community, le condizioni per il servizio, l'informativa sulla privacy e sottoscrivere la newsletter per tutte le ultime novità.
 
 * [Community standard](community/community-standards.md)
 * [Condizioni per il servizio AltspaceVR](community/terms-of-service.md)

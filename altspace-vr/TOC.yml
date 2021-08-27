@@ -1,5 +1,7 @@
 - name: Benvenuti in AltspaceVR
   href: index.yml
+- name: Panoramica di AltspaceVR
+  href: overview.md
 - name: Esplorazione di AltspaceVR
   href: journey.md
 - name: Guida introduttiva
@@ -23,19 +25,19 @@
           href: getting-started/keyboard-shortcuts.md
         - name: Controllo degli avatar con mouse/tastiera in modalità PC 2D
           href: getting-started/avatar-controls.md
-        - name: Uso dei controlli game pad
+        - name: Uso dei controlli gamepad
           href: getting-started/gamepad-controls.md
 - name: Individuare il contenuto & persone
   items:
     - name: Esplorare la schermata del titolo
       href: community/exploring-title-screen.md
-    - name: Iscriversi alla newsletter
+    - name: Sottoscrivere la newsletter
       href: community/newsletter-subscriptions.md
-    - name: Coinvolgimento della community
+    - name: Community coinvolgimento
       items:
-        - name: Programma helper della community
+        - name: Community helper
           href: community/community-helper-program.md
-        - name: Guida dell'helper della community
+        - name: Community helper
           href: community/community-helper-guide.md
 - name: Creazione di & eventi di hosting
   items:
@@ -43,13 +45,13 @@
       items:
         - name: Configurazione di un evento
           href: tutorials/creating-an-event.md
-        - name: 'Ruoli in eventi, mondo, gruppi e AltspaceVR'
+        - name: 'Ruoli in eventi, mondi, gruppi e AltspaceVR'
           href: getting-started/roles.md
-        - name: Requisiti dell'evento principale
+        - name: Requisiti degli eventi principali
           href: tutorials/main-events.md
-        - name: Uso delle funzionalità di gruppo
+        - name: Uso delle funzionalità del gruppo
           href: tutorials/group-features.md
-        - name: Recupero di eventi eliminati
+        - name: Ripristino degli eventi eliminati
           href: tutorials/recovering-deleted-events.md
     - name: Eventi avanzati
       items:
@@ -59,7 +61,7 @@
           href: tutorials/web-projector-streaming.md
         - name: Console multimediale
           href: tutorials/multimedia-console.md
-        - name: Spawner con interazioni
+        - name: Spawner di elementi intervienibili
           href: tutorials/interactable-spawner.md
         - name: Teletrasporti
           href: tutorials/teleporting.md
@@ -77,7 +79,7 @@
       href: world-building/early-access.md
     - name: Programma Worlds Beta
       items:
-        - name: Edificio del mondo di base
+        - name: Costruzione del mondo di base
           items:
             - name: Creazione di contenuto
               href: community/creating-content.md
@@ -85,25 +87,25 @@
               href: world-building/world-editor-getting-started.md
             - name: Miglioramento delle prestazioni
               href: world-building/improving-performance.md
-            - name: Gestione del mondo
+            - name: Gestione dei mondi
               href: world-building/managing-worlds.md
             - name: Aggiunta di un messaggio di benvenuto
               href: world-building/adding-welcome-messages.md
             - name: Aggiunta di punti di generazione
               href: world-building/adding-custom-spawn-points.md
-            - name: Eseguire il backup dei propri mondo
+            - name: Backup dei mondi
               href: world-building/backing-up-worlds.md
-            - name: Gestione di un mondo con amici
+            - name: Gestione dei mondi con gli amici
               href: world-building/granting-roles.md
             - name: Dare capacità agli amici
               href: world-building/adding-user-abilities.md
-        - name: Advanced world building
+        - name: Advanced World Building
           items:
-            - name: World Building Toolkit (caricatore Unity)
+            - name: World Building Toolkit (Caricatore Unity)
               href: world-building/world-building-toolkit-getting-started.md
             - name: Aggiornamento del contenuto alla versione più recente di Unity
               href: world-building/upgrading-content-to-the-latest-unity.md
-            - name: Guida all'ottimizzazione delle prestazioni per dispositivi mobili
+            - name: Guida all'ottimizzazione delle prestazioni dei dispositivi mobili
               href: world-building/unity-mobile-performance-guide.md
             - name: Uso delle estensioni di realtà mista
               href: world-building/using-mixed-reality-extensions.md
@@ -121,9 +123,9 @@
               href: world-building/getting-help.md
 - name: Regole & standard
   items:
-    - name: Condizioni per l'utilizzo del servizio
+    - name: Condizioni per il servizio
       href: community/terms-of-service.md
-    - name: Standard della community
+    - name: Community standard
       href: community/community-standards.md
 - name: Risoluzione dei problemi e supporto
   items:
@@ -133,31 +135,31 @@
           items:
             - name: Il visore VR ha un microfono incorporato?
               href: faqs/vr-headset-mic.md
-            - name: È presente un pulsante di push per parlare?
+            - name: È presente un pulsante push-to-talk?
               href: faqs/push-to-talk.md
-            - name: L'audio è molto azzarto
+            - name: L'audio è sconscioso
               href: faqs/choppy-audio.md
-            - name: Altri utenti non possono ascoltare l'utente
+            - name: Altri utenti non possono sentirmi
               href: faqs/other-users-cant-hear-me.md
         - name: Avatar & account
           items:
-            - name: Come funzionano i nametag?
+            - name: Come funzionano i tag dei nomi?
               href: faqs/nametags.md
             - name: Ricerca per categorie modificare le informazioni sull'account?
               href: faqs/updating-email-address.md
             - name: Ricerca per categorie scollegare e ricollegare l'account?
               href: faqs/unlinking-and-relinking-accounts.md
-        - name: AltspaceVR - applicazione
+        - name: Applicazione AltspaceVR
           items:
-            - name: Ricerca per categorie trovare la versione dell'app AltspaceVR?
+            - name: Ricerca per categorie la versione dell'app AltspaceVR?
               href: faqs/app-version.md
-            - name: Ricerca per categorie i log del client?
+            - name: Ricerca per categorie i log client?
               href: faqs/uploading-client-logs.md
             - name: Non è possibile avviare AltspaceVR
               href: faqs/unable-to-launch.md
         - name: Sicurezza & integrità
           items:
-            - name: AltspaceVR causerà problemi di movimento?
+            - name: AltspaceVR causerà un mal di movimento?
               href: faqs/motion-sickness.md
         - name: Eventi
           items:
@@ -169,5 +171,5 @@
       href: community/open-support-ticket.md
     - name: Richieste di funzionalità
       href: community/feature-requests.md
-    - name: Compilare report sugli abusi
+    - name: Compilare report di abuso
       href: community/filing-abuse-reports.md
