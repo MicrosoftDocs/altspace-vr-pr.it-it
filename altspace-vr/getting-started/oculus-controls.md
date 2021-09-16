@@ -1,21 +1,23 @@
 ---
 title: Controlli e autorizzazioni di Oculus Quest/Quest 2
 description: Informazioni sui controlli di base per i dispositivi Oculus Quest e Quest 2, sulla gestione delle autorizzazioni e sull'uso dei movimenti della mano.
-ms.date: 03/11/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: oculus, oculus quest, controlli, autorizzazioni, movimenti della mano
-ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 5c74ddaee54e1319d80cf270d291575bbae7219c
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127862"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871158"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Controlli e autorizzazioni di Oculus Quest/Quest 2
 
 ## <a name="basic-controls"></a>Controlli di base
 
-<!-- Missing images -->
+<img src="images/quest2-controls.png" alt="Oculus Quest/Quest 2 controls">
 
 | Mano sinistra | Mano destra |
 |---|---|
@@ -29,6 +31,8 @@ ms.locfileid: "119127862"
 
 ## <a name="hand-gestures"></a>Movimenti della mano
 
+<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
+
 | Movimento | Input |
 |---|---|
 | Inattivi | Posizione predefinita |
@@ -37,8 +41,6 @@ ms.locfileid: "119127862"
 | Pugno | Pulsanti a controllo, trigger e A/X mantenuti |
 
 ## <a name="managing-permissions"></a>Gestione delle autorizzazioni
-
-<!-- Missing image -->
 
 Per gestire le autorizzazioni per Oculus Quest in base all'app dalla libreria Oculus:
 

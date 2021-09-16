@@ -1,39 +1,41 @@
 ---
 title: Controlli Avatar con mouse/tastiera in modalità PC 2D
-description: Informazioni su come passare da uno schema di controllo nuovo a uno classico per spostare gli avatar con il mouse e la tastiera in modalità PC 2D.
-ms.date: 02/10/2021
+description: Informazioni su come passare tra schemi di controllo nuovi e classici per spostare gli avatar con il mouse e la tastiera in modalità PC 2D.
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: avatar, mouse, tastiera, 2d, modalità PC, controlli
-ms.openlocfilehash: 670cd05bdcaa63b3a0c6ff772bef0e9f7d05bb3c3ba795d104bf5d857401a848
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127999"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871235"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Controlli Avatar con mouse/tastiera in modalità PC 2D
 
-Esistono due diversi schemi di controllo per la modalità PC 2D usando un mouse e una tastiera:
-* Nuovi controlli PC, che è l'impostazione predefinita per i nuovi account
+Esistono due diversi schemi di controllo per la modalità PC 2D che usano mouse e tastiera:
+* Nuovi controlli PC, ovvero l'impostazione predefinita per i nuovi account
 * Controlli PC classici
 
-È possibile passare da Controlli nuovi/classici a **Menu > Impostazioni > Input > controlli PC classici** e attivare o disattivare l'opzione.
+È possibile passare da Controlli nuovi/classici a Menu **> Impostazioni > Input > Controlli PC** classici e attivare o disattivare l'opzione.
 
 ## <a name="new-pc-controls"></a>Nuovi controlli PC
 
-Sono disponibili due modalità diverse quando si usano i controlli Nuovo PC: Modalità cursore e Modalità aspetto. Fare clic con il pulsante destro del mouse o sul portatile per usare l'interruttore **Cursore/Aspetto** per alternare le due modalità.
+Quando si usano i controlli Nuovo PC sono disponibili due modalità diverse: Modalità cursore e Modalità aspetto. Fare clic con il pulsante destro del mouse o sul portatile per usare l'interruttore **Cursore/Aspetto** per passare da una modalità all'altra.
 
-* **La modalità** cursore consente di interagire con i menu. Si saprà di essere in modalità cursore quando viene visualizzato il pulsante AltspaceVR Logo/Menu nella parte inferiore sinistra della visualizzazione:
+* **La modalità** cursore consente di interagire con i menu. Quando viene visualizzato il pulsante AltspaceVR Logo/Menu nella parte inferiore sinistra della visualizzazione, è possibile sapere di essere in modalità cursore:
 
-![Modalità cursore con menu](images/avatar-controls-img-01.png)
+    ![Modalità cursore con menu](images/avatar-controls-img-01.png)
 
-* **La modalità Look** consente di guardarsi intorno ed è ideale se si usa un trackpad per laptop. È possibile usare la modalità Look e la tastiera per cercare/spostare contemporaneamente. Si saprà di essere in modalità Look se in basso a sinistra la visualizzazione è simile allo screenshot seguente:
+* **La modalità** look consente di guardarsi attorno ed è ideale se si usa un trackpad portatile. È possibile usare la modalità look e la tastiera per guardare/spostare contemporaneamente. Si saprà che si è in modalità aspetto se in basso a sinistra la visualizzazione è simile allo screenshot seguente:
 
-![Modalità di visualizzazione](images/avatar-controls-img-02.png)
+    ![Modalità look](images/avatar-controls-img-02.png)
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>Nuovi controlli PC per tastiera/mouse
 
-![Tastiera e mouse con mapping di input](images/avatar-controls-img-03.png)
+<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
 
 ## <a name="classic-pc-controls"></a>Controlli PC classici 
 
@@ -43,18 +45,18 @@ Sono disponibili due modalità diverse quando si usano i controlli Nuovo PC: Mod
 
 | Input | Azione |
 |---|---|
-| A sinistra fare clic su | Teletrasporto nella località di destinazione |
-| Tenere premuto il pulsante sinistro del mouse | Anteprima della località di destinazione |
-| Clic centrale | Andare avanti |
-| Fare clic con il pulsante destro del mouse su + Sposta mouse | Ruota/Panoramica della fotocamera per guardarsi intorno |
-| Fare clic con il pulsante destro del mouse su + Rotellina centrale in avanti/indietro | Zoom avanti/indietro della fotocamera |
+| A sinistra fare clic su | Teletrasporto nella posizione di destinazione |
+| Tenere premuto il pulsante sinistro del mouse | Anteprima del percorso di destinazione |
+| Clic al centro | Sposta avanti |
+| Clic con il pulsante destro del mouse + Spostamento del mouse | Ruotare/eseguire la panoramica della fotocamera per guardarsi attorno |
+| Fare clic con il pulsante destro del mouse su + Rotellina centrale e scorrere avanti/indietro | Zoom avanti/indietro della fotocamera |
 
 **Opzioni di menu**
 
 | Input | Azione |
 |---|---|
-| Clic sinistro (sopra i pulsanti) | Pulsante Seleziona |
-| Tenere premuto il pulsante sinistro del mouse e fare clic con il pulsante destro del mouse | Nascondi il menu AltspaceVR |
+| Clic con il pulsante sinistro (sopra i pulsanti) | Pulsante Seleziona |
+| Tenere premuto il pulsante sinistro del mouse e fare clic con il pulsante destro del mouse | Nascondi menu ALTSPACEVR |
 
 ### <a name="keyboard-controls"></a>Controlli tastiera
 
@@ -62,11 +64,11 @@ Sono disponibili due modalità diverse quando si usano i controlli Nuovo PC: Mod
 
 | Azione | Chiave | Chiave alternativa |
 |---|---|---|
-| Andare avanti | W | Freccia in su |
-| Spostarsi all'indietro | S | Freccia GIÙ |
-| Strafe a sinistra | A | N/A |
-| Diritto di strafe | D | N/A |
-| Eseguire l'inoltro | MAIUSC+W | MAIUSC+freccia SU |
+| Sposta avanti | W | Freccia in su |
+| Sposta indietro | S | Freccia GIÙ |
+| Strafe left | A | N/A |
+| Strafe right | D | N/A |
+| Esegui in avanti | MAIUSC+W | MAIUSC+freccia SU |
 | Eseguire all'indietro | MAIUSC+S | MAIUSC+freccia GIÙ |
 | Esegui a sinistra | MAIUSC+A | N/A |
 | Esegui a destra | MAIUSC+D | N/A |
@@ -77,6 +79,6 @@ Sono disponibili due modalità diverse quando si usano i controlli Nuovo PC: Mod
 
 | Azione | Chiave | Chiave alternativa |
 |---|---|---|
-| Attivare/disattivare il menu | ESC | N/A |
-| Attivare/disattivare lo schermo intero dell'app | ALT+INVIO | N/A |
-| Attivare/disattivare il microfono | BARRA SPAZIATRICE | CTRL+ALT+T |
+| Attiva/Disattiva menu | ESC | N/A |
+| Attivare/disattivare l'app a schermo intero | ALT+INVIO | N/A |
+| Attiva/Disattiva microfono | BARRA SPAZIATRICE | CTRL+ALT+T |
