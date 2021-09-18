@@ -6,20 +6,18 @@ author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: xbox, xbox 360, game pad, windows, controlli
-ms.openlocfilehash: 95a880c91ee687405dbe839b3e8a73d8c016171a
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: f243c5941eccbe1e29dd6b2cd9d56bfd0e88491e
+ms.sourcegitcommit: acafe8e6bf1520c64d3562dcf1e904764152da2e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871303"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127960250"
 ---
 # <a name="using-a-gamepad-in-altspacevr"></a>Uso di un game pad in AltspaceVR
 
-AltspaceVR include il supporto del game pad incorporato per Windows e riconosce automaticamente Xbox 360 controller. I controlli VR vengono mappati Xbox 360 game pad, inclusi il sistema di teletrasporto, il controllo del cursore del mouse e lo scorrimento della pagina. Di seguito è riportato un elenco completo dei controlli e del mapping delle azioni.
+AltspaceVR include il supporto del game pad incorporato per Windows e riconosce automaticamente Xbox 360 controller. I controlli VR vengono mappati Xbox 360 game pad, tra cui il sistema di teletrasporto, il controllo del cursore del mouse e lo scorrimento della pagina. Di seguito è riportato un elenco completo dei controlli e del mapping delle azioni.
 
-## <a name="gamepad-controls"></a>Controlli del game pad
-
-<img src="images/altspacevr-xbox-controls.png" alt="Gamepad controls">
+## <a name="gamepad-controls"></a>Controlli game pad
 
 | Input | Azione |
 |---|---|
@@ -31,4 +29,4 @@ AltspaceVR include il supporto del game pad incorporato per Windows e riconosce 
 | Pulsante dorsale sinistro | Rotazione "Modalità comfort" a sinistra |
 | Pulsante A | Seleziona |
 | Pulsante Avvia | Mostra/Nascondi barra delle azioni |
-| D pad | Scorrimento di pagine Web |
+| D pad | Scorrimento della pagina Web |
