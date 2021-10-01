@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Benvenuti in AltspaceVR.
-summary: Esplora il mondo in espansione degli eventi VR con AltspaceVR.
+summary: Esplora il mondo in espansione degli eventi di realtà virtuale con AltspaceVR.
 brand: windows
 metadata:
   title: Benvenuti in AltspaceVR.
-  description: Esplora il mondo in espansione degli eventi VR con AltspaceVR.
+  description: Esplora il mondo in espansione degli eventi di realtà virtuale con AltspaceVR.
   services: mixed-reality
   ms.service: mixed-reality
   ms.topic: hub-page
@@ -13,16 +13,16 @@ metadata:
   ms.date: 02/10/2021
 highlightedContent:
   items:
-    - title: Guida introduttiva
+    - title: Introduzione
       itemType: get-started
-      url: journey.md
+      url: overview.md
     - title: Individuare il contenuto & persone
       itemType: overview
       url: community/exploring-title-screen.md
     - title: Creazione di eventi
       itemType: how-to-guide
       url: tutorials/creating-an-event.md
-    - title: Creazione di mondi
+    - title: Creazione di un mondo
       itemType: learn
       url: world-building/world-editor-getting-started.md
     - title: Accesso anticipato
@@ -30,7 +30,7 @@ highlightedContent:
       url: world-building/early-access.md
     - title: Risoluzione dei problemi
       itemType: reference
-      url: faqs/vr-headset-mic.md
+      url: faqs/audio-faq.md
 productDirectory:
   title: Introduzione
   summary: 'Usare AltspaceVR per ospitare eventi, creare ambienti virtuali e interagire con utenti e community remoti in tutto il mondo.'
@@ -54,26 +54,26 @@ productDirectory:
         - url: tutorials/creating-an-event.md
           text: Creazione di un evento
         - url: getting-started/roles.md
-          text: 'Ruoli in eventi, mondi e gruppi'
+          text: 'Ruoli in eventi, mondo e gruppi'
         - url: tutorials/main-events.md
           text: Requisiti per gli eventi
         - url: faqs/scaling-audiences.md
           text: Ridimensionamento dei destinatari
         - url: tutorials/multimedia-console.md
-          text: Uso della console multimediale
+          text: Uso della console Multimediali
         - url: tutorials/host-tools-overview.md
           text: Panoramica degli strumenti host
-    - title: Creazione di un mondo
+    - title: Edificio mondiale
       imageSrc: images/icon-worlds.png
       links:
         - url: world-building/world-editor-getting-started.md
-          text: Esplorare l'editor del mondo
+          text: Esplorare World Editor
         - url: world-building/managing-worlds.md
-          text: Gestione dei mondi
+          text: Gestione di un mondo
         - url: world-building/adding-custom-spawn-points.md
           text: Aggiunta di punti di generazione
         - url: world-building/adding-user-abilities.md
-          text: Fornire agli utenti le capacità
+          text: Offrire agli utenti le capacità
         - url: world-building/world-building-toolkit-getting-started.md
           text: World Building Toolkit
         - url: world-building/using-mixed-reality-extensions.md
@@ -85,7 +85,7 @@ additionalContent:
       items:
         - title: Community
           links:
-            - text: Sottoscrivere la newsletter
+            - text: Iscriversi alla newsletter
               url: community/newsletter-subscriptions.md
             - text: Community helper
               url: community/community-helper-program.md
@@ -94,13 +94,13 @@ additionalContent:
         - title: Risoluzione dei problemi e supporto
           links:
             - text: Problemi audio
-              url: faqs/vr-headset-mic.md
+              url: faqs/audio-faq.md
             - text: Account e avatar
-              url: faqs/nametags.md
+              url: faqs/account-avatar-faq.md
             - text: Applicazione AltspaceVR
-              url: faqs/app-version.md
+              url: faqs/altspacevr-app-faq.md
             - text: Sicurezza & integrità
-              url: faqs/motion-sickness.md
+              url: faqs/health-safety-faq.md
             - text: Eventi
               url: faqs/front-row-events.md
         - title: Contatti
@@ -109,5 +109,5 @@ additionalContent:
               url: community/open-support-ticket.md
             - text: Richieste di funzionalità
               url: community/feature-requests.md
-            - text: Compilare report di abuso
+            - text: Compilare report sugli abusi
               url: community/filing-abuse-reports.md

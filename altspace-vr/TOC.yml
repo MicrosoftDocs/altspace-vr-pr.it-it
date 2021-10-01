@@ -4,7 +4,7 @@
   href: overview.md
 - name: Esplorazione di AltspaceVR
   href: journey.md
-- name: Guida introduttiva
+- name: Introduzione
   expanded: true
   items:
     - name: Requisiti di sistema
@@ -21,7 +21,7 @@
           href: getting-started/wmr-controls.md
         - name: Controlli Oculus Quest/Quest 2
           href: getting-started/oculus-controls.md
-        - name: Scelte rapide da tastiera
+        - name: Tasti di scelta rapida
           href: getting-started/keyboard-shortcuts.md
         - name: Controllo degli avatar con mouse/tastiera in modalità PC 2D
           href: getting-started/avatar-controls.md
@@ -47,7 +47,7 @@
           href: tutorials/creating-an-event.md
         - name: 'Ruoli in eventi, mondi, gruppi e AltspaceVR'
           href: getting-started/roles.md
-        - name: Requisiti degli eventi principali
+        - name: Requisiti dell'evento principale
           href: tutorials/main-events.md
         - name: Uso delle funzionalità del gruppo
           href: tutorials/group-features.md
@@ -127,44 +127,18 @@
       href: community/terms-of-service.md
     - name: Community standard
       href: community/community-standards.md
-- name: Risoluzione dei problemi e supporto
+- name: Domande frequenti sulla risoluzione & supporto tecnico
   items:
-    - name: Domande frequenti
-      items:
-        - name: Audio
-          items:
-            - name: Il visore VR ha un microfono incorporato?
-              href: faqs/vr-headset-mic.md
-            - name: È presente un pulsante push-to-talk?
-              href: faqs/push-to-talk.md
-            - name: L'audio è sconscioso
-              href: faqs/choppy-audio.md
-            - name: Altri utenti non possono sentirmi
-              href: faqs/other-users-cant-hear-me.md
-        - name: Avatar & account
-          items:
-            - name: Come funzionano i tag dei nomi?
-              href: faqs/nametags.md
-            - name: Ricerca per categorie modificare le informazioni sull'account?
-              href: faqs/updating-email-address.md
-            - name: Ricerca per categorie scollegare e ricollegare l'account?
-              href: faqs/unlinking-and-relinking-accounts.md
-        - name: Applicazione AltspaceVR
-          items:
-            - name: Ricerca per categorie la versione dell'app AltspaceVR?
-              href: faqs/app-version.md
-            - name: Ricerca per categorie i log client?
-              href: faqs/uploading-client-logs.md
-            - name: Non è possibile avviare AltspaceVR
-              href: faqs/unable-to-launch.md
-        - name: Sicurezza & integrità
-          items:
-            - name: AltspaceVR causerà un mal di movimento?
-              href: faqs/motion-sickness.md
-        - name: Eventi
-          items:
-            - name: Che cosa sono gli eventi FrontRow?
-              href: faqs/front-row-events.md
+    - name: Problemi audio
+      href: faqs/audio-faq.md
+    - name: Avatar & account
+      href: faqs/account-avatar-faq.md
+    - name: Applicazione AltspaceVR
+      href: faqs/altspacevr-app-faq.md
+    - name: Sicurezza & integrità
+      href: faqs/health-safety-faq.md
+    - name: Eventi FrontRow
+      href: faqs/front-row-events.md
 - name: Contatti
   items:
     - name: Supporto
