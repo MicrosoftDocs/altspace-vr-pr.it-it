@@ -1,17 +1,17 @@
 ---
 title: Controlli Avatar con mouse/tastiera in modalità PC 2D
 description: Informazioni su come passare tra schemi di controllo nuovi e classici per spostare gli avatar con il mouse e la tastiera in modalità PC 2D.
-ms.date: 9/14/2021
+ms.date: 10/4/2021
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: avatar, mouse, tastiera, 2d, modalità PC, controlli
-ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: bacaf5e267ab28cc410b5659a34273b12ad36be5
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871235"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446305"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Controlli Avatar con mouse/tastiera in modalità PC 2D
 
@@ -19,11 +19,11 @@ Esistono due diversi schemi di controllo per la modalità PC 2D che usano mouse 
 * Nuovi controlli PC, ovvero l'impostazione predefinita per i nuovi account
 * Controlli PC classici
 
-È possibile passare da Controlli nuovi/classici a Menu **> Impostazioni > Input > Controlli PC** classici e attivare o disattivare l'opzione.
+È possibile passare da Controlli nuovi/classici a Menu > Impostazioni > Input > **Controlli PC** classici e attivare o disattivare l'opzione.
 
 ## <a name="new-pc-controls"></a>Nuovi controlli PC
 
-Quando si usano i controlli Nuovo PC sono disponibili due modalità diverse: Modalità cursore e Modalità aspetto. Fare clic con il pulsante destro del mouse o sul portatile per usare l'interruttore **Cursore/Aspetto** per passare da una modalità all'altra.
+Quando si usano i controlli Nuovo PC, sono disponibili due modalità diverse: modalità cursore e modalità aspetto. Fare clic con il pulsante destro del mouse o sul portatile per usare l'interruttore **Cursore/Aspetto** per passare da una modalità all'altra.
 
 * **La modalità** cursore consente di interagire con i menu. Quando viene visualizzato il pulsante AltspaceVR Logo/Menu nella parte inferiore sinistra della visualizzazione, è possibile sapere di essere in modalità cursore:
 
@@ -35,7 +35,7 @@ Quando si usano i controlli Nuovo PC sono disponibili due modalità diverse: Mod
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>Nuovi controlli PC per tastiera/mouse
 
-<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
+![Tastiera e mouse con mapping di input](images/keyboard-mouse-controls.svg)
 
 ## <a name="classic-pc-controls"></a>Controlli PC classici 
 
@@ -46,7 +46,7 @@ Quando si usano i controlli Nuovo PC sono disponibili due modalità diverse: Mod
 | Input | Azione |
 |---|---|
 | A sinistra fare clic su | Teletrasporto nella posizione di destinazione |
-| Tenere premuto il pulsante sinistro del mouse | Anteprima del percorso di destinazione |
+| Tenere premuto il pulsante sinistro del mouse | Anteprima della posizione di destinazione |
 | Clic al centro | Sposta avanti |
 | Clic con il pulsante destro del mouse + Spostamento del mouse | Ruotare/eseguire la panoramica della fotocamera per guardarsi attorno |
 | Fare clic con il pulsante destro del mouse su + Rotellina centrale e scorrere avanti/indietro | Zoom avanti/indietro della fotocamera |

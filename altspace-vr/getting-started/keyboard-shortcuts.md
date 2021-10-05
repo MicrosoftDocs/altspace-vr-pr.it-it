@@ -6,16 +6,16 @@ author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: tastiera, tasti di scelta rapida
-ms.openlocfilehash: b994590583fb6eea4141598febce40510ae77fb8
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: 75255a54efec0099a27faf6b4aa6c5fc4c8ae7cd
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871270"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446203"
 ---
 # <a name="keyboard-shortcuts"></a>Tasti di scelta rapida
 
-<img src="images\keyboard-shortcuts.png" alt="Keyboard shortcuts">
+![Tasti di scelta rapida](images\keyboard-shortcuts.svg)
 
 | Chiave | Azione |
 |---|---|
@@ -29,5 +29,5 @@ ms.locfileid: "127871270"
 | CTRL+ALT+T o BARRA SPAZIATRICE | Attiva/Disattiva disattivazione audio |
 | CTRL+ALT+BARRA SPAZIATRICE | Aprire la riga di comando, digitare "help" per le opzioni |
 | CTRL+ALT+N | Jimmy Cam per la modalità VR |
-| CTRL+ALT+K | Attivare/disattivare l'opzione "Disattiva audio quando AltspaceVR è inattivo" |
+| CTRL+ALT+K | Attivare/disattivare l'opzione "Disattiva quando AltspaceVR è inattivo" |
 | CTRL+ALT+X | Attivare/disattivare la modalità di modifica dell'editor mondo |
