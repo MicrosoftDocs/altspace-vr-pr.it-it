@@ -4,16 +4,16 @@ description: Rimanere aggiornati sui requisiti di sistema più recenti per Altsp
 ms.date: 06/03/2021
 ms.topic: article
 keywords: requisiti, schermi montati con la testa, oculus rift, vive, modalità windows 2d
-ms.openlocfilehash: 7783d2c6e1acbbc48c4b0ca63d26c58c107f48559fc9d0fe7d88156a1d6762f9
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1a43574c0c88dbceea77cd9191797e7d9f6c96f7
+ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127556"
+ms.lasthandoff: 10/25/2021
+ms.locfileid: "130298769"
 ---
 # <a name="minimum-system-requirements"></a>Requisiti minimi di sistema
 
-È consigliabile usare i profili di sistema minimi riportati di seguito per ottenere l'esperienza altspaceVR completa. AltspaceVR supporta attualmente i seguenti schermi montati con la testa:
+Per ottenere l'esperienza altspaceVR completa, è consigliabile usare i profili di sistema minimi riportati di seguito. AltspaceVR supporta i seguenti schermi montati con la testa:
 
 * Oculus Rift CV1
 * PIÙ VIVE Vive
@@ -54,3 +54,5 @@ ms.locfileid: "119127556"
 
 > [!NOTE]
 > Gli eventi con molti flussi video possono richiedere una maggiore larghezza di banda.
+
+<!-- test1 101921 -->

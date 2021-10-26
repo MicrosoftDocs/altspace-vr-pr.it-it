@@ -103,8 +103,8 @@
           items:
             - name: World Building Toolkit (Caricatore Unity)
               href: world-building/world-building-toolkit-getting-started.md
-            - name: Aggiornamento del contenuto alla versione più recente di Unity
-              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: Aggiornamento di progetti Unity vecchi
+              href: world-building/upgrading-old-unity-projects.md
             - name: Guida all'ottimizzazione delle prestazioni dei dispositivi mobili
               href: world-building/unity-mobile-performance-guide.md
             - name: Uso delle estensioni di realtà mista
